@@ -87,6 +87,8 @@ STYLE:
   - [Braycall Ridge](#braycall-ridge-syndicate-stronghold) | [Aurel's Reach](#aurels-reach-brotherhood-hub) | [Thistleshade](#thistleshade-assembly-stronghold) | [Ashlight Monastery](#ashlight-monastery-church-enclave) | [Nettlehook](#nettlehook-black-market-free-port---nightweb-presence)
 - [Key Locations and Ruins](#key-locations-and-ruins)
 - [Failed Settlements](#failed-settlements-remnants-to-discover) — Pale Colonies | Flame Disciples | Silent Trade Enclave | The Fledges
+- [Aetherion](#aetherion)
+- [Nerathis](#nerathis)
 
 ### [Part VI: Lore & Background](#part-vi-lore--background)
 - [Relics](#relics) — [Relic Types](#relic-types)
@@ -120,6 +122,9 @@ STYLE:
 - [Reckoning Effects Table](#reckoning-effects-table)
 - [Random Encounter Seeds](#random-encounter-seeds)
 - [Adventure Hooks](#adventure-hooks)
+
+### [Part XI: Adventures](#part-xi-adventures)
+- [Adventure 1: The Falling Star (Scarred Land)](#adventure-1-the-falling-star-scarred-land)
 
 ---
 
@@ -1221,6 +1226,72 @@ These are known on maps or in rumors but often **uncertain, shifting, or partial
 | **Cape Vaidari** | Unknown | Lighthouse | Mysterious lighthouse, [Orly](#orly)'s quest destination. Blinks three times on certain nights. | Unknown - "Sea gets hungry" |
 | **Orvane** | Modern | Underground Settlement | Mixed-race settlement powered by [The Lightspire](#the-lightspire) relic. Inhabitants are light-sensitive. | Moderate - Environmental curse |
 
+<!-- CATEGORY: LOCATION, SECRET -->
+### Aetherion
+
+**Status:** Ancient city of legend / rumor  \
+**Certainty level:** Low (by design)
+
+#### What is known (in-world)
+- Aetherion is believed to be the primary relic-forging center of the Ancients.
+- Most serious relic scholars (especially the Remnant Brotherhood) treat it as:
+  - Either real but lost, or
+  - Partially mythologized, with fragments misattributed to one place.
+- Stories consistently describe it as a place of creation, synthesis, and experimentation, not merely habitation.
+
+#### What is not known
+- Its location is not confirmed.
+- No verified expedition has ever returned with proof.
+- It may not have been a single city:
+  - Could have been a network, a moving site, or a state of being (e.g., phased, layered, or inaccessible by conventional means).
+
+#### Meta-design intent (GM truth, flexible)
+- Aetherion works best as:
+  - A knowledge attractor rather than a destination.
+  - Something players chase through partial truths, rival theories, and contradictory evidence.
+- For EFRA-7 specifically, it functions as:
+  - A north star for relic understanding.
+  - A justification for obsessive study without requiring early access.
+
+---
+
+<!-- CATEGORY: LOCATION, SECRET -->
+### Nerathis
+
+**Status:** Confirmed site of interest  \
+**Certainty level:** Medium–High
+
+#### What is known (in-world)
+- Nerathis is a recently discovered ancient site, located beneath the sea.
+- It is enclosed within a massive, stable, translucent “bubble” that:
+  - Holds back the ocean.
+  - Has resisted all known attempts at breach or manipulation.
+- The structure of the city is visible through the barrier:
+  - Streets, towers, and large architectural forms are clearly artificial.
+  - The city appears intact, not ruined by collapse or erosion.
+
+#### What is strange / disturbing
+- No confirmed entrances.
+- No clear signs of habitation or destruction.
+- Magical and relic-based probing yields:
+  - Inconsistent readings.
+  - Echoes that suggest activity without motion or time without flow.
+
+#### Faction interest
+- **Remnant Brotherhood:** Obsessed. Nerathis is their strongest piece of hard evidence that the Ancients did not simply vanish.
+- **Ironbound Syndicate:** Interested, but frustrated. No access = no profit (yet).
+- **Veiled Assembly:** Deeply uneasy. Nerathis violates their understanding of the island’s “natural” state.
+- **Church of the Eternal Flame:** Publicly neutral, privately anxious. The bubble is often interpreted as heretical preservation.
+
+#### Meta-design intent
+- Nerathis is the opposite pole of Aetherion:
+  - Aetherion = rumored creation.
+  - Nerathis = visible preservation.
+- It is ideal for:
+  - Long-term tension.
+  - Moral questions about should vs can.
+  - A place players actively choose to avoid (as Frogulus does) without railroading.
+
 ### Orvane
 
 <!-- CATEGORY: LOCATION, HOOK -->
@@ -1720,6 +1791,24 @@ Not a creature in the traditional sense--a [Relic](#relics)-like column that "cr
 **Behavior**: Passive until [Relics](#relics) are disturbed. Then relentless.
 **Lore**: May be [Precursor](#ancestors--the-precursors) constructs. No two look alike.
 
+<!-- CATEGORY: CREATURE, MECHANIC -->
+### Swarm of Lesser Chaos Elementals (Horde)
+
+SWARM OF LESSER CHAOS ELEMENTALS
+Tier 1 Horde
+A storm of handspan “shards” of chaos—fractured off a larger elemental or born from the Scarred Land’s pressure.
+Motives & Tactics: Confound, swarm, destabilize, draw attention toward the crater
+
+Difficulty: 12 | Thresholds: 5/11 | HP: 4 | Stress: 3
+ATK: +1 | Fractal Lash: Close | 1d6+2 mag
+
+FEATURES
+Horde (1d4+1) - Passive: When the Swarm has marked half or more of their HP, their standard attack deals 1d4+1 magic damage instead.
+
+Unstable Cohesion - Reaction: When the Swarm takes magic damage, you can mark a Stress to make an immediate standard attack against the attacker (if they’re within Close range).
+
+Related to Minor Chaos Elemental: the Swarm can be the elemental’s “shed sparks” or a premature formation that precedes the full manifestation.
+
 ---
 
 ## The Unknowable
@@ -1854,36 +1943,41 @@ All named characters in Tharros, from faction leaders to everyday people. Major 
 
 | Name | Type | Sex | Species | Nationality | Ethnicity/Culture | Community | Faction | Location | Role/Occupation | Description/Fun Fact |
 | ---- | ---- | --- | ------- | ----------- | ---------------- | --------- | ------- | -------- | --------------- | -------------------- |
-| **[Sunstorm](#sunstorm)** | PC | M | Katari | — | Caravan Katari | Wayfinder caravan | [Assembly](#the-veiled-assembly) (loosely) | Nomadic | Katari Ranger/Wayfinder | 3' tall orange tabby; hunting the [Cinnamon Beast](#the-cinnamon-beast) |
-| **[EFRA-7](#efra-7)** | PC | M | Clank | — | — | Wandering construct | Seeks [Brotherhood](#the-remnant-brotherhood) | [Orvane](#orvane) | Clank Wizard construct | Seeks energy source to free [Orvane](#orvane) from [Lightspire](#the-lightspire) curse |
-| **[Orly](#orly)** | PC | M | Galapa | Galari Shoals | Shoals Galapa | Lost coastal village | Unaligned | Shipwreck survivor | [Galapa](#galapa) protector | Carries [The Carved Box](#the-carved-box) to [Cape Vaidari](#cape-vaidari) |
-| **[Cordyceps](#cordyceps)** | PC | M | Elf (Transformed) | — | Forest-elf enclave | Exiled outcast | Unaligned | Exiled | Wanderer (self-healing) | Suppresses forest corruption within own body |
-| **[Frogulus](#frogulus)** | PC | M | Giant-frog (Giant/Ribbet) | Tharros | Ribbet poolhold | Nettlehook dockside | Unaligned; Anti-[Syndicate](#the-ironbound-syndicate); Pro-[Church](#the-church-of-the-eternal-flame-minor-faction) | [Nettlehook](#nettlehook-black-market-free-port---nightweb-presence) | Giant-frog warrior | Displaced by Syndicate "progress"; found Orly washed ashore |
-| **[Magnate Theron](#magnate-theron)** | Major | M | Human | Virelia | Serenei | Virelian industrial elite | [Syndicate](#the-ironbound-syndicate) | [Braycall Ridge](#braycall-ridge-syndicate-stronghold) | Syndicate Leader | "We didn't come here to pray--we came to build" |
-| **[High Archivist Alaric](#high-archivist-alaric)** | Major | M | Human | Myrrhun | Tharain | Brotherhood senior scholars | [Brotherhood](#the-remnant-brotherhood) | [Aurel's Reach](#aurels-reach-brotherhood-hub) | Brotherhood Leader | From [Myrrhun](#myrrhun-cradle-of-arcane-studies-mountainous-interior); "We are here to remember" |
-| **[Maera](#maera)** | Major | F | Human | Virelia | Serenei | Assembly leadership | [Assembly](#the-veiled-assembly) | [Thistleshade](#thistleshade-assembly-stronghold) | Assembly Voice | Defector; "The island called me" |
-| **[Priest-Ambassador Elyna](#priest-ambassador-elyna)** | Major | F | Human | Arvelorn | Arvelorn | Church hierarchy | [Church](#the-church-of-the-eternal-flame) | [Ashlight Monastery](#ashlight-monastery-church-enclave) | Church Leader | From [Arvelorn](#arvelorn); tired eyes, voice calms storms |
-| **[Whisper](#whisper)** | Major | ? | Unknown | Unknown | Unknown | Nightweb | [Nightweb](#the-shard--nightweb-minor-faction) | Unknown | Nightweb Leader(s) | Identity unconfirmed; may be title, not person |
-| Gregor | Minor | M | Human | Korralt | Panthyr | Braycall mill workers | Pro-[Syndicate](#the-ironbound-syndicate) | [Braycall Ridge](#braycall-ridge-syndicate-stronghold) | Mill foreman | Believes in "progress through hard work" |
-| Daro | Minor | M | Human | Virelia | Serenei | Marrowhold tavern crowd | Pro-[Syndicate](#the-ironbound-syndicate) | [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core) | Tavern regular | Sister got prosthetic leg from Syndicate |
-| Old Lenne | Minor | F | Human | Skaldmere | Nordahr | Retired miners | Anti-[Syndicate](#the-ironbound-syndicate) | Unknown | Retired miner | "They take more than they give" |
-| Calia | Minor | F | Human | Korralt | Panthyr | Interior guides | [Brotherhood](#the-remnant-brotherhood)-adjacent | Tharros interior | Local guide | Worked multiple Brotherhood expeditions |
-| Miran | Minor | M | Human | Virelia | Serenei | Displaced settlers | Anti-[Brotherhood](#the-remnant-brotherhood) | Former homestead | Displaced settler | Lost home to excavation claim |
-| Tarel | Minor | M | Galapa | Galari Shoals | Shoals Galapa | Northern coast fishers | [Brotherhood](#the-remnant-brotherhood)-adjacent | Northern coast | Fisher | Works with survey crews for pay |
-| Bennet | Minor | M | Human | Myrrhun | Tharain | Aurel's Reach scholars | Anti-[Brotherhood](#the-remnant-brotherhood) | [Aurel's Reach](#aurels-reach-brotherhood-hub) area | Scholar | Denied access to research |
-| Nina | Minor | F | Human | Virelia | Serenei | Merchant widows | Pro-[Brotherhood](#the-remnant-brotherhood) | Unknown | Merchant widow | Child received Brotherhood education |
-| Rhea | Minor | F | Drakona | Veskar Wards | Veskar | Thistleshade herbalists | [Assembly](#the-veiled-assembly) | [Thistleshade](#thistleshade-assembly-stronghold) | Herbalist | Critical of environmental exploitation |
-| Yarin | Minor | M | Human | Kaelthen | Kaelthen | Border farmers | [Assembly](#the-veiled-assembly) sympathizer | [Marrowwood](#marrowwood) border | Farmer | Quiet Assembly supporter |
-| Ilso | Minor | M | Human | Korralt | Panthyr | Refugee survivors | Anti-[Assembly](#the-veiled-assembly) | Abandoned hamlet | Refugee | Witnessed Assembly methods firsthand |
+| Sunstorm | PC | M | Katari | — | Caravan Katari | Wayfinder caravan | Assembly (loosely) | Nomadic | Katari Ranger/Wayfinder | 3' tall orange tabby; hunting the Cinnamon Beast |
+| EFRA-7 | PC | M | Clank | — | — | Wandering construct | Seeks Brotherhood | Orvane | Clank Wizard construct | Seeks energy source to free Orvane from Lightspire curse |
+| Orly | PC | M | Galapa | Galari Shoals | Shoals Galapa | Lost coastal village | Unaligned | Shipwreck survivor | Galapa protector | Carries the Carved Box to Cape Vaidari |
+| Cordyceps | PC | M | Elf (Transformed) | — | Forest-elf enclave | Exiled outcast | Unaligned | Exiled | Wanderer (self-healing) | Suppresses forest corruption within own body |
+| Frogulus | PC | M | Giant-frog (Giant/Ribbet) | Tharros | Ribbet poolhold | Nettlehook dockside | Unaligned; Anti-Syndicate; Pro-Church | Nettlehook | Giant-frog warrior | Displaced by Syndicate "progress"; found Orly washed ashore |
+| Magnate Theron | Major | M | Human | Virelia | Serenei | Virelian industrial elite | Syndicate | Braycall Ridge | Syndicate Leader | "We didn't come here to pray--we came to build" |
+| High Archivist Alaric | Major | M | Human | Myrrhun | Tharain | Brotherhood senior scholars | Brotherhood | Aurel's Reach | Brotherhood Leader | From Myrrhun; "We are here to remember" |
+| Maera | Major | F | Human | Virelia | Serenei | Assembly leadership | Assembly | Thistleshade | Assembly Voice | Defector; "The island called me" |
+| Priest-Ambassador Elyna | Major | F | Human | Arvelorn | Arvelorn | Church hierarchy | Church of the Eternal Flame | Ashlight Monastery | Church Leader | From Arvelorn; tired eyes, voice calms storms |
+| Whisper | Major | ? | Unknown | Unknown | Unknown | Nightweb | Nightweb | Unknown | Nightweb Leader(s) | Identity unconfirmed; may be title, not person |
+| Gregor | Minor | M | Human | Korralt | Panthyr | Braycall mill workers | Pro-Syndicate | Braycall Ridge | Mill foreman | Believes in "progress through hard work" |
+| Daro | Minor | M | Human | Virelia | Serenei | Marrowhold tavern crowd | Pro-Syndicate | Marrowhold | Tavern regular | Sister got prosthetic leg from Syndicate |
+| Old Lenne | Minor | F | Human | Skaldmere | Nordahr | Retired miners | Anti-Syndicate | Unknown | Retired miner | "They take more than they give" |
+| Calia | Minor | F | Human | Korralt | Panthyr | Interior guides | Brotherhood-adjacent | Tharros interior | Local guide | Worked multiple Brotherhood expeditions |
+| Miran | Minor | M | Human | Virelia | Serenei | Displaced settlers | Anti-Brotherhood | Former homestead | Displaced settler | Lost home to excavation claim |
+| Tarel | Minor | M | Galapa | Galari Shoals | Shoals Galapa | Northern coast fishers | Brotherhood-adjacent | Northern coast | Fisher | Works with survey crews for pay |
+| Bennet | Minor | M | Human | Myrrhun | Tharain | Aurel's Reach scholars | Anti-Brotherhood | Aurel's Reach area | Scholar | Denied access to research |
+| Nina | Minor | F | Human | Virelia | Serenei | Merchant widows | Pro-Brotherhood | Unknown | Merchant widow | Child received Brotherhood education |
+| Rhea | Minor | F | Drakona | Veskar Wards | Veskar | Thistleshade herbalists | Assembly | Thistleshade | Herbalist | Critical of environmental exploitation |
+| Yarin | Minor | M | Human | Kaelthen | Kaelthen | Border farmers | Assembly sympathizer | Marrowwood border | Farmer | Quiet Assembly supporter |
+| Ilso | Minor | M | Human | Korralt | Panthyr | Refugee survivors | Anti-Assembly | Abandoned hamlet | Refugee | Witnessed Assembly methods firsthand |
 | Marda | Minor | F | Human | — | Mixed | Courier network | Neutral | Trade routes | Courier | Finds Assembly "strange but honest" |
-| Kerrik | Minor | M | Human | Myrrhun | Tharain | Disgraced assistants | Ex-[Brotherhood](#the-remnant-brotherhood) | Unknown | Former assistant | Considers Assembly stubborn but principled |
-| Orla | Minor | F | Human | Korralt | Panthyr | Outskirt settlers | [Assembly](#the-veiled-assembly)-adjacent | [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core) outskirts | Settler | Received help from Assembly midwives |
-| Verra | Minor | F | Dwarf | Korralt | Korralt Dwarven | Blacksmith family | Pro-[Church](#the-church-of-the-eternal-flame) | Unknown | Blacksmith's wife | Grateful for Church healing |
-| Sarth | Minor | M | Human | Kaelthen | Kaelthen | Former Assembly | Ex-[Assembly](#the-veiled-assembly) | Unknown | -- | Thinks Church is "too soft" |
-| Rund | Minor | M | Human | Skaldmere | Nordahr | Ashlight guards | [Church](#the-church-of-the-eternal-flame) | [Ashlight Monastery](#ashlight-monastery-church-enclave) | Reformed guard | Ex-Syndicate, now serves Priest Elyna |
-| Jara | Minor | F | Human | Arvelorn | Arvelorn | Ember's Hollow teachers | Pro-[Church](#the-church-of-the-eternal-flame) | [Ember's Hollow](#embers-hollow) | Teacher | Believes in Church convictions |
-| Hess | Minor | M | Mixed Ancestry (Human/Elf) | — | Mixed | Wandering performers | Wary of [Church](#the-church-of-the-eternal-flame) | Wandering | Bard | Has witnessed the Church's darker side |
-| Tanis | Minor | M | Infernis | Hollow Marches | Infernis | Nettlehook dockhands | [Nightweb](#the-shard--nightweb-minor-faction)-adjacent | [Nettlehook](#nettlehook-black-market-free-port---nightweb-presence) | Dockhand | Appreciates Syndicate honesty about motives |
+| Kerrik | Minor | M | Human | Myrrhun | Tharain | Disgraced assistants | Ex-Brotherhood | Unknown | Former assistant | Considers Assembly stubborn but principled |
+| Orla | Minor | F | Human | Korralt | Panthyr | Outskirt settlers | Assembly-adjacent | Marrowhold outskirts | Settler | Received help from Assembly midwives |
+| Verra | Minor | F | Dwarf | Korralt | Korralt Dwarven | Blacksmith family | Pro-Church of the Eternal Flame | Unknown | Blacksmith's wife | Grateful for Church healing |
+| Sarth | Minor | M | Human | Kaelthen | Kaelthen | Former Assembly | Ex-Assembly | Unknown | -- | Thinks Church is "too soft" |
+| Rund | Minor | M | Human | Skaldmere | Nordahr | Ashlight guards | Church of the Eternal Flame | Ashlight Monastery | Reformed guard | Ex-Syndicate, now serves Priest Elyna |
+| Jara | Minor | F | Human | Arvelorn | Arvelorn | Ember's Hollow teachers | Pro-Church of the Eternal Flame | Ember's Hollow | Teacher | Believes in Church convictions |
+| Hess | Minor | M | Mixed Ancestry (Human/Elf) | — | Mixed | Wandering performers | Wary of Church of the Eternal Flame | Wandering | Bard | Has witnessed the Church's darker side |
+| Tanis | Minor | M | Infernis | Hollow Marches | Infernis | Nettlehook dockhands | Nightweb-adjacent | Nettlehook | Dockhand | Appreciates Syndicate honesty about motives |
+| Nikolos Veyre | Minor | M | Human | Myrrhun | Aegeon | Aurel's Reach scholars | Brotherhood | Nettlehook / Scarred Land | Apprentice relic scholar | **Status:** Alive. Slim, ink-stained fingers; dark hair tied with copper wire; eyes too-bright with sleepless ambition; talks in half-citations and dares |
+| Saelin Rootstep | Minor | M | Human | Kaelthen | Kaelthen | Thistleshade scouts | Assembly | Scarred Land / Tharros interior edge | Quiet observer / field mediator | **Status:** Alive. Reed-thin, sun-browned; moss-green cloak; calm, watchful eyes; carries seed-charms and a bone needle for stitching wounds and lies |
+| Danteo Rask | Minor | M | Human | Virelia | Serenei | Braycall Ridge security | Syndicate | Scarred Land | Syndicate strike lead | **Status:** Unknown. Crisp coat even in rain; oiled moustache; signet ring and ledger satchel; smiles like a contract and always asks who pays |
+| Sindra Coalmark | Minor | F | Dwarf | Korralt | Korralt Dwarven | Braycall Ridge survey crews | Syndicate (contract) | Scarred Land | Survey engineer | **Status:** Alive (Pinned). Broad-shouldered, soot-braided hair, goggles scar her brow; chalk-stained hands; measures everything twice because the island lies |
+| Bjornar Hailwick | Minor | M | Human | Skaldmere | Nordahr | Braycall Ridge outriders | Syndicate | Scarred Land | Tracker / escort | **Status:** Dead. Weather-cracked face; wolf-pelt collar; longbow wrapped in oilcloth; speaks little; eyes flick to treeline every time the insects stop |
 
 ---
 
@@ -1973,3 +2067,473 @@ Roll or choose when a Reckoning occurs:
 8. **The Hollowed Child**: A Changed child was found near Marrowhold. It speaks prophecy. Everyone wants custody.
 
 ---
+
+<!-- CATEGORY: HOOK, SECRET -->
+# Part XI: Adventures
+
+These are **GM-facing adventure drafts and working notes**.
+
+- **Not CANON:** The material below is intentionally marked as ideas, scenes, and options. Adjust freely.
+- **Canonizing:** If you decide an NPC, location, or event becomes established lore, migrate the final version into the appropriate canon sections (and add new NPCs to the directory).
+
+---
+
+<!-- CATEGORY: HOOK, SECRET -->
+## Adventure 1: The Falling Star (Scarred Land)
+
+**Status:** Idea draft (Not CANON)
+
+**In this adventure:**
+- [Overview](#adventure-1-overview)
+- [Run Order](#adventure-1-run-order)
+- [Read-Alouds (HU)](Adventure%201%20-%20Read-Alouds%20%28HU%29.md)
+- [Jungle (Present)](#adventure-1-jungle-present)
+- [Nettlehook (Flashback)](#adventure-1-nettlehook-flashback)
+- [Crater (Present)](#adventure-1-crater-present)
+- [NPCs](#adventure-1-npcs)
+- [GM Cues](#adventure-1-gm-cues)
+- [Environment](#adventure-1-environment)
+- [Aftermath](#adventure-1-aftermath)
+
+<!-- CATEGORY: HOOK, SECRET -->
+### Adventure 1: Overview
+
+**Premise:** A meteor strikes Tharros and the island answers. The impact site becomes the **Scarred Land**—a fresh crater-scar with wrong silence, sharp boundaries, and violent pushback. Later (often the same night), an island-wide **column of light** appears from the interior for **less than an hour** (commonly tied to the rumor-name **Aetherion**). The meteor is a suspected trigger, but the link is unproven.
+
+**What makes this adventure work:** the PCs race for **first contact**, arrive mid-crisis, then decide what gets **rescued, harvested, reported, sold, or buried**.
+
+**At the table (read-alouds are ground truth):**
+- The PCs are the navigators; Nikolos is the client/escortee.
+- Frogulus is the one who recognizes the crater team as Syndicate (from seeing them in Nettlehook for a while).
+- The crater is already “active”: one dead, one pinned, and one variable, with a visible hostile presence in the ash.
+
+**Core question:** What do you do when you’re first to a resource site that can’t be owned without consequences?
+
+**Working truths (keep flexible):**
+- The meteor is foreign; it may have crossed something subtle around Tharros (not showy; not easily provable).
+- The meteor becomes **slightly magical** after exposure to the island.
+- The crater is a real **resource site**: **Aether-Salt** is present immediately; **Lumen-Spore** may bloom later (days–weeks) as the Scarred Land “heals.”
+- The Scarred Land can manifest either **lesser chaos** (a swarm) or a **Minor Chaos Elemental**—but not both at the same time.
+
+<!-- CATEGORY: HOOK, SECRET -->
+### Adventure 1: Run Order
+
+Use the read-alouds as your “camera cuts.” Everything else supports them.
+
+**Run order:**
+1) **Cold open (present, jungle):** read [1. Jungle](Adventure%201%20-%20Read-Alouds%20%28HU%29.md#adventure-1-ra-1-jungle) → run three jungle beats (choose from the list).
+2) **Ridge cliffhanger:** read [2. Ridge (Cut)](Adventure%201%20-%20Read-Alouds%20%28HU%29.md#adventure-1-ra-2-ridge-cut) → smash cut.
+3) **Flashback (night before):** read [5. Meteor (Heard)](Adventure%201%20-%20Read-Alouds%20%28HU%29.md#adventure-1-ra-5-meteor-heard) (always) → read [5a. Meteor (Seen)](Adventure%201%20-%20Read-Alouds%20%28HU%29.md#adventure-1-ra-5a-meteor-seen) if anyone saw it → ask reactions → then read [3. Nettlehook](Adventure%201%20-%20Read-Alouds%20%28HU%29.md#adventure-1-ra-3-nettlehook).
+  - That same night, the **light column** appears and Orly’s **[Carved Box](#the-carved-box)** awakens (see [Adventure 1: Aftermath](#adventure-1-aftermath)).
+4) **Back to the ridge (present):** read either [4A. Ridge (Danteo alive)](Adventure%201%20-%20Read-Alouds%20%28HU%29.md#adventure-1-ra-4a-ridge-danteo-alive) or [4B. Ridge (Danteo dead)](Adventure%201%20-%20Read-Alouds%20%28HU%29.md#adventure-1-ra-4b-ridge-danteo-dead).
+5) **Crater crisis (triage):** rescue/pull-out/containment, then escalation (swarm OR elemental).
+6) **Minor Chaos Elemental manifests (if used):** read [6. Flare Manifests](Adventure%201%20-%20Read-Alouds%20%28HU%29.md#adventure-1-ra-6-flare-manifests).
+7) **Extraction + aftermath:** what the PCs carry home (samples, survivors, stories) sets the campaign consequences.
+
+Note: the read-aloud numbers are for quick reference at the table; the flashback makes the chronology intentionally non-linear.
+
+<!-- CATEGORY: HOOK, SECRET -->
+### Adventure 1: Jungle (Present)
+
+Start by reading [1. Jungle](Adventure%201%20-%20Read-Alouds%20%28HU%29.md#adventure-1-ra-1-jungle).
+
+**Countdowns (SRD):**
+These are **dynamic consequence countdowns**.
+
+When an **action roll** is tied to one of these countdowns, tick it down based on the roll result:
+- Success with Hope: no advancement
+- Success with Fear: tick down 1
+- Failure with Hope: tick down 2
+- Failure with Fear: tick down 3
+- Critical Success: no advancement
+
+Some triggers are **fixed -1** (not tied to a roll)—for example: a fight breaks out, someone shouts a command, or a big crash happens. In those cases, just tick the relevant countdown down by 1.
+
+- **Smoke Window** (Consequence Countdown 7): tie this to rolls that cost time or force detours.
+  - 5: distant ashfall thickens; visibility gets worse at the ridge.
+  - 3: the crater team’s situation degrades (more injuries, more panic).
+  - 1: you’re on the edge of 4A/4B; make the ridge reveal harsher.
+  - 0: default to 4B (Danteo is dead) and/or arrive as escalation is already brewing.
+- **The Stalker Closes** (Consequence Countdown 5): tie this to rolls where noise, panic, or shouting would matter.
+  - 4: you notice the pattern—sound “dies” a heartbeat earlier around you.
+  - 3: you see it once: a ripple of absence in the ferns, like an outline cut from the world.
+  - 1: it’s close enough that every loud choice feels like a mistake.
+  - 0: it reaches the crater with you; the first time someone triggers a **Quiet Ring Swell**, it happens **without** you spending Fear.
+
+**Three quick jungle beats** (choose any 3; each beat is: one decisive choice → one roll → one consequence):
+
+1) **The Wrong Wind**
+- Hot metallic wind blows toward them, carrying glittering dust that irritates eyes/skin.
+- **Choice:** push through (faster) vs detour along water/low ground (safer).
+- **Roll prompt:** Agility to keep footing and cover faces, or Instinct to pick the least-exposed line.
+- This roll is tied to **Smoke Window**.
+- **Success with Hope:** you get through cleanly; no lingering penalty.
+- **Success with Fear:** you get through, but your eyes/lungs burn—mark a Stress *or* take disadvantage on your first crater action roll involving sight/breath.
+- **Failure with Hope:** you’re forced into a short detour; take disadvantage on your first crater action roll involving sight/breath.
+- **Failure with Fear:** you stumble into the worst of it; mark a Stress and take disadvantage on your first crater action roll involving sight/breath.
+
+2) **The Not-Quite-Fire**
+- “Burnt” vines ooze faintly luminescent sap; touching it leaves a cold numbness.
+- **Roll prompt:** Instinct to spot the safe route, Finesse to cut through without contact, or Strength to clear a path fast.
+- This roll is tied to **Smoke Window**.
+- **Success with Hope:** you get through without contact; Nikolos keeps his hands to himself.
+- **Success with Fear:** you get through, but Nikolos tries to pocket a “harmless” smear unless someone stops him in the moment (it becomes a **short-term aftermath** lead).
+- **Failure with Hope:** contact—one PC marks a Stress (numb hand/foot); Nikolos gets his sample.
+- **Failure with Fear:** contact and panic—one PC marks a Stress, and Nikolos gets his sample.
+
+3) **The Cinnamon Trail Fork (Sunstorm’s hook; signs of [The Cinnamon Beast](#the-cinnamon-beast); no encounter)**
+- A cinnamon-sweet note cuts through wet green—wrong, out of place. Tracks appear in mud… then stop mid-stride.
+- **Choice (this is the point):** pursue Sunstorm’s personal lead **or** keep the party on-mission to reach the ridge.
+  - **If you keep moving:** Sunstorm can mark a Stress (swallowing the urge, jaw clenched)… but there’s no other cost.
+  - **If you pursue:** make the roll below.
+- **Roll prompt (if pursuing):** Instinct to read what direction it *actually* went, or Agility to keep pace without losing it.
+- **Success with Hope:** you find a clean clue (cinnamon-stained tuft/scale, plus a clear sense of *where it went*), and you don’t lose time. Start **Sunstorm’s Hunt** — Long-Term Countdown (6).
+- **Success with Fear:** you find the clue, but you lose time—tick down **Smoke Window** by 1. Start **Sunstorm’s Hunt** — Long-Term Countdown (6).
+- **Failure with Hope:** you lose the thread; no clue, and you lose time—tick down **Smoke Window** by 1.
+- **Failure with Fear:** the stalker notices—no clue, and tick down **The Stalker Closes** by 1.
+
+  **Sunstorm’s Hunt — Long-Term Countdown (6):** the GM may advance this after long rests (or when Sunstorm spends downtime pursuing the Beast). When it hits 0, deliver a backstory-forward beat: a real trail, a witness, a lair-sign, or a confrontation opportunity (not necessarily a fight).
+
+4) **The No-Voice Protocol (quiet-ring rehearsal)**
+- For a minute, the jungle goes wrong-quiet; shouting feels pointless and coordination gets dangerous.
+- **Puzzle:** the party must agree on a silent coordination method (hand signs, rope tugs, tap-codes, spacing) and use it through a hazard.
+- **Roll prompt:** Presence to lead/synchronize, or Instinct to choose a method that fits the terrain.
+- This roll is tied to **The Stalker Closes**.
+- **Success with Hope:** protocol holds; at the crater, one PC ignores the first Stress they’d mark from a quiet-ring effect.
+- **Success with Fear:** protocol holds, but it costs focus; at the crater, one PC can ignore the first Stress *or* gain advantage on the first Presence Reaction roll against a quiet-ring effect.
+- **Failure with Hope:** protocol breaks under pressure; no crater benefit.
+- **Failure with Fear:** protocol breaks and voices rise; no crater benefit.
+
+5) **Tripwire Thicket (avoidable fight; best outcome is no combat)**
+- A sagging line of twine and bone-charms crosses the path—someone’s crude alarm, half-swallowed by vines.
+- **Choice:** bypass it quietly (best), disarm it, or barrel through.
+- **Roll prompt:** Instinct to spot the *real* trigger line, Finesse to cut/untie without noise, or Agility to reroute the group through tight brush.
+- This roll is tied to **The Stalker Closes**.
+- **Success (Hope or Fear):** you bypass/disarm; no fight.
+- **Failure (Hope or Fear):** you trigger it; run a fast jungle fight. After the fight, tick down **Smoke Window** by 1 (time lost).
+  - **Quick fight (Tier 1): “Brush-Rush”**
+    - **Foes:** 3× Thicket Skirmisher (Minion) + 1× Thicket Brute (Brute). (Scale to 2/4 minions based on table size.)
+    - **Terrain:** tight brush (Hard to move through), hanging vines (can Restrict), slick mud (prone/slip on a bad miss).
+    - **Opening:** the alarm rattles; the minions burst from two sides to split the party while the brute hits whoever looks slowest.
+    - **Enemy tactics:** minions harry and disengage into cover; the brute tries to pin one PC in place (grapple/restrain style).
+    - **PC win condition:** drive them off (drop the brute or scatter the minions) OR break line of sight and escape for 1 full round.
+    - **GM pressure:** if the PCs use loud magic or shouted commands, also tick down **The Stalker Closes** by 1.
+
+    THICKET SKIRMISHER
+    Tier 1 Minion
+    A half-seen jungle ambusher—quick hands, sharp tools, and a habit of striking from cover.
+    Motives & Tactics: Split the party, hit-and-fade, punish the isolated
+
+    Difficulty: 11 | HP: 2 | Stress: 1
+    ATK: +1 | Slash/Club: Close | 1d6+1 phy
+
+    FEATURES
+    Hit and Fade - Reaction: After the Skirmisher hits, it can shift to Near range into cover.
+
+    Tripwire Training - Passive: While in brush/cover, the Skirmisher has advantage on its first attack roll each scene.
+
+    THICKET BRUTE
+    Tier 1 Brute
+    A heavier attacker that doesn’t chase—just crashes into the nearest problem and holds it there.
+    Motives & Tactics: Pin, punish, protect the escape route
+
+    Difficulty: 12 | Thresholds: 5/10 | HP: 6 | Stress: 2
+    ATK: +1 | Shoulder-Check: Very Close | 1d8+2 phy
+
+    FEATURES
+    Pin to the Ground - Action: On a hit, you can mark a Stress to make the target Restrained until freed with a successful Strength or Finesse roll.
+
+    Unyielding - Passive: The first time the Brute would be moved against its will, ignore it.
+
+6) **The Stalker (Echovore whelp)**
+- Something hungry for sound shadows you: not a beast in the brush, but an **absence** that drifts toward raised voices.
+- **Choice:** go silent and keep moving, bait it with a decoy noise, or try to drive it off.
+- **Roll prompt:** Instinct to recognize an Echovore’s pattern, Finesse to set a decoy without losing time, or Presence to keep everyone coordinated without speaking.
+- This roll is tied to **The Stalker Closes**.
+- **Success with Hope:** you lose it completely; the trail behind you goes “normal” again.
+- **Success with Fear:** you shake it, but it stays near; someone feels watched.
+- **Failure with Hope:** it stays with you; your short-term aftermath gets worse (someone else learns your route).
+- **Failure with Fear:** it stays with you and learns you; your short-term aftermath gets worse (someone else learns your route).
+
+When they reach the ridge, read [2. Ridge (Cut)](Adventure%201%20-%20Read-Alouds%20%28HU%29.md#adventure-1-ra-2-ridge-cut).
+
+<!-- CATEGORY: HOOK, SECRET -->
+### Adventure 1: Nettlehook (Flashback)
+
+Read this scene as a flashback montage:
+- Read [5. Meteor (Heard)](Adventure%201%20-%20Read-Alouds%20%28HU%29.md#adventure-1-ra-5-meteor-heard) (always).
+- If anyone had line of sight, read [5a. Meteor (Seen)](Adventure%201%20-%20Read-Alouds%20%28HU%29.md#adventure-1-ra-5a-meteor-seen) immediately after.
+- Ask each player: **What were you doing when this happened, and how did you react?**
+- Then read [3. Nettlehook](Adventure%201%20-%20Read-Alouds%20%28HU%29.md#adventure-1-ra-3-nettlehook).
+- When you’re ready to cut back to the present at the ridge, read either [4A. Ridge (Danteo alive)](Adventure%201%20-%20Read-Alouds%20%28HU%29.md#adventure-1-ra-4a-ridge-danteo-alive) or [4B. Ridge (Danteo dead)](Adventure%201%20-%20Read-Alouds%20%28HU%29.md#adventure-1-ra-4b-ridge-danteo-dead).
+
+<!-- CATEGORY: HOOK, SECRET -->
+### Adventure 1: Crater (Present)
+
+Back at the ridge, run the crater as a **triage scene**:
+- Evidence a team arrived first (chalk marks, snapped pegs, spilled vials, cut rope).
+- Clues on the first team: a wolf-pelt-collared tracker dead on the slope; the ash around him scuffed into tight circles that loop back toward the stone; a rim-tree scored with a long gouge at shoulder height.
+- The pinned survivor is a dwarf survey engineer with chalk-stained hands and a wire/peg kit; their “shout” keeps getting swallowed whenever the quiet ring swells.
+- The third Syndicate member is either actively fighting near the stone (if the PCs were quick) or already dead (if the PCs were slow).
+- The Scarred Land’s strangeness is immediate: **clean edge**, **inward-leaning trees**, **quiet rings**, and **Aether-Salt** in the fractures.
+
+**Faction pressure at the site:**
+- **Brotherhood:** Nikolos wants speed, credit, and a sample.
+- **Assembly:** Saelin observes and intervenes only to prevent catastrophe.
+- **Syndicate:** a small fast-response salvage/survey team arrived first and was attacked at the crater; one is dead, one is pinned, and the third’s fate depends on how quickly the PCs arrived.
+
+**Escalation choice (don’t run both):**
+- If you want a running skirmish: use a **Swarm of Lesser Chaos Elementals**.
+- If you want a single dramatic climax: summon the **Minor Chaos Elemental**.
+
+When the Minor Chaos Elemental manifests, read [6. Flare Manifests](Adventure%201%20-%20Read-Alouds%20%28HU%29.md#adventure-1-ra-6-flare-manifests).
+
+#### Crater endgame beats (choose 2–3)
+
+These are **table-ready challenges/puzzles** that produce concrete end-of-adventure differences: who survives, who gets the proof, and what “story” wins.
+
+1) **The Ledger Satchel (chain-of-custody puzzle)**
+- **What it is:** Danteo’s wax-sealed satchel with numbered tags (and Sindra’s survey notes if she’s conscious).
+- **Prompt:** the seal is meant to be *provably unbroken*. Opening it cleanly is the point.
+- **Approaches:**
+  - **Finesse** to lift/cut without tearing tags.
+  - **Instinct** to read the numbering pattern and find the “release” tag.
+  - **Presence** to get Danteo (if alive) to authorize the opening under witness.
+- **Success:** you get names, routes, claim language, and the team’s *intended* extraction plan; you can weaponize it socially.
+- **Failure:** you get the info, but the satchel is “tainted” evidence (Syndicate treats it as theft/forgery); expect pressure later.
+- **How it changes the ending:** determines whether the PCs leave with **clean paperwork leverage** (bargaining chip) or **hot stolen evidence** (chase/punishment).
+
+2) **The Quiet Ring Timing (rescue without waking the scar)**
+- **What it is:** Sindra’s pinned position is survivable only if the party moves *between* the quiet-ring swells.
+- **Puzzle:** someone must identify the one tiny sound that still gets through (drip, bead-roll, leaf-tap) and use it as a metronome.
+- **Approaches:**
+  - **Instinct** to find the metronome sound.
+  - **Presence (Reaction)** to keep the team synchronized without shouting.
+  - **Strength/Finesse** for the actual lift/cut when the window opens.
+- **Success:** Sindra lives and her notes stay legible; you also avoid triggering an immediate escalation.
+- **Failure:** you still free her (or choose not to), but the ring swells hard—mark Stress around the table and tick down **Smoke Window** by 1 (or spend Fear to escalate).
+- **How it changes the ending:** whether the PCs leave with a **credible living witness + measurements** (strong faction leverage) or only hearsay.
+
+3) **Hard Edge Triangulation (route puzzle)**
+- **What it is:** the crater’s “clean edge” subtly redraws itself when no one looks; markers drift.
+- **Puzzle:** to leave with proof, the party must establish a **three-point reference** that survives drift (tree score marks, fractures with Aether-Salt, a fixed star/bearing).
+- **Approaches:**
+  - **Instinct** to pick the three anchors.
+  - **Finesse** to mark them in a way that won’t slide (wire, pegs, chalk + notch).
+  - **Lore/knowledge roleplay**: let Sindra (if alive) contribute “the trick” that makes it work.
+- **Success:** the party exits efficiently and can plausibly return; they can also sell/guard a route later.
+- **Failure:** they get out, but not cleanly—lose time, lose a sample, or pick up a tail (a rival guide team, Nightweb watcher, or Assembly shadow).
+- **How it changes the ending:** whether the PCs control **repeatable access** (campaign power) or the Scarred Land stays a one-time miracle.
+
+4) **Aether-Salt Containment (hazard puzzle)**
+- **What it is:** a clean Aether-Salt sample is valuable; a contaminated one becomes a problem.
+- **Prompt:** it “wants” to react to heat, magic, and metal—hissing, brightening, drawing attention.
+- **Approaches:**
+  - **Instinct** to harvest from the safest seam.
+  - **Finesse** to package it (waxed cloth, oilcloth, glass/ceramic, damp sand) without touching metal.
+  - **Presence** to stop Nikolos from “just taking more.”
+- **Success:** one clean sample that doesn’t announce itself on the road.
+- **Failure:** you still get a sample, but it becomes a beacon—add 1 Fear and have someone notice later (Syndicate, Assembly, Nightweb).
+- **How it changes the ending:** whether the party returns with **quiet proof** or **loud proof** that pulls faction heat.
+
+Use these to shape the finale:
+- **Clean win:** Sindra rescued + satchel clean + sample clean → the PCs choose who learns what.
+- **Messy win:** any two failures → somebody else writes the first story (and the PCs react).
+- **Pyrrhic win:** no witness + hot evidence + beacon sample → the party survives, but the campaign consequences accelerate.
+
+<!-- CATEGORY: NPC, SECRET -->
+### Adventure 1: NPCs
+
+Use these as quick at-the-table handles: what they look like, what they want, and how they behave under pressure.
+
+#### Nikolos Veyre
+- **Status:** Alive
+- **Role:** Brotherhood apprentice relic scholar; the party’s employer / handler for the job
+- **Look:** slim build; ink-stained fingertips; dark hair bound with copper wire; travel cloak too fine for the mud; eyes reddened from sleepless nights; sea-blue beads on his wrist (an old habit he won’t explain).
+- **Tell:** constantly sketches sigils and street-grids in the air while talking; breath catches when he sees anything that might be “Ancient.”
+- **History:** a junior scholar from Myrrhun who earned a probationary berth at Aurel’s Reach by doing the grunt work—cataloguing fragments no one wanted and translating field notes full of lies. He came to Tharros to become indispensable, and he’s terrified of going back as “the one who missed it.”
+- **Wants:** to be first with a credible account and a fragment of proof (meteor shard, Aether-Salt sample, or a clean witness statement).
+- **Leverage:** promises Brotherhood introductions, library access, and a write-up that names the PCs (and quietly, his own career).
+
+#### Saelin Rootstep
+- **Status:** Alive
+- **Role:** Assembly field-mediator / failsafe; rarely approaches openly
+- **Look (human):** reed-thin; sun-browned; moss-green cloak that never seems to snag; soft boots; calm eyes that don’t flinch.
+- **Look (wolf):** a rangy grey wolf with a pale scar across the muzzle; unnaturally still; watches like it recognizes people.
+- **Tell:** leaves seed-charms or stone-knots on trees when no one is looking; touches the ground before choosing a path.
+- **History:** once a grove-runner from Kaelthen who learned the old shape-rites the hard way—surviving an interior trek that took everyone else. The Assembly didn’t recruit him so much as stop him from disappearing entirely.
+- **First appearance (suggested):** Cordyceps feels a sudden pressure behind his thoughts and turns—just in time to see the wolf watching him intensely from the brush. It holds eye contact for a long breath, then slips away without sound.
+- **Wants:** prevent a catastrophe (awakening something, poisoning the land, or letting a faction seize a foothold too fast).
+- **Lines he won’t cross:** won’t openly claim authority; won’t kill unless forced; will abandon the PCs if they become “a wound.”
+
+#### Danteo Rask
+- **Status:** Unknown
+- **Role:** Syndicate field lead; claim-staker and crisis manager
+- **Look:** clean-cut coat and gloves; oiled moustache; signet ring; ledger satchel; boots that look new because someone else scrubs them.
+- **Tell:** asks for names and witnesses before he asks what happened; keeps receipts like talismans.
+- **History:** started as a Virelian clerk in Braycall Ridge logistics, learned that the fastest way to survive Syndicate politics is to make every disaster look like a controlled expense. He’s not brave, but he is relentless—and he hates leaving a story unfinished.
+- **Wants:** salvage rights, exclusive samples, and a report that makes Braycall Ridge look competent.
+- **Pressure behavior:** becomes polite, then cold, then contractual; he’d rather hire the PCs than fight them.
+
+#### Sindra Coalmark
+- **Status:** Alive (Pinned)
+- **Role:** Syndicate contract survey engineer; the one with the useful measurements
+- **Look:** broad-shouldered dwarf; soot-braided hair; cracked goggles worn on her brow; chalk-stained hands; coil of wire and pegs on her belt.
+- **Tell:** mutters measurements like prayers; double-checks every compass bearing; marks trees with chalk lines that don’t match the terrain.
+- **History:** a Korralt dwarf who left a respectable forge-house after a mine incident taught her the island doesn’t care about competence. She sells certainty to the Syndicate because it’s the only thing they pretend to respect.
+- **Wants:** to get her notes out alive (they’re worth more than her contract), and to prove the ground is changing.
+- **If rescued:** she becomes the most credible witness the PCs can carry—maps that contradict themselves, and one or two readings that are *too* consistent.
+
+#### Bjornar Hailwick
+- **Status:** Dead
+- **Role:** Syndicate tracker / escort
+- **Look:** weather-cracked face; wolf-pelt collar; longbow wrapped in oilcloth; old scars on knuckles; eyes always scanning treeline.
+- **Tell:** calls out “insect-drop” and “bird-silence” like they’re weather; refuses to camp near the crater.
+- **History:** a Skaldmere hunter who came south after a winter storm took his boat and his brothers. He signed on with the Syndicate because they paid in coin and certainty, and he told himself the interior was just another kind of blizzard.
+
+
+<!-- CATEGORY: HOOK, SECRET -->
+### Adventure 1: GM Cues
+
+- Fresh green pushing through scorched soil; sap that looks like glass; rain hissing on warm stone.
+- Sudden dead-sound "quiet rings" where insects stop and voices feel swallowed.
+- The sense of the ground "answering" disturbance—like a living thing reacting to pressure.
+- A cinnamon-sweet note where it doesn’t belong (then gone); tracks that stop mid-stride; prey left “cleanly” wrong (seed [The Cinnamon Beast](#the-cinnamon-beast) without showing it).
+- The Carved Box behaving like it’s listening: warm wood in cool rain, carvings shifting when no one looks, three clicks in the dark (seed [The Carved Box](#the-carved-box)).
+
+<!-- CATEGORY: MECHANIC, LOCATION, SECRET -->
+### Adventure 1: Environment
+
+SCARRED LAND
+Tier 1 Exploration
+A fresh crater-scar where the island’s wound rejects intrusion and chaos makes force unpredictable.
+Impulses: Reject, chaos, destruction
+
+Difficulty: 11
+Potential Adversaries: Chaos (Minor Chaos Elemental; Swarm of Lesser Chaos Elementals), warped beasts, opportunistic scavengers
+
+FEATURES
+Hard Edge, Leaning Rim - Passive: The crater’s rim is unnaturally crisp—soil shears like cut leather, and the trees along the edge lean inward as if listening. A PC can make an Instinct Roll to read the scar. On a success with Hope, learn all three details below. On a success with Fear, learn two. On a failure, a PC can mark a Stress to learn one and gain advantage on their next action roll to navigate, harvest, or investigate the Scarred Land.
+• The “clean edge” subtly redraws itself when no one looks; markers drift.
+• Shoulder-height scoring mars several rim trees, as if something passed close and hard.
+• Aether-Salt beads in hairline fractures and tastes faintly metallic.
+What does the scar seem to be “keeping out”? What does it appear to be “keeping in”?
+
+Quiet Ring Swell - Reaction: When a loud impact, shouted command, or burst of magic happens within Close range of the crater, you can spend a Fear to let the Scarred Land drink the sound. All creatures within Close range must succeed on a Presence Reaction Roll or mark a Stress as their ears throb and their thoughts go thin. On a failure, they also take 1d6+1 physical damage from pressure and ringing. On a failure with Fear, they additionally have disadvantage on their next action roll.
+What tiny sound still gets through when everything else goes quiet?
+
+Aether-Salt Seams - Passive: Aether-Salt gathers in thin seams around the crater like sweat on stone. A PC can make an Instinct Roll to harvest without provoking the scar. On a success with Hope, they gain a clean sample and spot the safest seam to take more. On a success with Fear, they gain a sample, but you gain 1 Fear as the seam hisses and the air brightens for a heartbeat. On a failure, they can mark a Stress to get a sample and gain advantage on the next action roll to handle or contain what they collected.
+Who taught you how to take something dangerous without “waking” it? What does the salt do to metal, blood, or flame?
+
+Inward-Leaning Treeline - Action: Pick a point at the crater rim. All targets within Very Close range of that point must succeed on an Agility Reaction Roll or take 1d8+3 physical damage and become Restrained by snapping limbs and root-knots that lunge inward. Restrained lasts until they’re freed with a successful Finesse or Strength roll or by dealing at least 6 damage to the roots.
+Does it drag victims toward the hole, or pin them in place like a warning?
+
+Lesser Flares - Action: Spend a Fear to summon a Swarm of Lesser Chaos Elementals (Horde) drawn to the crater’s wound. They appear within Far range of a chosen PC and immediately take the spotlight. This feature can’t be used while a Minor Chaos Elemental is present.
+What tiny details go wrong as they arrive—shadows, angles, reflections, or footsteps?
+
+Birth of the Flare - Action: Spend a Fear to summon a Minor Chaos Elemental drawn to the crater’s wound. They appear within Far range of a chosen PC and immediately take the spotlight. This feature can’t be used while a Swarm of Lesser Chaos Elementals is present.
+What color does the scar flash as it arrives? What nearby thing warps for good in the elemental’s wake?
+
+---
+
+<!-- CATEGORY: HOOK, SECRET -->
+### Adventure 1: Aftermath
+
+Use these as the **campaign-level aftermath** from Adventure 1. They are designed to scale with what the PCs reveal, conceal, sell, or destroy.
+
+#### A) Short-term aftermath (still part of the adventure)
+
+##### 1) The light column (when it happens)
+- On the return journey (or later that night), the **column of light appears**—a clean vertical lance that can be seen from essentially anywhere on Tharros if the sky is visible.
+- It lasts **briefly** (no more than an hour), then vanishes.
+- The meteor is an obvious suspect as a trigger, but there is **no provable direct connection** in the moment—no repeating schedule, no clear causal mechanism.
+- Practical truth: **you can see it, but you can’t navigate to it**. Bearings drift; distances lie.
+  - At the instant the column appears, Orly’s **[Carved Box](#the-carved-box)** gives its three clicks (or warms/changes weight) as if it “heard” the same signal.
+
+##### 1a) The Carved Box awakens (same night)
+Run this as an **ending beat** or a late-night stinger; do not explain it—just make it *real*.
+
+- The carving subtly reorders itself under Orly’s thumb (geometry → faces → roots), as if trying different “languages.”
+- It gives three quiet clicks (echoing [The Lighthouse at Cape Vaidari](#the-lighthouse-at-cape-vaidari)) and then goes still.
+- Orly dreams of salt wind and a beam that blinks three times—when he wakes, the box is warm and *slightly* heavier.
+- Concrete table effect (pick one): Orly marks a Stress to hold it shut, or everyone within Close range wakes to the sensation of being watched (no attacker present).
+
+#### B) Long-burn aftermath (after the adventure)
+
+##### 2) Information propagation (who learns what, when)
+Treat “Aetherion” as a **rumor-name** and the light column as a **separate fact**.
+
+- **Island-wide visibility means suppression is limited:** the existence of “a light column happened” becomes common knowledge quickly; what stays controllable is the **meteor details**, the **resource-site reality**, and the **best theories**.
+
+What the resource site is (current draft choice):
+- **Aether-Salt (primary, immediate):** salt-crystals or brine-slick seams around/under the crater that **hold a faint charge** and make relic-work and spellcraft feel “easier” in small, unreliable ways.
+
+Optional delayed development (introduce later):
+- **Lumen-Spore (delayed, days–weeks):** once the Scarred Land starts to “heal,” a bioluminescent fungus/sap begins to bloom. It can be distilled into **medicine, lantern oils, or anti-corruption salves**—but may also “tune” people to the column.
+
+- **Immediate (hours–days):** Nettlehook hears “a falling star,” injuries, salvage, and a strange inland glow.
+- **Short term (days–weeks):** the first faction(s) learn details based on who the PCs briefed, who they sold to, and who followed them.
+- **Inevitable (weeks–months):** *all* major factions learn the light column exists; the only variable is **how accurate their map, timeline, and witness list are**.
+
+Practical levers for PC agency:
+- **Evidence control:** meteor fragments, sketches, witness statements, distinctive residue, trophies.
+- **Witness control:** survivors rescued vs abandoned; rumors fed vs suppressed; who gets the first “clean story.”
+- **Route discipline:** did they cover tracks, use decoys, or return by predictable roads?
+
+##### 3) Reputation & favors (lightweight scoring)
+After the adventure, assign each faction a stance shift toward the party:
+- **+2** if the PCs deliver **exclusive evidence**, rescue faction personnel, or keep a secret on request.
+- **+1** if they share partial information, cooperate without exclusivity, or act in a way that matches that faction’s values.
+- **0** if they stay neutral and leave no proof.
+- **-1** if they obstruct, steal, publicly embarrass, or empower a rival.
+- **-2** if they get faction people killed through negligence, destroy priceless evidence, or expose internal secrets.
+
+Translate stance into play quickly:
+- Positive: expedited access, gear loans, safehouses, introductions.
+- Negative: surveillance, “random” inspections, bounties, rival teams shadowing them.
+
+##### 4) Why each faction cares (and how they escalate)
+All factions become interested because the meteor event plausibly created two prizes:
+- The **crash site** (now tainted/slightly magical, and a resource site—**Aether-Salt**).
+- The **light column** (proof of an unmapped interior phenomenon)—a lever to seize narrative control of Tharros.
+
+With **Aether-Salt now** (and optionally **Lumen-Spore later**), the crash site becomes politically inevitable: it’s not just mystery, it’s **logistics, medicine, and leverage**.
+
+- **Remnant Brotherhood:** Frames it as a landmark of Ancient craft (possibly linked to Aetherion). Aether-Salt is an immediate field-lab obsession; if Lumen-Spore blooms later, it becomes a bio-relic crossover frenzy. Escalation: expeditions, research annex requests, scholar recruitment, aggressive claim-staking.
+- **Ironbound Syndicate:** Sees a billable extraction problem: Aether-Salt as catalyst/energy storage; if Lumen-Spore arrives later, it becomes mass-producible light/medicine. Escalation: security contracts, “survey roads,” work camps, buying up Nettlehook logistics.
+- **Veiled Assembly:** Reads Aether-Salt as “blood/mineralized wound,” and (if it appears later) Lumen-Spore as “forced bloom.” Escalation: sabotage of sampling and roads, warnings to locals, steering PCs away (or toward containment).
+- **Church of the Eternal Flame:** Aether-Salt may be “false fire in crystal” (dangerous temptation); if Lumen-Spore blooms later, it becomes miracle-cure or blasphemous growth depending on who preaches first. Escalation: missionaries, inquisitive envoys, “purification” patrols, pressure on Marrowhold/Nettlehook.
+- **Shard / Nightweb:** Treats resources as price multipliers: sell “pure salt,” and later “true spore,” and (most of all) the routes and methods to harvest safely. Escalation: rumor brokerage, blackmail, counterfeit batches, quietly fostering faction friction to keep prices high.
+
+Presence near Nettlehook / nearby:
+- Phase 1: more agents and buyers; competing “charter captains” and guides.
+- Phase 2: semi-permanent safehouses, bribed council members, and “warehouse leases.”
+- Phase 3: open friction—street violence, disappearances, and proxy raids—while everyone insists it’s unrelated.
+
+##### 5) Expeditions to the interior (hard mode by design)
+Even with the light column visible, the interior remains **unmapped** and **self-defending**.
+
+Build the pressure without granting easy access:
+- Early expeditions return with **contradictory maps**, missing days, and “we were closer yesterday.”
+- Rival teams begin to **compete for guides** (including PCs) and for any relic that might act as a “key.”
+- The factions’ preparation becomes a background clock: supplies stockpiled, specialists recruited, and dangerous experiments attempted to “tune” to the light.
+
+##### 6) Additional consequences worth using
+- **The Scarred Land becomes a recurring hazard zone:** flora/fauna shift weekly; the crater site becomes a dangerous pilgrimage for the reckless.
+- **A “witness curse” rumor starts:** people who saw the light too long report dreams, sleepwalking, or hearing distant machinery (Unconfirmed).
+- **Nettlehook’s neutrality cracks:** the council must decide whether to ban faction uniforms, sell permits, or weaponize neutrality—each choice creates enemies.
+- **False prophets and con artists appear:** “I know the way to Aetherion” becomes a profitable lie; some believers die following it.
+- **Cape Vaidari rumors spread (slow-burn hook):** within days to weeks, dockside talk links the light column and “three clicks in the dark” to [The Lighthouse at Cape Vaidari](#the-lighthouse-at-cape-vaidari).
+  - “It blinked three times the same night the sky split.”
+  - “The sea gets hungry—best not sail the cape when the beam comes.”
+  - Someone starts paying for charts, tides, and safe landings at [Cape Vaidari](#cape-vaidari), as if expecting an arrival.
+- **The island answers attention:** the more factions push into the interior, the more Reckonings cluster, trails change, and “coincidences” punish arrogance.
+
+
+<!-- CATEGORY: HOOK, SECRET -->
+<a id="adventure-1-appendix-read-alouds"></a>
+### Adventure 1: Appendix — Read-Alouds (HU)
+
+The table-ready Hungarian read-alouds live in [Adventure 1 - Read-Alouds (HU).md](Adventure%201%20-%20Read-Alouds%20%28HU%29.md).
+
+All Adventure 1 references link to the stable `adventure-1-ra-…` anchor IDs in that file.
