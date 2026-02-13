@@ -12,6 +12,9 @@ CULTURE: Ethnic groups, societies, and traditions
 HOOK: Adventure hooks, mysteries, and plot seeds
 SECRET: GM-only information not for players
 
+=== OTHER TAGS ===
+CANON: These are already estabilished canon facts, they can't be changed
+
 === AI RULES ===
 
 READING:
@@ -20,6 +23,7 @@ READING:
 - Cross-references use markdown anchors [text](#section-slug)
 - The NPC Directory table in Part IX is the canonical NPC list
 - When asked about a topic, check the Table of Contents first
+- Most of the things are fluid and can change. CANON topics are exceptions. They are hard facts.
 
 WRITING:
 - Preserve all existing CATEGORY comment tags when editing
@@ -30,6 +34,7 @@ WRITING:
 - Use relative years (e.g., "-40 years") not absolute dates
 - Maintain consistent markdown heading hierarchy (# Part, ## Section, ### Subsection)
 - Update the Table of Contents when adding new sections
+- Keep CANON facts. DO NOT CHANGE THEM!
 
 STYLE:
 - Keep tone consistent: evocative but concise
@@ -48,9 +53,9 @@ STYLE:
 - [Welcome to Tharros](#welcome-to-tharros)
 
 ### [Part II: Player Characters](#part-ii-player-characters)
-- [Sunstorm](#sunstorm) — [The Cinnamon Beast](#the-cinnamon-beast)
-- [EFRA-7](#efra-7) — [Orvane](#orvane) | [The Lightspire](#the-lightspire)
-- [Orly](#orly) — [The Carved Box](#the-carved-box) | [The Lighthouse at Cape Vaidari](#the-lighthouse-at-cape-vaidari)
+- [Sunstorm](#sunstorm)
+- [EFRA-7](#efra-7)
+- [Orly](#orly)
 - [Cordyceps](#cordyceps)
 
 ### [Part III: The Mainland](#part-iii-the-mainland)
@@ -132,6 +137,7 @@ But none leave unchanged.
 ---
 
 <!-- CATEGORY: PLAYER-CHARACTER -->
+<!-- CANON: most almost everthing here is canon, but open points are open -->
 # Part II: Player Characters
 
 ## Sunstorm
@@ -151,11 +157,6 @@ But none leave unchanged.
     - [The Cinnamon Beast](#the-cinnamon-beast)'s true nature (flavorful hook).
     - Depth of his [Assembly](#the-veiled-assembly) ties (mercenary vs believer).
     - Caravan status -- still active or disbanded?
-
-### The Cinnamon Beast
-
-<!-- CATEGORY: CREATURE, HOOK -->
-A strange "cinnamon-scented void-beast" that raided Sunstorm's caravan camp. Its true nature remains unknown. Sunstorm was tasked to hunt it but secretly slacks on the mission since it hasn't harmed anyone.
 
 ---
 
@@ -177,16 +178,6 @@ A strange "cinnamon-scented void-beast" that raided Sunstorm's caravan camp. Its
     - Fate of earlier prototypes (EFRA-1 to 6).
     - How much of EFRA's "magic as tech" is flavor vs actual relic integration.
 
-### Orvane
-
-<!-- CATEGORY: LOCATION, HOOK -->
-An underground mixed-race settlement powered by a "[Lightspire](#the-lightspire)" [relic](#relics). The relic keeps the inhabitants alive but renders them light-sensitive. [EFRA-7](#efra-7) seeks a new energy source to free them from this curse.
-
-### The Lightspire
-
-<!-- CATEGORY: ITEM, HOOK -->
-A [relic](#relics) powering the underground settlement of [Orvane](#orvane). It keeps the inhabitants alive but renders them light-sensitive--a blessing and a curse intertwined.
-
 ---
 
 ## Orly
@@ -204,16 +195,6 @@ A [relic](#relics) powering the underground settlement of [Orvane](#orvane). It 
     - What exactly [the box](#the-carved-box) does (GM-controlled mystery).
     - Nature of "[the lighthouse](#the-lighthouse-at-cape-vaidari)" -- relic beacon, natural formation, or something else.
     - Whether Orly's lost companions truly died.
-
-### The Carved Box
-
-<!-- CATEGORY: ITEM, HOOK -->
-A mysterious box given to [Orly](#orly) by a dying castaway. Said to be a key to something that could decide many fates. Must be delivered to "[The Lighthouse](#the-lighthouse-at-cape-vaidari)" at [Cape Vaidari](#cape-vaidari). See also [The Carved Box](#the-carved-box-1) in Part VI.
-
-### The Lighthouse at Cape Vaidari
-
-<!-- CATEGORY: LOCATION, HOOK -->
-The destination for [Orly](#orly)'s quest. Its nature is unknown--it could be a [relic](#relics) beacon, natural formation, or something else entirely. See also [Cape Vaidari](#cape-vaidari) and [The Lighthouse at Cape Vaidari](#the-lighthouse-at-cape-vaidari-1) in Part V.
 
 ---
 
@@ -1050,7 +1031,22 @@ These are known on maps or in rumors but often **uncertain, shifting, or partial
 | **The Drift Market** | [Silent Trade](#the-silent-trade-enclave) (~80 yrs) | Floating Ruins | Scattered debris of floating settlement. Still drifts between anchor-points. | Moderate - Unstable |
 | **Kiremon's Landing** | Modern (~30 yrs) | [Brotherhood](#the-remnant-brotherhood) Outpost | Sealed archives and survey towers. Access restricted. | Moderate - Guarded |
 | **Port Brayne** | Modern (~35 yrs) | [Syndicate](#the-ironbound-syndicate) Settlement | Early [Syndicate](#the-ironbound-syndicate) outpost. Still operational. | Low - Civilized |
-| **Cape Vaidari** | Unknown | Lighthouse | Mysterious lighthouse, [Orly](#orly-human-cleric)'s quest destination. Blinks three times on certain nights. | Unknown - "Sea gets hungry" |
+| **Cape Vaidari** | Unknown | Lighthouse | Mysterious lighthouse, [Orly](#orly)'s quest destination. Blinks three times on certain nights. | Unknown - "Sea gets hungry" |
+| **Orvane** | Modern | Underground Settlement | Mixed-race settlement powered by [The Lightspire](#the-lightspire) relic. Inhabitants are light-sensitive. | Moderate - Environmental curse |
+
+### Orvane
+
+<!-- CATEGORY: LOCATION, HOOK -->
+
+**Population:** Unknown (mixed-race community)
+**Alignment:** Independent, isolated
+**Type:** Underground settlement
+
+**Description:**
+An underground mixed-race settlement powered by "[The Lightspire](#the-lightspire)" [relic](#relics). The relic keeps the inhabitants alive but renders them light-sensitive--a blessing and a curse intertwined.
+
+**Connection:**
+[EFRA-7](#efra-7) was reactivated here and seeks a new energy source to free the inhabitants from the Lightspire's curse.
 
 ---
 
@@ -1146,7 +1142,29 @@ They are:
 | **Relic Ore** | Glittering, unstable mineral extracted through mining | Moderate | [Syndicate](#the-ironbound-syndicate) hoards it; drives [Braycall Ridge](#braycall-ridge-syndicate-stronghold) operations |
 | **Relic-touched Objects** | Everyday items (cups, blades, mirrors) altered by [Reckoning](#reckonings) proximity | Variable | Collectors, [Brotherhood](#the-remnant-brotherhood) researchers |
 | **Precursor Artifacts** | Deliberately shaped by [Ancestors](#ancestors--the-precursors), often sealed | High | [Brotherhood](#the-remnant-brotherhood) study; [Church](#the-church-of-the-eternal-flame) considers sacred/cursed |
-| **The Carved Box** | Surface changes based on viewer (geometry/faces/roots). Lost from [Brotherhood](#the-remnant-brotherhood) possession | Unknown | Connected to [Cordyceps](#cordyceps-gnome-barbarian)' backstory |
+| **The Carved Box** | Surface changes based on viewer (geometry/faces/roots). Mysterious key to something important. | Unknown | Connected to [Orly](#orly)'s quest to [Cape Vaidari](#cape-vaidari) |
+| **The Lightspire** | Powers underground settlement of [Orvane](#orvane). Grants life but causes light-sensitivity. | High | Keeps inhabitants alive; [EFRA-7](#efra-7) seeks replacement |
+
+### The Carved Box
+
+<!-- CATEGORY: ITEM, HOOK -->
+
+**Type:** Mysterious [Precursor](#ancestors--the-precursors) artifact
+**Appearance:** Surface changes based on viewer--showing geometry, faces, roots, or other patterns
+**Properties:** Said to be a key to something that could decide many fates
+**Current Status:** In possession of [Orly](#orly)
+**Quest:** Must be delivered to "[The Lighthouse at Cape Vaidari](#the-lighthouse-at-cape-vaidari)"
+**Mystery:** Its true purpose and function remain unknown (GM-controlled)
+
+### The Lightspire
+
+<!-- CATEGORY: ITEM, HOOK -->
+
+**Type:** Life-sustaining [relic](#relics)
+**Location:** Powers the underground settlement of [Orvane](#orvane)
+**Properties:** Keeps inhabitants alive but renders them light-sensitive
+**Effect:** A blessing and curse intertwined--sustains life at the cost of normal existence
+**Quest:** [EFRA-7](#efra-7) seeks a new energy source to replace it and free the inhabitants
 
 ---
 
@@ -1392,7 +1410,7 @@ Legends, rumors, and unexplained phenomena whispered across Tharros.
 
 | Story/Mystery | Type | Description | Related Location | Connected To |
 | ------------- | ---- | ----------- | ---------------- | ------------ |
-| **The Lighthouse at Cape Vaidari** | Legend | Abandoned lighthouse. On certain nights, blinks three times--"when the sea gets hungry." | Cape Vaidari | [Orly](#orly-human-cleric)'s quest |
+| **The Lighthouse at Cape Vaidari** | Legend/Location | Abandoned lighthouse. On certain nights, blinks three times--"when the sea gets hungry." Destination for [The Carved Box](#the-carved-box). Nature unknown--could be [relic](#relics) beacon, natural formation, or something else. | Cape Vaidari | [Orly](#orly)'s quest |
 | **The Bone Ring** | Mystery | Mining town gone in 3 years. Carved phrase: *"The ground listened. We stopped asking."* | Inland Tharros | Modern era warning |
 | **The Cinnamon Beast** | Folklore | Creature from [Orly](#orly-human-cleric)'s grandmother's sayings. May be myth or real predator. | Unknown | Folk wisdom, winter |
 | **The Pale King** | Legend | Stone statue in Gravemire Bastion that turns to face intruders over time--without movement. | Gravemire Bastion | [Pale Colonies](#the-pale-colonies) |
@@ -1466,6 +1484,13 @@ Not a creature in the traditional sense--a [Relic](#relics)-like column that "cr
 ## Specific Creature Entries
 
 <!-- CATEGORY: CREATURE -->
+
+### The Cinnamon Beast
+
+<!-- CATEGORY: CREATURE, HOOK -->
+**Description**: A strange "cinnamon-scented void-beast" with unknown true nature.
+**Behavior**: Raided [Sunstorm](#sunstorm)'s caravan camp but hasn't harmed anyone since.
+**Lore**: [Sunstorm](#sunstorm) was tasked to hunt it but secretly slacks on the mission. Its origins and purpose remain mysterious.
 
 ### Mirelings
 
