@@ -43,16 +43,16 @@ But none leave unchanged.
 - **Concept:** 3' tall orange tabby wanderer, instinct-driven scout, works odd jobs guiding travelers.
 - **Background:**
     - From a nomadic Katari caravan trading and ferrying between settlements.
-    - Tasked to hunt a strange "cinnamon-scented void-beast" that raided their camp -- but secretly slacks on the mission since it hasn't harmed anyone.
+    - Tasked to hunt a strange "cinnamon-scented void-beast" that raided their camp -- but secretly slacks on the mission since it hasn't harmed anyone. See [The Cinnamon Beast](#the-cinnamon-beast).
     - Nearly killed by wolves in youth, learned caution.
     - Fears heights; longs for quiet, sunny clearings.
 - **Faction Stance:**
-    - Syndicate: "insane," wants too much order.
-    - Brotherhood: too cerebral.
-    - Assembly: pays well, leaves him free -- quietly aligned.
+    - [Syndicate](#the-ironbound-syndicate): "insane," wants too much order.
+    - [Brotherhood](#the-remnant-brotherhood): too cerebral.
+    - [Assembly](#the-veiled-assembly): pays well, leaves him free -- quietly aligned.
 - **Open Points:**
-    - The Cinnamon Beast's true nature (flavorful hook).
-    - Depth of his Assembly ties (mercenary vs believer).
+    - [The Cinnamon Beast](#the-cinnamon-beast)'s true nature (flavorful hook).
+    - Depth of his [Assembly](#the-veiled-assembly) ties (mercenary vs believer).
     - Caravan status -- still active or disbanded?
 
 ### The Cinnamon Beast
@@ -65,16 +65,16 @@ A strange "cinnamon-scented void-beast" that raided Sunstorm's caravan camp. Its
 ## EFRA-7
 
 - **Ancestry/Spec:** Clank (Wizard, Underborne).
-- **Concept:** Sentient relic-hunting construct, curious about their own nature and relics in general.
+- **Concept:** Sentient relic-hunting construct, curious about their own nature and [relics](#relics) in general.
 - **Background:**
-    - Reactivated in Orvane, an underground mixed-race settlement powered by a "Lightspire" relic.
-    - The relic keeps them alive but renders Orvane's people light-sensitive. EFRA-7 seeks a new energy source to free them from this curse.
+    - Reactivated in [Orvane](#orvane), an underground mixed-race settlement powered by a "[Lightspire](#the-lightspire)" relic.
+    - The relic keeps them alive but renders [Orvane](#orvane)'s people light-sensitive. EFRA-7 seeks a new energy source to free them from this curse.
     - Possibly the 7th of a line of prototypes.
 - **Flair:** Frames relic-magic through technological metaphors (sniper rifle staff, grenades as fireballs, etc.).
 - **Faction Stance:**
-    - Wants Brotherhood membership (knowledge access).
-    - Sees Syndicate as reckless, Assembly as well-meaning but naive, Church as dangerous zealots.
-    - Respects Shard black market pragmatism.
+    - Wants [Brotherhood](#the-remnant-brotherhood) membership (knowledge access).
+    - Sees [Syndicate](#the-ironbound-syndicate) as reckless, [Assembly](#the-veiled-assembly) as well-meaning but naive, [Church](#the-church-of-the-eternal-flame-minor-faction) as dangerous zealots.
+    - Respects [Shard](#the-shard--nightweb-minor-faction) black market pragmatism.
 - **Open Points:**
     - True purpose of EFRA-7's design.
     - Fate of earlier prototypes (EFRA-1 to 6).
@@ -83,40 +83,40 @@ A strange "cinnamon-scented void-beast" that raided Sunstorm's caravan camp. Its
 ### Orvane
 
 <!-- CATEGORY: LOCATION, HOOK -->
-An underground mixed-race settlement powered by a "Lightspire" relic. The relic keeps the inhabitants alive but renders them light-sensitive. EFRA-7 seeks a new energy source to free them from this curse.
+An underground mixed-race settlement powered by a "[Lightspire](#the-lightspire)" [relic](#relics). The relic keeps the inhabitants alive but renders them light-sensitive. [EFRA-7](#efra-7) seeks a new energy source to free them from this curse.
 
 ### The Lightspire
 
 <!-- CATEGORY: ITEM, HOOK -->
-A relic powering the underground settlement of Orvane. It keeps the inhabitants alive but renders them light-sensitive--a blessing and a curse intertwined.
+A [relic](#relics) powering the underground settlement of [Orvane](#orvane). It keeps the inhabitants alive but renders them light-sensitive--a blessing and a curse intertwined.
 
 ---
 
 ## Orly
 
-- **Ancestry/Spec:** Galapa (ancestry; class not set in stone yet, but protector/guardian vibe).
+- **Ancestry/Spec:** [Galapa](#galapa) (ancestry; class not set in stone yet, but protector/guardian vibe).
 - **Concept:** Survivor of a coastal village massacre and later a shipwreck; carries survivor's guilt but also a new quest.
 - **Background:**
     - Home village destroyed in pirate/raider attack; fled on an unfinished ship, wrecked in storm, washed ashore on Tharros.
-    - Only survivor -- companions disappeared without trace (Pull/Yearning hook).
-    - Received a carved box from a dying castaway: tasked to deliver it to "The Lighthouse" at Cape Vaidari.
-    - Box is said to be a key to something that could decide many fates.
+    - Only survivor -- companions disappeared without trace ([Yearning](#the-yearning) hook).
+    - Received a carved box from a dying castaway: tasked to deliver it to "[The Lighthouse](#the-lighthouse-at-cape-vaidari)" at [Cape Vaidari](#cape-vaidari).
+    - Box is said to be a key to something that could decide many fates. See [The Carved Box](#the-carved-box).
 - **Personality:** Distrustful of strangers, still haunted by guilt, but searching for belonging.
 - **Faction Stance:** Not explicit yet; main tie is the box quest.
 - **Open Points:**
-    - What exactly the box does (GM-controlled mystery).
-    - Nature of the "lighthouse" -- relic beacon, natural formation, or something else.
+    - What exactly [the box](#the-carved-box) does (GM-controlled mystery).
+    - Nature of "[the lighthouse](#the-lighthouse-at-cape-vaidari)" -- relic beacon, natural formation, or something else.
     - Whether Orly's lost companions truly died.
 
 ### The Carved Box
 
 <!-- CATEGORY: ITEM, HOOK -->
-A mysterious box given to Orly by a dying castaway. Said to be a key to something that could decide many fates. Must be delivered to "The Lighthouse" at Cape Vaidari.
+A mysterious box given to [Orly](#orly) by a dying castaway. Said to be a key to something that could decide many fates. Must be delivered to "[The Lighthouse](#the-lighthouse-at-cape-vaidari)" at [Cape Vaidari](#cape-vaidari). See also [The Carved Box](#the-carved-box-1) in Part VI.
 
 ### The Lighthouse at Cape Vaidari
 
 <!-- CATEGORY: LOCATION, HOOK -->
-The destination for Orly's quest. Its nature is unknown--it could be a relic beacon, natural formation, or something else entirely.
+The destination for [Orly](#orly)'s quest. Its nature is unknown--it could be a [relic](#relics) beacon, natural formation, or something else entirely. See also [Cape Vaidari](#cape-vaidari) and [The Lighthouse at Cape Vaidari](#the-lighthouse-at-cape-vaidari-1) in Part V.
 
 ---
 
@@ -131,9 +131,9 @@ The destination for Orly's quest. Its nature is unknown--it could be a relic bea
     - Exiled for defying the community's belief in harmony.
     - Fears the infection will one day escape from within.
 - **Personality:** Driven to find a cure, carries burden of secrecy, wary of connection.
-- **Faction Stance:** Not yet set. Brotherhood might covet them as a living experiment.
+- **Faction Stance:** Not yet set. [Brotherhood](#the-remnant-brotherhood) might covet them as a living experiment.
 - **Open Points:**
-    - What exactly caused the corruption (relic, Yearning, or other force).
+    - What exactly caused the corruption ([relic](#relics), [Yearning](#the-yearning), or other force).
     - Whether Cordyceps' body is stable -- or if Transformation stages are looming.
     - Does any fragment of the elf's former mind still whisper?
 
@@ -150,9 +150,9 @@ What unites the Mainland is its **distance**--not just in miles, but in meaning.
 
 - Some say the Mainland is ruled by **competing empires**, their wars long and cold.
 - Others speak of **great academies**, where magic is studied like science--and feared just as much.
-- The **Church of the Eternal Flame** claims dominion there, but not everyone kneels.
-- There are cities where **elves, dwarves, orcs, and humans** mingle freely--and regions where such coexistence is unthinkable.
-- There are places rich with magic, and others where it's outlawed or broken.
+- The **[Church of the Eternal Flame](#the-church-of-the-eternal-flame-minor-faction)** claims dominion there, but not everyone kneels.
+- There are cities where **[elves](#elves), [dwarves](#dwarves), [orcs](#orcs), and humans** mingle freely--and regions where such coexistence is unthinkable.
+- There are places rich with [magic](#magic), and others where it's outlawed or broken.
 
 But no single truth defines the Mainland. Let your character's memory of it be your own.
 
@@ -161,12 +161,12 @@ But no single truth defines the Mainland. Let your character's memory of it be y
 ## Fluid Setting Details
 
 **Nations (Mostly Human and Mixed):**
-*Virelia*, *Korralt*, *Skaldmere*, *Myrrhun*--include humans, Galapa, Inferis, Drakona, elves, dwarves, and more, coexisting culturally.
+*[Virelia](#virelia-centralized-bureaucratic-coastal-empire)*, *[Korralt](#korralt-frontier-kingdom-rich-in-woodlands-and-hills)*, *[Skaldmere](#skaldmere-cold-fragmented-coastal-lands)*, *[Myrrhun](#myrrhun-cradle-of-arcane-studies-mountainous-interior)*--include humans, [Galapa](#galapa), [Inferis](#inferis), [Drakona](#drakona), [elves](#elves), [dwarves](#dwarves), and more, coexisting culturally.
 
 **Race-Based Cultures:**
-- **Veskar Wards**--Drakona city-states
-- **Galari Shoals**--Galapa archipelago
-- **Hollow Marches**--mostly Inferis exiles
+- **[Veskar Wards](#the-veskar-wards-dispersed-drakona-city-states)**--[Drakona](#drakona) city-states
+- **[Galari Shoals](#the-galari-shoals-archipelago-homeland-of-the-galapa)**--[Galapa](#galapa) archipelago
+- **[Hollow Marches](#the-hollow-marches-exiled-inferis-and-outcasts)**--mostly [Inferis](#inferis) exiles
 
 ---
 
@@ -226,6 +226,32 @@ But no single truth defines the Mainland. Let your character's memory of it be y
   - **Females:** *Katalin*, *Eszria*, *Zelvia*
 - **Style cues:** Folk-patterned vests, spice-woven scarves, melodic names, hearty stews.
 
+<!-- CATEGORY: CULTURE -->
+
+### Other Mainland Cultures
+
+| Culture | Religion | Traits | Tharros Connection |
+| ------- | -------- | ------ | ------------------ |
+| **Arvelorn** | The Eternal Flame (state religion) | Imperial heritage, formal hierarchy | Primary source of [Church](#the-church-of-the-eternal-flame) missionaries |
+| **Kaelthen** | Nature spirits, ancestor worship, sacred groves | Forest-dwelling, druidic traditions | Some [Assembly](#the-veiled-assembly) members share beliefs |
+| **Vethrani** | Void worship (forbidden elsewhere), death cults, nihilism | Pale skin, dark attire, philosophical | Rare on Tharros; viewed with suspicion |
+| **Corsair Clans** | Sea spirits, luck gods, ancestor ghosts | Seafaring, tattooed, superstitious | Linked to [Black Reef Corsairs](#black-reef-corsairs) and [Silent Trade Enclave](#the-silent-trade-enclave) |
+| **Threnn** | Spirit pacts, beast totems, blood rites | Tribal, nomadic, fierce warriors | Rare; some mercenaries in [Syndicate](#the-ironbound-syndicate) employ |
+
+---
+
+## Races
+
+<!-- CATEGORY: CULTURE, LORE -->
+
+### Non-Human Races on Tharros
+
+| Race | Homeland | Traits | Tharros Connection |
+| ---- | -------- | ------ | ------------------ |
+| **Galapa** | The Galari Shoals | Communal, memory-centric, slow decision-making | Some settled inland to escape climate shifts |
+| **Inferis** | The Hollow Marches (exiles) | Revolutionary, occult, ash-horns, veiled faces, obsidian rings | [Shard Concord](#the-shard--nightweb-minor-faction)'s ideological roots trace here |
+| **Drakona** | The Veskar Wards | Draconic pride, ancient rites, elemental pacts, scale-like skin | Viewed as "dangerous mystics"; [Assembly](#the-veiled-assembly) courts their wisdom |
+
 ---
 
 ## Major Nations
@@ -233,66 +259,66 @@ But no single truth defines the Mainland. Let your character's memory of it be y
 <!-- CATEGORY: LOCATION, CULTURE -->
 ### Virelia (Centralized, bureaucratic, coastal empire)
 
-- **Primary Culture:** *Serenei*
-- **Racial Mix:** Predominantly Human, Galapa, and Inferis
+- **Primary Culture:** *[Serenei](#serenei-mediterranean-inspired)*
+- **Racial Mix:** Predominantly Human, [Galapa](#galapa), and [Inferis](#inferis)
 - **Identity:** Civilized, cosmopolitan, proud of their cities, art, and religion
-- **Religion:** The Eternal Flame is state-sanctioned
+- **Religion:** [The Eternal Flame](#divinity) is state-sanctioned
 - **Traits:** Educated elites, slick diplomats, clean uniforms, high architecture
-- **Minorities:** Pockets of Drakona immigrants, older Dwarven enclaves
-- **Tharros Connection:** The Church, Brotherhood, and Syndicate all have Virelian roots
+- **Minorities:** Pockets of [Drakona](#drakona) immigrants, older [Dwarven](#dwarves) enclaves
+- **Tharros Connection:** The [Church](#the-church-of-the-eternal-flame-minor-faction), [Brotherhood](#the-remnant-brotherhood), and [Syndicate](#the-ironbound-syndicate) all have Virelian roots
 
 ### Korralt (Frontier kingdom, rich in woodlands and hills)
 
-- **Primary Culture:** *Panthyr*
-- **Racial Mix:** Dwarves, Humans, some Halflings
+- **Primary Culture:** *[Panthyr](#panthyr-central-eastern-inspired)*
+- **Racial Mix:** [Dwarves](#dwarves), Humans, some [Halflings](#halflings)
 - **Identity:** Stubborn, honest, community-first, strong oral traditions
-- **Religion:** Loosely follows the Flame, with strong regional saints
+- **Religion:** Loosely follows [the Flame](#divinity), with strong regional saints
 - **Traits:** Long stories, thick embroidery, warm drinks, loyal to kin
-- **Minorities:** Nomadic Galapa clans, especially along rivers
+- **Minorities:** Nomadic [Galapa](#galapa) clans, especially along rivers
 - **Tharros Connection:** Many ordinary settlers came from here, especially to escape taxes and famine
 
 ### Skaldmere (Cold, fragmented coastal lands)
 
-- **Primary Culture:** *Nordahr*
-- **Racial Mix:** Humans, Drakona, some Half-Orcs
+- **Primary Culture:** *[Nordahr](#nordahr-norse-inspired)*
+- **Racial Mix:** Humans, [Drakona](#drakona), some Half-[Orcs](#orcs)
 - **Identity:** Proud seafarers, austere, survival-focused, deeply tribal
-- **Religion:** Shamanic traditions mix with a distant respect for the Flame
+- **Religion:** Shamanic traditions mix with a distant respect for [the Flame](#divinity)
 - **Traits:** Tattoos, ritual duels, sea ballads
-- **Tharros Connection:** Mercenaries and Brotherhood bodyguards often hail from here
+- **Tharros Connection:** Mercenaries and [Brotherhood](#the-remnant-brotherhood) bodyguards often hail from here
 
 ### Myrrhun (Cradle of arcane studies, mountainous interior)
 
-- **Primary Culture:** *Tharain*
-- **Racial Mix:** Humans, Inferis, and Elves
+- **Primary Culture:** *[Tharain](#tharain-hungarian-inspired)*
+- **Racial Mix:** Humans, [Inferis](#inferis), and [Elves](#elves)
 - **Identity:** Scholarly, poetic, fatalistic; deeply interested in history
-- **Religion:** Flame is present, but often seen metaphorically
-- **Traits:** Riddles, layered robes, relic obsession, ruined libraries
-- **Minorities:** Tight-knit Elf enclaves with their own dialects
-- **Tharros Connection:** High Archivist Alaric and many senior Brotherhood figures came from here
+- **Religion:** [Flame](#divinity) is present, but often seen metaphorically
+- **Traits:** Riddles, layered robes, [relic](#relics) obsession, ruined libraries
+- **Minorities:** Tight-knit [Elf](#elves) enclaves with their own dialects
+- **Tharros Connection:** [High Archivist Alaric](#high-archivist-alaric) and many senior [Brotherhood](#the-remnant-brotherhood) figures came from here
 
 ### The Veskar Wards (Dispersed Drakona city-states)
 
-- **Race-Based Culture:** Primarily **Drakona**
+- **Race-Based Culture:** Primarily **[Drakona](#drakona)**
 - **Identity:** Draconic pride, ancient rites, tradition of elemental pacts
 - **Religion:** Personal connection to elemental forces and "Elder Flame" myths
 - **Traits:** Formal speech, horn-braiding, breath-color ceremonies
-- **Tharros Connection:** Often viewed as "dangerous mystics"; the Assembly courts their wisdom
+- **Tharros Connection:** Often viewed as "dangerous mystics"; the [Assembly](#the-veiled-assembly) courts their wisdom
 
 ### The Galari Shoals (Archipelago homeland of the Galapa)
 
-- **Race-Based Culture:** Galapa majority, some Humans
+- **Race-Based Culture:** [Galapa](#galapa) majority, some Humans
 - **Identity:** Communal, slow-moving decision-making, memory-centric culture
 - **Religion:** Oceanic spirits, long memory lines, deep respect for natural rhythms
 - **Traits:** Carved shells, floating shrines, oral family archives
-- **Tharros Connection:** Some Galapa settled inland Tharros to escape climate shifts
+- **Tharros Connection:** Some [Galapa](#galapa) settled inland Tharros to escape climate shifts
 
 ### The Hollow Marches (Exiled Inferis and outcasts)
 
-- **Race-Linked Culture:** Inferis dominant
+- **Race-Linked Culture:** [Inferis](#inferis) dominant
 - **Identity:** Rejects of other lands; revolutionary and occult undercurrents
-- **Religion:** Heretical offshoots of the Flame, dark gods, personal transcendence
+- **Religion:** Heretical offshoots of [the Flame](#divinity), dark gods, personal transcendence
 - **Traits:** Ash-horns, veiled faces, obsidian rings
-- **Tharros Connection:** The Shard Concord's ideological roots trace back here
+- **Tharros Connection:** The [Shard](#the-shard--nightweb-minor-faction) Concord's ideological roots trace back here
 
 ---
 
@@ -310,21 +336,21 @@ Tharros is not a secret, but neither is it a household name. It's *the place eve
 
 ### The Syndicate's Quiet Interest
 
-The **Ironbound Syndicate** operates outposts and controls trade routes. But they're *deliberate in keeping Tharros off the radar*. They avoid attracting state or rival corporate attention, presenting the island as unremarkable.
+The **[Ironbound Syndicate](#the-ironbound-syndicate)** operates outposts and controls trade routes. But they're *deliberate in keeping Tharros off the radar*. They avoid attracting state or rival corporate attention, presenting the island as unremarkable.
 
 - *"Expansion territory, minimal output. Not worth inspection."*
 - Internal memos, though, speak of "exceptional potential," "anomalous energies," and "competitive embargoes."
 
 ### The Church's Soft Warnings
 
-The **Church of the Eternal Flame** acknowledges Tharros, but publicly speaks of it as spiritually barren or unstable. Missionaries go, but not the promising ones. Sermons frame it as a place of moral *testing*, or temptation.
+The **[Church of the Eternal Flame](#the-church-of-the-eternal-flame-minor-faction)** acknowledges Tharros, but publicly speaks of it as spiritually barren or unstable. Missionaries go, but not the promising ones. Sermons frame it as a place of moral *testing*, or temptation.
 
 - *"The Flame burns weak where the soil remembers other fires."*
 - Some heretical sects believe Tharros is the *cradle* of true divinity. The Church condemns these ideas.
 
 ### The Scholar's Obsession
 
-Academics refer to Tharros in footnotes and fringe journals. The **Remnant Brotherhood** has seeded misinformation while pursuing relics and ruins in secret. Tharros is whispered about in university halls, often with mocking smiles.
+Academics refer to Tharros in footnotes and fringe journals. The **[Remnant Brotherhood](#the-remnant-brotherhood)** has seeded misinformation while pursuing [relics](#relics) and ruins in secret. Tharros is whispered about in university halls, often with mocking smiles.
 
 - *"Tharros? The island with singing rocks and blinking ruins? Yes, I did a paper on it once."*
 - *"No one ever publishes serious work on Tharros. Those who try... usually stop writing."*
@@ -352,12 +378,12 @@ Each of the major groups listed below claims to serve the island's well-being--b
 **Progress through Industry**
 
 *"Work. Prosper. Endure."*
---Magnate Theron
+--[Magnate Theron](#magnate-theron)
 
 The Syndicate sees Tharros as a land of potential: mines to dig, rail to lay, towns to build. They bring coin, steel, and structure to those who cooperate--and little patience for those who don't.
 
 - **Focus:** Infrastructure, jobs, protection, advancement
-- **Settlements:** Braycall Ridge, parts of Marrowhold
+- **Settlements:** [Braycall Ridge](#braycall-ridge-syndicate-stronghold), parts of [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core)
 
 **Quotes:**
 - *"We're not here to ruin the island. We're here to use it wisely--together."*
@@ -371,26 +397,26 @@ The Syndicate sees Tharros as a land of potential: mines to dig, rail to lay, to
 
 "We are builders. We don't worship rubble, and we don't speak in riddles. Tharros offers promise--its forests, its ore, its secrets--and we mean to use it for the good of all. We offer jobs, safety, roads, trade, and progress. Work with us, and we'll build something better together."
 
-**On the Brotherhood:** "Good intentions buried in old bones. They'd rather catalogue the world than fix it."
-**On the Assembly:** "They oppose everything. You can't feed families with tree songs."
-**On the Church:** "Well-meaning, if a bit slow. Useful in keeping people calm."
+**On the [Brotherhood](#the-remnant-brotherhood):** "Good intentions buried in old bones. They'd rather catalogue the world than fix it."
+**On the [Assembly](#the-veiled-assembly):** "They oppose everything. You can't feed families with tree songs."
+**On the [Church](#the-church-of-the-eternal-flame-minor-faction):** "Well-meaning, if a bit slow. Useful in keeping people calm."
 
 ### Public Opinions on the Syndicate
 
 **"I came here with nothing. The Syndicate gave me a job, a roof, and a new start. They don't ask for prayers, just hard work. That's worth something."**
--- *Gregor, mill foreman at Braycall Ridge*
+-- *[Gregor](#gregor), mill foreman at [Braycall Ridge](#braycall-ridge-syndicate-stronghold)*
 
 **"They talk like they're building a better future, but they don't have to drink the water downstream from their smelters. I do."**
--- *Rhea, herbalist in Thistleshade*
+-- *[Rhea](#rhea), herbalist in [Thistleshade](#thistleshade-assembly-stronghold)*
 
 **"They're honest, in their way. They tell you what they want, and they pay you for it. You just better not be in their way when they want it."**
--- *Tanis, dockhand in Nettlehook Port*
+-- *[Tanis](#tanis), dockhand in [Nettlehook](#nettlehook-black-market-port---nightweb-territory) Port*
 
 **"Say what you will, but my sister's got a new leg thanks to their engineers. She walks now. That's not greed, that's miracle metal."**
--- *Daro, tavern regular in Marrowhold*
+-- *[Daro](#daro), tavern regular in [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core)*
 
 **"I don't trust them. They smile too much when they talk about 'efficiency.'"**
--- *Old Lenne, retired miner*
+-- *[Old Lenne](#old-lenne), retired miner*
 
 ---
 
@@ -401,12 +427,12 @@ The Syndicate sees Tharros as a land of potential: mines to dig, rail to lay, to
 **Wisdom from the Past**
 
 *"Preserve. Study. Respect."*
---High Archivist Alaric
+--[High Archivist Alaric](#high-archivist-alaric)
 
-The ruins of Tharros may hold truths the world has forgotten--or truths it chose to forget. The Brotherhood studies the Relics and the language of a dead civilization. They claim their work prevents catastrophe. Others say it causes it.
+The ruins of Tharros may hold truths the world has forgotten--or truths it chose to forget. The Brotherhood studies the [Relics](#relics) and the language of a dead civilization. They claim their work prevents catastrophe. Others say it causes it.
 
-- **Focus:** Research, expeditions, relic safety (or secrecy)
-- **Settlements:** Aurel's Reach, Marrowhold archives
+- **Focus:** Research, expeditions, [relic](#relics) safety (or secrecy)
+- **Settlements:** [Aurel's Reach](#aurels-reach-brotherhood-hub), [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core) archives
 
 **Quotes:**
 - *"You cannot build a future on bones unless you first learn the names of the dead."*
@@ -416,30 +442,30 @@ The ruins of Tharros may hold truths the world has forgotten--or truths it chose
 ### High Archivist Alaric
 
 <!-- CATEGORY: NPC -->
-**Speaker:** Scholar and Preserver (from Myrrhun)
+**Speaker:** Scholar and Preserver (from [Myrrhun](#myrrhun-cradle-of-arcane-studies-mountainous-interior))
 
 "Tharros was not merely an island. It was once a civilization of astonishing complexity--far beyond our understanding. We dedicate ourselves to preserving what remains, not to exploit it, but to understand it, learn from it, and prevent another catastrophe. We are not here to rule. We are here to remember."
 
-**On the Syndicate:** "Short-sighted. They'd strip-mine a cathedral if it had copper in the walls."
-**On the Assembly:** "Well-intentioned, but trapped in mysticism. They burn knowledge to save moss."
-**On the Church:** "Their unity dogma is quaint, but at least they care about balance."
+**On the [Syndicate](#the-ironbound-syndicate):** "Short-sighted. They'd strip-mine a cathedral if it had copper in the walls."
+**On the [Assembly](#the-veiled-assembly):** "Well-intentioned, but trapped in mysticism. They burn knowledge to save moss."
+**On the [Church](#the-church-of-the-eternal-flame-minor-faction):** "Their unity dogma is quaint, but at least they care about balance."
 
 ### Public Opinions on the Brotherhood
 
 **"I saw one of them pull a glyph-covered ring out of the mud and just... stare at it like it was an old lover. I think they *feel* something about this island no one else does."**
--- *Calia, local guide*
+-- *[Calia](#calia), local guide*
 
 **"They think they're better than the rest of us. Like books and ruins give them the right to decide who gets to live where."**
--- *Miran, homesteader displaced by an excavation claim*
+-- *[Miran](#miran), homesteader displaced by an excavation claim*
 
 **"I spent two weeks with a Brotherhood crew cataloging coral patterns. They were respectful. Weirdly quiet, but good people. Passionate."**
--- *Tarel, fisher from the northern coast*
+-- *[Tarel](#tarel), fisher from the northern coast*
 
 **"They say they preserve the past, but every time I ask about what they *found*, it's always 'restricted,' 'dangerous,' or 'inconclusive.' Sounds like gatekeeping."**
--- *Bennet, frustrated scholar*
+-- *[Bennet](#bennet), frustrated scholar*
 
 **"The Brotherhood sponsored my child's education. Free scrolls, tutoring. Not all of them are dusty relic-huggers."**
--- *Nina, merchant widow*
+-- *[Nina](#nina), merchant widow*
 
 ---
 
@@ -450,12 +476,12 @@ The ruins of Tharros may hold truths the world has forgotten--or truths it chose
 **Harmony with the Island**
 
 *"Listen. Protect. Endure."*
---Maera
+--[Maera](#maera)
 
-The Assembly believes the land is not merely alive--it is wounded. Every act of exploitation deepens the scars. They resist Syndicate expansion, Brotherhood digging, and anything that harms the balance. But they are not above using force when warnings go ignored.
+The Assembly believes the land is not merely alive--it is wounded. Every act of exploitation deepens the scars. They resist [Syndicate](#the-ironbound-syndicate) expansion, [Brotherhood](#the-remnant-brotherhood) digging, and anything that harms the balance. But they are not above using force when warnings go ignored.
 
 - **Focus:** Sustainable living, healing, resistance
-- **Settlements:** Thistleshade, scattered camps
+- **Settlements:** [Thistleshade](#thistleshade-assembly-stronghold), scattered camps
 
 **Quotes:**
 - *"When the earth screams, we answer. Will you?"*
@@ -467,11 +493,11 @@ The Assembly believes the land is not merely alive--it is wounded. Every act of 
 <!-- CATEGORY: NPC -->
 **Speaker:** Voice of the Island
 
-"The land is older than any of us. It remembers pain. Reckonings are not storms or curses--they are immune responses. Every stone overturned, every relic disturbed without reverence brings us closer to collapse. We are not isolationists--we are guardians. Work with us, and we'll teach you to hear the island before it screams again."
+"The land is older than any of us. It remembers pain. [Reckonings](#reckonings) are not storms or curses--they are immune responses. Every stone overturned, every [relic](#relics) disturbed without reverence brings us closer to collapse. We are not isolationists--we are guardians. Work with us, and we'll teach you to hear the island before it screams again."
 
-**On the Syndicate:** "They call it progress. We call it poison."
-**On the Brotherhood:** "Curiosity without wisdom. They wear lab coats and carry knives."
-**On the Church:** "Sometimes wise, sometimes meddling. Flame burns, even if holy."
+**On the [Syndicate](#the-ironbound-syndicate):** "They call it progress. We call it poison."
+**On the [Brotherhood](#the-remnant-brotherhood):** "Curiosity without wisdom. They wear lab coats and carry knives."
+**On the [Church](#the-church-of-the-eternal-flame-minor-faction):** "Sometimes wise, sometimes meddling. Flame burns, even if holy."
 
 ### The Assembly's True Nature (GM Secret)
 
@@ -482,24 +508,24 @@ The Assembly believes the land is not merely alive--it is wounded. Every act of 
 **Reality**: Eco-radicals who will destroy what you build if it threatens the land.
 
 **Political Posture:**
-- **Openly opposed** to the Brotherhood and Syndicate--calls them both "colonial parasites," albeit using more poetic language when needed.
-- Tries to win the hearts of common settlers in **Marrowhold** and nearby homesteads by offering **free healing, guidance, and safe passage**--often before the factions even respond.
+- **Openly opposed** to the [Brotherhood](#the-remnant-brotherhood) and [Syndicate](#the-ironbound-syndicate)--calls them both "colonial parasites," albeit using more poetic language when needed.
+- Tries to win the hearts of common settlers in **[Marrowhold](#marrowhold-first-and-central-settlement---neutral-core)** and nearby homesteads by offering **free healing, guidance, and safe passage**--often before the factions even respond.
 - Believes the people of Tharros (especially new settlers) can be **taught to live in balance**, but if they resist, they become **acceptable sacrifices**.
 
 **Radical Core:**
-- Operates **direct sabotage missions**: blowing up bridges, poisoning machines, and freeing captive relics.
+- Operates **direct sabotage missions**: blowing up bridges, poisoning machines, and freeing captive [relics](#relics).
 - Refers to these actions as "cleansings," "ritual corrections," or "symbiotic disruption."
-- Hides weapons and Relic-based tools in the roots of ancient trees. Their hit cells are **small, autonomous**, and always vanish afterward.
+- Hides weapons and [Relic](#relics)-based tools in the roots of ancient trees. Their hit cells are **small, autonomous**, and always vanish afterward.
 
 **Propaganda Strategy:**
 - Distributes **parables and cautionary poems** through wandering bards and herbalists.
 - Claims their extreme actions are **the island's will**, not their own.
-- Regularly spread rumors that **Brotherhood experiments have caused Reckonings**, or that **Syndicate drill sites are leaking madness**.
+- Regularly spread rumors that **[Brotherhood](#the-remnant-brotherhood) experiments have caused [Reckonings](#reckonings)**, or that **[Syndicate](#the-ironbound-syndicate) drill sites are leaking madness**.
 
 **Internal Conflict:**
-- Not all Assembly members agree with Maera's militant path.
+- Not all Assembly members agree with [Maera](#maera)'s militant path.
 - Some are trying to **build a cooperative model**, especially with sympathetic settlers and druids who aren't ready to take up arms.
-- Others think she's **not going far enough**, and want to begin "pruning" Marrowhold itself before it becomes too dangerous.
+- Others think she's **not going far enough**, and want to begin "pruning" [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core) itself before it becomes too dangerous.
 
 **Tension Leverage:**
 - In Marrowhold, Assembly agents are **healers, midwives, and guides**. Quietly asking questions. Offering protection "in case the Syndicate gets bold again."
@@ -519,19 +545,19 @@ When characters interact with Assembly members, here's what they'll hear:
 ### Public Opinions on the Assembly
 
 **"When the storms came, they showed up with warm tea, salves, and seeds. They never asked for payment. They just said, 'respect the land, and it will respect you.'"**
--- *Yarin, farmer near the Marrowwood border*
+-- *[Yarin](#yarin), farmer near the [Marrowwood](#marrowwood) border*
 
 **"Their idea of 'balance' meant burning our storage shed because it was built on sacred soil. That shed fed four families. Tell me that's protection."**
--- *Ilso, survivor from an abandoned hamlet*
+-- *[Ilso](#ilso), survivor from an abandoned hamlet*
 
 **"Some of them are strange. Talking to stones and birds and such. But I've never met one who lied to my face."**
--- *Marda, courier*
+-- *[Marda](#marda), courier*
 
 **"They're stubborn. Gods help you if you try to reason with them once they've 'heard the will of the island.' But at least they believe something."**
--- *Kerrik, ex-Brotherhood assistant*
+-- *[Kerrik](#kerrik), ex-[Brotherhood](#the-remnant-brotherhood) assistant*
 
-**"The Assembly midwives helped deliver my daughter when the Church clinic was full. They sing to the newborns. It's eerie... and beautiful."**
--- *Orla, settler in Marrowhold outskirts*
+**"The Assembly midwives helped deliver my daughter when the [Church](#the-church-of-the-eternal-flame-minor-faction) clinic was full. They sing to the newborns. It's eerie... and beautiful."**
+-- *[Orla](#orla), settler in [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core) outskirts*
 
 ---
 
@@ -542,25 +568,25 @@ When characters interact with Assembly members, here's what they'll hear:
 **One Flame, Many Faces**
 
 *"Kindle what connects us."*
---Priest-Ambassador Elyna
+--[Priest-Ambassador Elyna](#priest-ambassador-elyna)
 
 The Church offers guidance, healing, and unity. They believe all divine sparks come from a single flame, worshipped in many forms. Their presence brings calm--but also quiet judgment. They often mediate disputes and care for the lost.
 
 - **Focus:** Hospitals, shrines, social support, education
-- **Settlements:** Ashlight Monastery, temples in Marrowhold
+- **Settlements:** [Ashlight Monastery](#ashlight-monastery-church-enclave), temples in [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core)
 
 **Quote:** *"We do not demand faith. Only that you keep your flame lit."*
 
 ### Priest-Ambassador Elyna
 
 <!-- CATEGORY: NPC -->
-**Voice:** Flamebearer of Marrowhold
+**Voice:** Flamebearer of [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core)
 
-"We believe the world carries a light at its center--one flame, many faces. Whether you call it hope, faith, magic, or mercy, we are here to tend it. We offer healing, clarity, and unity in a divided land. We do not choose sides. We remind them of the spark that binds all."
+"We believe the world carries a light at its center--one flame, many faces. Whether you call it hope, faith, [magic](#magic), or mercy, we are here to tend it. We offer healing, clarity, and unity in a divided land. We do not choose sides. We remind them of the spark that binds all."
 
-**On the Syndicate:** "They mean well, but build too fast."
-**On the Brotherhood:** "They chase truth but forget compassion."
-**On the Assembly:** "They protect--but fire that is not tempered becomes wild."
+**On the [Syndicate](#the-ironbound-syndicate):** "They mean well, but build too fast."
+**On the [Brotherhood](#the-remnant-brotherhood):** "They chase truth but forget compassion."
+**On the [Assembly](#the-veiled-assembly):** "They protect--but fire that is not tempered becomes wild."
 
 ### Extended Commentary on the Church
 
@@ -586,16 +612,16 @@ Perhaps the Church is both shepherd and jailer. Perhaps that is the price of fir
 -- *Verra, blacksmith's wife*
 
 **"Too soft. Always talking about unity. The island isn't unified, it's *fractured*. You can't just bless the cracks and hope they vanish."**
--- *Sarth, ex-Assembly sympathizer*
+-- *[Sarth](#sarth), ex-[Assembly](#the-veiled-assembly) sympathizer*
 
-**"Priest Elyna gave me work when I couldn't stand the Syndicate no more. Her eyes are tired, but her voice could calm a storm."**
--- *Rund, reformed Syndicate guard*
+**"[Priest Elyna](#priest-ambassador-elyna) gave me work when I couldn't stand the [Syndicate](#the-ironbound-syndicate) no more. Her eyes are tired, but her voice could calm a storm."**
+-- *[Rund](#rund), reformed [Syndicate](#the-ironbound-syndicate) guard*
 
-**"I trust their fire more than the Brotherhood's silence or the Syndicate's promises. At least with them, you *know* what they believe."**
--- *Jara, teacher in Ember's Hollow*
+**"I trust their fire more than the [Brotherhood](#the-remnant-brotherhood)'s silence or the [Syndicate](#the-ironbound-syndicate)'s promises. At least with them, you *know* what they believe."**
+-- *[Jara](#jara), teacher in [Ember's Hollow](#embers-hollow)*
 
-**"They say the Flame unites us--but I've seen that same Flame used to justify punishment. Not from Elyna, but the quiet ones. The ones with red sashes."**
--- *Hess, wandering bard*
+**"They say the Flame unites us--but I've seen that same Flame used to justify punishment. Not from [Elyna](#priest-ambassador-elyna), but the quiet ones. The ones with red sashes."**
+-- *[Hess](#hess), wandering bard*
 
 ---
 
@@ -606,12 +632,12 @@ Perhaps the Church is both shepherd and jailer. Perhaps that is the price of fir
 **Pragmatism without Pretense**
 
 *"Get it done. Or we will."*
---(Attributed to "Whisper")
+--(Attributed to "[Whisper](#whisper)")
 
 No banners. No sermons. Just results. The Shard operates in the cracks of power--smugglers, saboteurs, and freelancers with flexible morals. They don't ask for loyalty, only usefulness.
 
-- **Focus:** Smuggling, espionage, relic theft
-- **Locations:** Unknown, but often suspected in Marrowhold
+- **Focus:** Smuggling, espionage, [relic](#relics) theft
+- **Locations:** Unknown, but often suspected in [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core)
 
 **Quote:** *"Everyone has ideals. Ours is survival."*
 
@@ -619,15 +645,21 @@ No banners. No sermons. Just results. The Shard operates in the cracks of power-
 
 **On everyone else:** "They all want to own the island. We just want to survive it."
 
+### Whisper
+
+<!-- CATEGORY: NPC, SECRET -->
+
+The rumored leader (or one of several leaders) of the Nightweb. No one has confirmed their identity, gender, or even if "Whisper" is a single person or a title passed between operatives. Some say they've met Whisper without knowing it; others claim Whisper doesn't exist at all--just a convenient fiction to make the Nightweb seem more organized than it is.
+
 ### Whispers of the Shard
 
-**"Who built the new well in our village? Wasn't the Syndicate. Wasn't the Brotherhood. Someone just left tools and vanished. I hear that's how the Shard 'hires' you."**
--- *Anonymous note left in Braycall Ridge*
+**"Who built the new well in our village? Wasn't the [Syndicate](#the-ironbound-syndicate). Wasn't the [Brotherhood](#the-remnant-brotherhood). Someone just left tools and vanished. I hear that's how the Shard 'hires' you."**
+-- *Anonymous note left in [Braycall Ridge](#braycall-ridge-syndicate-stronghold)*
 
 **"They don't ask questions, don't make speeches. They get it done--for a price. That's dangerous power, but sometimes it's the only kind that answers."**
 -- *Unknown informant*
 
-**"You want relics? The Brotherhood files. Syndicate vaults. There's always a Shard already inside."**
+**"You want [relics](#relics)? The [Brotherhood](#the-remnant-brotherhood) files. [Syndicate](#the-ironbound-syndicate) vaults. There's always a Shard already inside."**
 -- *Graffiti carved into a shipping crate*
 
 ---
@@ -640,23 +672,23 @@ These minor organizations bring the island's social and criminal gravity to life
 
 ### Black Reef Corsairs
 
-Ruthless bandits operating from hidden coves along Tharros's coast. They smuggle goods, raid supply ships, and sometimes strike inland. They're heavily tied to the Nightweb, serving as their maritime muscle.
+Ruthless bandits operating from hidden coves along Tharros's coast. They smuggle goods, raid supply ships, and sometimes strike inland. They're heavily tied to the [Nightweb](#the-shard--nightweb-minor-faction), serving as their maritime muscle. Connected to the [Corsair Clans](#corsair-clans) culture.
 
 ### The Embercut Brotherhood
 
-A gang of ex-laborers and disgruntled miners who loot abandoned Syndicate camps and relist their plunder. Mercurial in loyalty, they're opportunists who can be allies or enemies of any faction.
+A gang of ex-laborers and disgruntled miners who loot abandoned [Syndicate](#the-ironbound-syndicate) camps and relist their plunder. Mercurial in loyalty, they're opportunists who can be allies or enemies of any faction.
 
 ### Forest Wraiths
 
-Stealthy vigilantes protecting Assembly territory. Part partisan militia, part mythic ghost story, they sabotage Syndicate operations and leave ominous warnings carved into trees.
+Stealthy vigilantes protecting [Assembly](#the-veiled-assembly) territory. Part partisan militia, part mythic ghost story, they sabotage [Syndicate](#the-ironbound-syndicate) operations and leave ominous warnings carved into trees.
 
 ### Flamebound Zealots
 
-A radical sect offshoot of the Church of the Eternal Flame. They interpret any Relic manifestation as holy fire--and destroy artifacts in fervent holy fury, sometimes attacking innocents.
+A radical sect offshoot of the [Church of the Eternal Flame](#the-church-of-the-eternal-flame). They interpret any [Relic](#relics) manifestation as holy fire--and destroy artifacts in fervent holy fury, sometimes attacking innocents. Related to the [Flamekeepers](#flamekeepers) culture.
 
 ### Relic Runners
 
-Independent treasure hunters and relic dealers unaffiliated with any faction. They hire PCs to locate and smuggle Relics, cutting deals with whoever offers the best price--or the safest escape.
+Independent treasure hunters and [relic](#relics) dealers unaffiliated with any faction. They hire PCs to locate and smuggle [Relics](#relics), cutting deals with whoever offers the best price--or the safest escape.
 
 ---
 <!-- CATEGORY: LOCATION -->
@@ -677,9 +709,9 @@ Independent treasure hunters and relic dealers unaffiliated with any faction. Th
 - Originally a **communal project** meant to unite people under shared survival.
 
 **Evolution:**
-- As the Syndicate and Brotherhood established themselves nearby, they **offered aid, investment, and "cooperation"**.
+- As the [Syndicate](#the-ironbound-syndicate) and [Brotherhood](#the-remnant-brotherhood) established themselves nearby, they **offered aid, investment, and "cooperation"**.
 - Today, both have **minor offices and operatives here**, offering "services" and "advice."
-- Assembly sympathizers live quietly among the herbalists, farmers, and ferrymen.
+- [Assembly](#the-veiled-assembly) sympathizers live quietly among the herbalists, farmers, and ferrymen.
 
 **Tone:**
 - Fragile, democratic, exhausted. It survives because **everyone wants to claim it--but no one wants to be the first to break it**.
@@ -687,32 +719,43 @@ Independent treasure hunters and relic dealers unaffiliated with any faction. Th
 
 ---
 
+## Minor Settlements and Districts
+
+<!-- CATEGORY: LOCATION -->
+
+| Settlement | Type | Affiliation | Population | Description | Notable Features |
+| ---------- | ---- | ----------- | ---------- | ----------- | ---------------- |
+| **Marrowwood** | Forest region | [Assembly](#the-veiled-assembly)-sympathetic | Unknown | Forested area near [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core) | Home to farmers/homesteaders |
+| **Ember's Hollow** | Settlement/district | [Church](#the-church-of-the-eternal-flame) presence | Unknown | Settlement with Church influence | Teachers, believers |
+
+---
+
 ### Braycall Ridge (Syndicate Stronghold)
 
 <!-- CATEGORY: LOCATION, FACTION -->
 
-**Population:** ~500 (150 core Syndicate, 350 laborers or dependents)
-**Alignment:** Syndicate-dominated, with Brotherhood "consultants"
+**Population:** ~500 (150 core [Syndicate](#the-ironbound-syndicate), 350 laborers or dependents)
+**Alignment:** [Syndicate](#the-ironbound-syndicate)-dominated, with [Brotherhood](#the-remnant-brotherhood) "consultants"
 **Public Motto:** *"Progress through unity. Together, we rise."*
 
 **Origins:**
-- Founded as a **mining camp** that struck deep veins of metal and crystalline Precursor material.
-- Quickly expanded under Syndicate management; heavily reliant on imported labor.
-- Founded not by executive decree but by **a charismatic expedition leader**, now a Syndicate agent (Magnate Theron's protege).
+- Founded as a **mining camp** that struck deep veins of metal and crystalline [Precursor](#precursors--ancestors) material.
+- Quickly expanded under [Syndicate](#the-ironbound-syndicate) management; heavily reliant on imported labor.
+- Founded not by executive decree but by **a charismatic expedition leader**, now a [Syndicate](#the-ironbound-syndicate) agent ([Magnate Theron](#magnate-theron)'s protege).
 - Marketed as a **land of opportunity**, with jobs, safety, and wages better than back home--especially for those displaced by mainland wars or famine.
 
 **Evolution:**
-- Brotherhood surveyors were granted access (in exchange for support), and now maintain a quiet **research annex** nearby.
-- The Assembly considers the whole town **blighted**, occasionally attacking convoys or disrupting supply lines.
+- [Brotherhood](#the-remnant-brotherhood) surveyors were granted access (in exchange for support), and now maintain a quiet **research annex** nearby.
+- The [Assembly](#the-veiled-assembly) considers the whole town **blighted**, occasionally attacking convoys or disrupting supply lines.
 
 **Surface Image:**
 - Public schools (basic), free meals for laborers, and well-built housing compared to other outposts.
 - A celebratory vibe: **"We're building something real here."**
-- Encourages settler-owned businesses (so long as they don't compete with Syndicate control).
+- Encourages settler-owned businesses (so long as they don't compete with [Syndicate](#the-ironbound-syndicate) control).
 
 **Below the Surface:**
 - **Debt contracts** trap workers in long-term labor.
-- Those who challenge Syndicate practices are **transferred, dismissed... or disappear**.
+- Those who challenge [Syndicate](#the-ironbound-syndicate) practices are **transferred, dismissed... or disappear**.
 - Regular "safety inspections" are also loyalty checks.
 
 **Tone:**
@@ -730,19 +773,19 @@ Independent treasure hunters and relic dealers unaffiliated with any faction. Th
 <!-- CATEGORY: LOCATION, FACTION -->
 
 **Population:** ~220
-**Alignment:** Brotherhood Core, Limited Outsider Access
+**Alignment:** [Brotherhood](#the-remnant-brotherhood) Core, Limited Outsider Access
 **Public Motto:** *"Understanding is freedom. Truth is our inheritance."*
 
 **Origins:**
-- Established by the Brotherhood on a plateau near concentrated Relic sites.
-- Named for the first scholar to map the "Patterned Pulse" of Reckonings--who died shortly after.
+- Established by the [Brotherhood](#the-remnant-brotherhood) on a plateau near concentrated [Relic](#relics) sites.
+- Named for the first scholar to map the "Patterned Pulse" of [Reckonings](#reckonings)--who died shortly after.
 - Originally a **multinational expedition** of scholars, artists, and philosophers.
-- The Brotherhood later absorbed the site into their order, touting it as a **"free learning enclave."**
+- The [Brotherhood](#the-remnant-brotherhood) later absorbed the site into their order, touting it as a **"free learning enclave."**
 
 **Evolution:**
-- A gated campus-town with observation towers, relic containment vaults, and a strict curfew.
+- A gated campus-town with observation towers, [relic](#relics) containment vaults, and a strict curfew.
 - **Local workers are vetted** extensively before being allowed entry or employment.
-- Syndicate "sponsors" some equipment shipments, but they're kept at arm's length.
+- [Syndicate](#the-ironbound-syndicate) "sponsors" some equipment shipments, but they're kept at arm's length.
 
 **Surface Image:**
 - Open forums for debate, guest lectures, community events.
@@ -769,7 +812,7 @@ Independent treasure hunters and relic dealers unaffiliated with any faction. Th
 <!-- CATEGORY: LOCATION, FACTION -->
 
 **Population:** ~100 permanent (150+ migratory allies, up to 200+ seasonal sympathizers, refugees)
-**Alignment:** Assembly-aligned, Anti-structure by design
+**Alignment:** [Assembly](#the-veiled-assembly)-aligned, Anti-structure by design
 **Public Motto:** *"Walk gently. Take only what you can carry in silence."*
 
 **Origins:**
@@ -779,9 +822,9 @@ Independent treasure hunters and relic dealers unaffiliated with any faction. Th
 - Located in the **dense interior**, half built into cliffs, canopies, and hollowed-out stone arches overgrown with glowing moss.
 
 **Evolution:**
-- Refuses centralized leadership. Maera is their voice, not their ruler.
-- Openly rejects Syndicate and Brotherhood expansion, but sends envoys to Marrowhold.
-- Embraced by the Veiled Assembly as **proof that coexistence was still possible**.
+- Refuses centralized leadership. [Maera](#maera) is their voice, not their ruler.
+- Openly rejects [Syndicate](#the-ironbound-syndicate) and [Brotherhood](#the-remnant-brotherhood) expansion, but sends envoys to [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core).
+- Embraced by the [Veiled Assembly](#the-veiled-assembly) as **proof that coexistence was still possible**.
 
 **Surface Image:**
 - Beautiful, serene commune. Living gardens. Flowing springs.
@@ -793,11 +836,11 @@ Independent treasure hunters and relic dealers unaffiliated with any faction. Th
 
 **Below the Surface:**
 - Some rooms are **sealed off with living roots**.
-- "Foundlings" who appear after Reckonings are **tested** in rituals no outsider is told about.
+- "Foundlings" who appear after [Reckonings](#reckonings) are **tested** in rituals no outsider is told about.
 - All guests are watched, even those who think they're friends.
 - Anyone asking "too much" is offered tea... and a walk.
 - Outsiders are gently "redirected" if they stay too long or ask the wrong questions.
-- The Assembly has **sabotaged other settlements** and has an internal "circle of the root" that vets everything.
+- The [Assembly](#the-veiled-assembly) has **sabotaged other settlements** and has an internal "circle of the root" that vets everything.
 - Some plants used in healing are **not legal**--and some are not explainable.
 
 **Tone:**
@@ -825,8 +868,8 @@ Independent treasure hunters and relic dealers unaffiliated with any faction. Th
 - Declared it holy ground, believing the **island itself was wounded--and the Flame seeks to heal it.**
 
 **Evolution:**
-- Church leadership supports missionary work in Marrowhold and Braycall, though not always welcome.
-- Friction with Brotherhood is rising over the "theft" of sacred relics.
+- [Church](#the-church-of-the-eternal-flame) leadership supports missionary work in [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core) and [Braycall](#braycall-ridge-syndicate-stronghold), though not always welcome.
+- Friction with [Brotherhood](#the-remnant-brotherhood) is rising over the "theft" of sacred [relics](#relics).
 
 **Surface Image:**
 - Offers **shelter, medicine, and spiritual guidance** to travelers and pilgrims.
@@ -835,7 +878,7 @@ Independent treasure hunters and relic dealers unaffiliated with any faction. Th
 
 **Below the Surface:**
 - Those "blessed by the Flame" sometimes return... different.
-- Militant members prepare for a **coming reckoning** they believe the Flame prophesies.
+- Militant members prepare for a **coming [reckoning](#reckonings)** they believe the Flame prophesies.
 - Nonbelievers who disrupt rituals are **politely asked to leave**--and never seen again.
 
 **Tone:**
@@ -854,18 +897,18 @@ Independent treasure hunters and relic dealers unaffiliated with any faction. Th
 <!-- CATEGORY: LOCATION, FACTION -->
 
 **Population:** ~300
-**Alignment:** Officially unaffiliated. Unofficially owned by the Nightweb.
+**Alignment:** Officially unaffiliated. Unofficially owned by the [Nightweb](#the-shard--nightweb-minor-faction).
 **Public Motto:** *"No gods. No masters. No questions."*
 
 **Origins:**
-- Built in a delta where old Corsair ruins offered mooring and secrecy.
+- Built in a delta where old [Corsair](#corsair-clans) ruins offered mooring and secrecy.
 - A failed smuggler's port turned anarchist haven after being abandoned for years.
 - Refounded by freebooters, exiles, and independent traders **refusing to bend to any faction**.
 - Became a trade stop for those **sick of rules, taxes, or questions**.
 
 **Evolution:**
 - Hosts merchants, mercenaries, spies, and smugglers from every faction.
-- Everyone denies knowing the Nightweb exists. Especially the Nightweb.
+- Everyone denies knowing the [Nightweb](#the-shard--nightweb-minor-faction) exists. Especially the [Nightweb](#the-shard--nightweb-minor-faction).
 
 **Surface Image:**
 - Bustling trade hub where anyone can do business.
@@ -873,8 +916,8 @@ Independent treasure hunters and relic dealers unaffiliated with any faction. Th
 - Local council enforces a loose "don't cause trouble" code with fairness and speed.
 
 **Below the Surface:**
-- The Nightweb runs everything. **Every bar, stall, and ferry has ears.**
-- "Neutrality" hides **a system of coercion and debt** worse than the Syndicate.
+- The [Nightweb](#the-shard--nightweb-minor-faction) runs everything. **Every bar, stall, and ferry has ears.**
+- "Neutrality" hides **a system of coercion and debt** worse than the [Syndicate](#the-ironbound-syndicate).
 - Rumors say **some residents don't age**, or forget their families.
 
 **Tone:**
@@ -894,22 +937,23 @@ Independent treasure hunters and relic dealers unaffiliated with any faction. Th
 
 These are known on maps or in rumors but often **uncertain, shifting, or partial**.
 
-| Location | Description |
-| ----- | ----- |
-| **Spire Basin** | Craterlike bowl surrounded by spiny rock. Site of the **Deep Pulse Reckoning**. No one who enters alone returns. |
-| **Gravemire Bastion** | Imperial-era ruin in the bogs. Stonework preserved in stasis. A few doors resist reality. |
-| **The Ember Rings** | Former Flame Disciple ritual site. Ground is glasslike. Voices come through when the wind blows right. |
-| **Whisperwind Hollow** | Lush, fog-filled ravine where birds don't fly. Assembly guides claim it "remembers sorrow." |
-| **The Singing Spine** | Mountain range laced with wind-hollowed caves. Some say it's not a mountain but the skeleton of something buried. |
-| **The Obsidian Veil** | Forbidden zone where "Relics bloom" from stone. Entering causes hallucinations--or awakening. Known to both Brotherhood and Assembly. |
-| **Corsair's Vault** | Flooded sea-cave with smuggled Relics and traps left by a vanished pirate enclave. |
-| **The Garden That Eats** | An overgrown estate rumored to devour those who sleep in it. Last explored by Brotherhood surveyors... now changed. |
-| **The Bone Ring** | A half-buried circle of stone foundations far inland--said to be all that remains of a mining town established thirty years ago and gone within three. |
-| **Venter's Wharf** | A pier still juts into a bay, but the sea around it is unnaturally calm and refuses to rise or fall with the tide. |
-| **Ashward Steps** | A spiral staircase carved into a basalt mountain, descending far below sea level. The deeper levels are warm and echo with chanting no one can trace. |
-| **The Drift Market** | Remains of a floating settlement scattered across the coast. Debris still drifts between anchor-points. |
-| **Kiremon's Landing** | Early Brotherhood outpost with sealed archives and survey towers. |
-| **Port Brayne** | Early Syndicate settlement. |
+| Location | Era | Type | Description | Danger Level |
+| -------- | --- | ---- | ----------- | ------------ |
+| **Spire Basin** | Unknown | Reckoning Site | Craterlike bowl surrounded by spiny rock. Site of the **Deep Pulse [Reckoning](#reckonings)**. | Extreme - No solo returns |
+| **Gravemire Bastion** | [Pale Colonies](#the-pale-colonies) (~300 yrs) | Imperial Ruin | Crumbling keep in bogs. Stonework in stasis. Petrified skeletons mid-motion. | High - Reality unstable |
+| **The Ember Rings** | [Flame Disciples](#the-flame-disciples) (~150 yrs) | Ritual Site | Stone circles with glasslike floors. Voices come when wind blows right. | Moderate - Auditory effects |
+| **Whisperwind Hollow** | Unknown | Natural Anomaly | Fog-filled ravine where birds don't fly. [Assembly](#the-veiled-assembly) says it "remembers sorrow." | Low - Psychological |
+| **The Singing Spine** | Pre-[Precursor](#ancestors--the-precursors)? | Mountain Range | Wind-hollowed caves that hum. May be skeleton of something buried. Invites dreamers inside. | High - Mental influence |
+| **The Obsidian Veil** | [Precursor](#ancestors--the-precursors) | Forbidden Zone | "[Relics](#relics) bloom" from stone. Causes hallucinations or awakening. | Extreme - Transformation |
+| **Corsair's Vault** | [Silent Trade](#the-silent-trade-enclave) (~80 yrs) | Sea Cave | Flooded cave with smuggled [relics](#relics). Crates emit light, music, voices. | High - Traps active |
+| **The Garden That Eats** | Unknown | Estate Ruin | Overgrown estate where plants move. Those who sleep wake different--or don't. | Extreme - Consumption |
+| **The Bone Ring** | Modern (~30 yrs) | Mining Town | Half-buried foundations. Town gone in 3 years. Carved phrase: *"The ground listened."* | Unknown |
+| **Venter's Wharf** | [Pale Colonies](#the-pale-colonies) (~300 yrs) | Port Ruin | Pier jutting into bay. Sea unnaturally calm, ignores tides. | Low - Eerie |
+| **Ashward Steps** | [Flame Disciples](#the-flame-disciples) (~150 yrs) | Underground | Spiral staircase below sea level. Deep levels warm with untraceable chanting. | High - Descent danger |
+| **The Drift Market** | [Silent Trade](#the-silent-trade-enclave) (~80 yrs) | Floating Ruins | Scattered debris of floating settlement. Still drifts between anchor-points. | Moderate - Unstable |
+| **Kiremon's Landing** | Modern (~30 yrs) | [Brotherhood](#the-remnant-brotherhood) Outpost | Sealed archives and survey towers. Access restricted. | Moderate - Guarded |
+| **Port Brayne** | Modern (~35 yrs) | [Syndicate](#the-ironbound-syndicate) Settlement | Early [Syndicate](#the-ironbound-syndicate) outpost. Still operational. | Low - Civilized |
+| **Cape Vaidari** | Unknown | Lighthouse | Mysterious lighthouse, [Orly](#orly-human-cleric)'s quest destination. Blinks three times on certain nights. | Unknown - "Sea gets hungry" |
 
 ---
 
@@ -922,28 +966,28 @@ These are the **known ruins or whispered relics** of Tharros's prior settlers. E
 ### The Pale Colonies (c. 300 years ago)
 
 **Known Ruins:**
-- **Gravemire Bastion**: A crumbling stone keep surrounded by swamp. Skeletons are petrified mid-motion--possibly by a Reckoning "freezing" a moment forever.
-- **Venter's Wharf**: A pier still juts into a bay, but the sea around it is unnaturally calm and refuses to rise or fall with the tide.
+- **[Gravemire Bastion](#gravemire-bastion)**: A crumbling stone keep surrounded by swamp. Skeletons are petrified mid-motion--possibly by a [Reckoning](#reckonings) "freezing" a moment forever.
+- **[Venter's Wharf](#venters-wharf)**: A pier still juts into a bay, but the sea around it is unnaturally calm and refuses to rise or fall with the tide.
 
 **What's Left:**
 - Letters etched into stone (not parchment).
-- Forgotten imperial coinage--some fused with Relic metal.
+- Forgotten imperial coinage--some fused with [Relic](#relics) metal.
 - A half-complete map of Tharros's coastline... but it's *wrong*, possibly prophetic.
 
 **Myths:**
 - *"The Pale King still watches."* A stone statue in the central keep turns to face intruders over time, without movement.
-- *"The Sun didn't rise one morning."* A Reckoning blanketed the sky in false starlight for a day. It never happened again.
+- *"The Sun didn't rise one morning."* A [Reckoning](#reckonings) blanketed the sky in false starlight for a day. It never happened again.
 
 ### The Flame Disciples (c. 150 years ago)
 
 **Known Ruins:**
-- **Ashward Steps**: A spiral staircase carved into a basalt mountain, descending far below sea level. The deeper levels are warm and echo with chanting no one can trace.
-- **The Ember Rings**: Stone circles with fused, glasslike floors and burnt offerings untouched by time.
+- **[Ashward Steps](#ashward-steps)**: A spiral staircase carved into a basalt mountain, descending far below sea level. The deeper levels are warm and echo with chanting no one can trace.
+- **[The Ember Rings](#the-ember-rings)**: Stone circles with fused, glasslike floors and burnt offerings untouched by time.
 
 **What's Left:**
-- "Sunmelted" icons--Relic cores possibly used as worship foci.
+- "Sunmelted" icons--[Relic](#relics) cores possibly used as worship foci.
 - Scrolls written in a mirror-script decipherable only with heat or firelight.
-- Robes with golden-thread embroidery that glows during Reckonings.
+- Robes with golden-thread embroidery that glows during [Reckonings](#reckonings).
 
 **Myths:**
 - *"They tried to become flame."* The last of the sect attempted a grand ritual to merge with the Eternal Fire. Some say it worked. Others say they never truly died.
@@ -952,13 +996,13 @@ These are the **known ruins or whispered relics** of Tharros's prior settlers. E
 ### The Silent Trade Enclave (c. 80 years ago)
 
 **Known Ruins:**
-- **Corsair's Vault**: A locked and trapped sea cave with crates still intact--some emitting light, music, or voices.
-- **The Drift Market**: Remains of a floating settlement scattered across the coast. Debris still drifts between anchor-points.
+- **[Corsair's Vault](#corsairs-vault)**: A locked and trapped sea cave with crates still intact--some emitting light, music, or voices.
+- **[The Drift Market](#the-drift-market)**: Remains of a floating settlement scattered across the coast. Debris still drifts between anchor-points.
 
 **What's Left:**
-- A Relic compass that doesn't point north--it spins wildly until a Reckoning ends.
+- A [Relic](#relics) compass that doesn't point north--it spins wildly until a [Reckoning](#reckonings) ends.
 - Drug caches, rare metals, and maps etched into sharkskin.
-- Hidden rendezvous stones etched with Nightweb symbols.
+- Hidden rendezvous stones etched with [Nightweb](#the-shard--nightweb-minor-faction) symbols.
 
 **Myths:**
 - *"You can still hear their deals."* On some beaches, during storms, whispered negotiations echo faintly--deals never finished.
@@ -966,7 +1010,7 @@ These are the **known ruins or whispered relics** of Tharros's prior settlers. E
 
 ### The Fledges
 
-A utopian farming commune that vanished between two Reckonings. Ask the Assembly, and they will tell you: *the land does not forget its scars*.
+A utopian farming commune that vanished between two [Reckonings](#reckonings). Ask the [Assembly](#the-veiled-assembly), and they will tell you: *the land does not forget its scars*.
 
 ---
 
@@ -977,7 +1021,7 @@ A utopian farming commune that vanished between two Reckonings. Ask the Assembly
 
 <!-- CATEGORY: LORE, ITEM -->
 
-Relics are materials, substances, and sometimes objects tied to **Precursor** activity or the strange presence that permeates Tharros. They don't obey natural laws, and interacting with them often has unpredictable, transformative consequences.
+Relics are materials, substances, and sometimes objects tied to **[Precursor](#ancestors--the-precursors)** activity or the strange presence that permeates Tharros. They don't obey natural laws, and interacting with them often has unpredictable, transformative consequences.
 
 They are:
 - **Not technological.** There's no circuitry or machinery--just impossible properties embedded in matter.
@@ -986,15 +1030,26 @@ They are:
 - **Alive, maybe.** Some scholars argue Relics react to intention, emotion, or proximity to other Relics.
 
 **Common Types:**
-- **Relic Ore**: Glittering, unstable mineral extracted through mining. The Syndicate hoards it.
-- **Relic-touched Objects**: Everyday items (cups, blades, mirrors) altered by proximity to Reckonings.
-- **Precursor Artifacts**: Deliberately shaped, often sealed--and far more dangerous.
+- **[Relic Ore](#relic-ore)**: Glittering, unstable mineral extracted through mining. The [Syndicate](#the-ironbound-syndicate) hoards it.
+- **[Relic-touched Objects](#relic-touched-objects)**: Everyday items (cups, blades, mirrors) altered by proximity to [Reckonings](#reckonings).
+- **[Precursor Artifacts](#precursor-artifacts)**: Deliberately shaped, often sealed--and far more dangerous.
 
 **Cultural Reactions:**
-- The **Church** believes Relics are sacred or cursed divine residue.
-- The **Brotherhood** wants to study and contain them.
-- The **Syndicate** wants to exploit and sell them.
-- The **Assembly** wants to leave them untouched--or destroyed if disturbed.
+- The **[Church](#the-church-of-the-eternal-flame)** believes Relics are sacred or cursed divine residue.
+- The **[Brotherhood](#the-remnant-brotherhood)** wants to study and contain them.
+- The **[Syndicate](#the-ironbound-syndicate)** wants to exploit and sell them.
+- The **[Assembly](#the-veiled-assembly)** wants to leave them untouched--or destroyed if disturbed.
+
+### Relic Types
+
+<!-- CATEGORY: ITEM, LORE -->
+
+| Relic Type | Description | Danger Level | Primary Interest |
+| ---------- | ----------- | ------------ | ---------------- |
+| **Relic Ore** | Glittering, unstable mineral extracted through mining | Moderate | [Syndicate](#the-ironbound-syndicate) hoards it; drives [Braycall Ridge](#braycall-ridge-syndicate-stronghold) operations |
+| **Relic-touched Objects** | Everyday items (cups, blades, mirrors) altered by [Reckoning](#reckonings) proximity | Variable | Collectors, [Brotherhood](#the-remnant-brotherhood) researchers |
+| **Precursor Artifacts** | Deliberately shaped by [Ancestors](#ancestors--the-precursors), often sealed | High | [Brotherhood](#the-remnant-brotherhood) study; [Church](#the-church-of-the-eternal-flame) considers sacred/cursed |
+| **The Carved Box** | Surface changes based on viewer (geometry/faces/roots). Lost from [Brotherhood](#the-remnant-brotherhood) possession | Unknown | Connected to [Cordyceps](#cordyceps-gnome-barbarian)' backstory |
 
 ---
 
@@ -1012,14 +1067,14 @@ No one knows who they were, but their presence haunts Tharros.
 **Theories:**
 | Source | Belief |
 | ----- | ----- |
-| Brotherhood | Precursors were scholars who mastered reality and transcended. We are their inheritors. |
-| Church | The Precursors were mortals touched by the divine--now judged and purified. |
-| Assembly | The Precursors were caretakers. They're still here, watching, disappointed. |
-| Syndicate | Does it matter? The Relics work, and they pay. |
-| Nightweb | "We found a door that whispered our names. It wanted to come with us." |
+| [Brotherhood](#the-remnant-brotherhood) | Precursors were scholars who mastered reality and transcended. We are their inheritors. |
+| [Church](#the-church-of-the-eternal-flame) | The Precursors were mortals touched by the divine--now judged and purified. |
+| [Assembly](#the-veiled-assembly) | The Precursors were caretakers. They're still here, watching, disappointed. |
+| [Syndicate](#the-ironbound-syndicate) | Does it matter? The [Relics](#relics) work, and they pay. |
+| [Nightweb](#the-shard--nightweb-minor-faction) | "We found a door that whispered our names. It wanted to come with us." |
 
 **The Unknowable:**
-Whatever they left behind isn't just a relic--it's a *wound in nature*, or perhaps an open door.
+Whatever they left behind isn't just a [relic](#relics)--it's a *wound in nature*, or perhaps an open door.
 
 ---
 
@@ -1034,21 +1089,21 @@ Whatever they left behind isn't just a relic--it's a *wound in nature*, or perha
 - Physical transformation (living stone, fused limbs, reversed aging).
 - Emotional or mental influence (area-wide fear, euphoria, madness).
 - Spatial folding (rooms that weren't there before, paths that loop infinitely).
-- The appearance of Touched/Changed/Forgotten or Relic-Born Beasts.
+- The appearance of [Touched/Changed/Forgotten](#touched--changed--forgotten) or [Relic-Born Beasts](#relic-born-beasts).
 
 **Frequency:**
 Reckonings occur **without reliable pattern**--though they seem more common near:
-- Sites of heavy Relic extraction.
-- Precursor ruins.
+- Sites of heavy [Relic](#relics) extraction.
+- [Precursor](#ancestors--the-precursors) ruins.
 - Large emotional events (battles, rituals, mass grief).
 
 **Responses:**
 | Faction | Strategy |
 | ----- | ----- |
-| Syndicate | Exploit the aftermath for Relics; compensate affected workers. |
-| Brotherhood | Document, analyze, and contain. |
-| Church | Pray, purify, and protect. |
-| Assembly | Ride it out, and learn what the land wants. |
+| [Syndicate](#the-ironbound-syndicate) | Exploit the aftermath for [Relics](#relics); compensate affected workers. |
+| [Brotherhood](#the-remnant-brotherhood) | Document, analyze, and contain. |
+| [Church](#the-church-of-the-eternal-flame) | Pray, purify, and protect. |
+| [Assembly](#the-veiled-assembly) | Ride it out, and learn what the land wants. |
 
 **Rumors:**
 - A Reckoning once **spoke**--and some say it never stopped.
@@ -1063,8 +1118,8 @@ Reckonings occur **without reliable pattern**--though they seem more common near
 There is no magic system on Tharros--at least, not in the traditional sense.
 
 **Instead, there is:**
-- **Relic Resonance**: Some people can "feel" Relics or Reckonings before they occur.
-- **Precursor Echo**: Rare individuals appear to briefly gain abilities or knowledge near Relics, as if channeling something ancient.
+- **Relic Resonance**: Some people can "feel" [Relics](#relics) or [Reckonings](#reckonings) before they occur.
+- **[Precursor](#ancestors--the-precursors) Echo**: Rare individuals appear to briefly gain abilities or knowledge near [Relics](#relics), as if channeling something ancient.
 - **Unknowable Influence**: Some acts of "magic" cannot be explained at all. They just happen.
 
 **The Rule:**
@@ -1088,7 +1143,7 @@ On Tharros, the divine is felt but not explained. Settlers brought faiths from t
 - Its priests dream of fire and speak in metaphors they don't fully understand.
 
 **Interpretation:**
-Whether the Flame is a god, a Precursor remnant, or something else entirely is unknown. The Church claims the former. Others aren't so sure.
+Whether the Flame is a god, a [Precursor](#ancestors--the-precursors) remnant, or something else entirely is unknown. The [Church](#the-church-of-the-eternal-flame) claims the former. Others aren't so sure.
 
 ### Faiths and Cults by Culture
 
@@ -1096,15 +1151,15 @@ Whether the Flame is a god, a Precursor remnant, or something else entirely is u
 
 | Culture | Faith(s) |
 | ----- | ----- |
-| Arvelorn | The Eternal Flame (state religion) |
-| Kaelthen | Nature spirits, ancestor worship, sacred groves |
-| Vethrani | Void worship (forbidden elsewhere), death cults, philosophical nihilism |
-| Corsair Clans | Sea spirits, luck gods, ancestor ghosts |
-| Threnn | Spirit pacts, beast totems, blood rites |
+| [Arvelorn](#arvelorn) | The Eternal Flame (state religion) |
+| [Kaelthen](#kaelthen) | Nature spirits, ancestor worship, sacred groves |
+| [Vethrani](#vethrani) | Void worship (forbidden elsewhere), death cults, philosophical nihilism |
+| [Corsair Clans](#corsair-clans) | Sea spirits, luck gods, ancestor ghosts |
+| [Threnn](#threnn) | Spirit pacts, beast totems, blood rites |
 
 **On Tharros:**
 - **Only the Eternal Flame** seems to be heard on the island--and even then, answers are cryptic.
-- Some whisper that the island *swallows* other gods... or that the Precursors left no room for them.
+- Some whisper that the island *swallows* other gods... or that the [Precursors](#ancestors--the-precursors) left no room for them.
 
 ---
 
@@ -1122,18 +1177,18 @@ Not physically--but emotionally, spiritually, obsessively.
 - A sense that the island **knows them** somehow.
 
 **Explanations:**
-- **Psychological?** Trauma bonding after surviving Reckonings.
-- **Spiritual?** A divine or Precursor "call" to those sensitive to the island.
+- **Psychological?** Trauma bonding after surviving [Reckonings](#reckonings).
+- **Spiritual?** A divine or [Precursor](#ancestors--the-precursors) "call" to those sensitive to the island.
 - **Parasitic?** Something in the air or water that alters willpower.
 
 **Faction Responses:**
 | Faction | Response |
 | ----- | ----- |
-| Brotherhood | Maps Yearning cases; suspects it ties to Relic exposure. |
-| Church | Believes it's a trial. "The Flame tests those who survive the island's fire." |
-| Assembly | Embraces it. "To feel the Yearning is to hear the land." |
-| Syndicate | Ignores it unless productivity drops. |
-| Nightweb | Uses it. Those affected are easier to manipulate. |
+| [Brotherhood](#the-remnant-brotherhood) | Maps Yearning cases; suspects it ties to [Relic](#relics) exposure. |
+| [Church](#the-church-of-the-eternal-flame) | Believes it's a trial. "The Flame tests those who survive the island's fire." |
+| [Assembly](#the-veiled-assembly) | Embraces it. "To feel the Yearning is to hear the land." |
+| [Syndicate](#the-ironbound-syndicate) | Ignores it unless productivity drops. |
+| [Nightweb](#the-shard--nightweb-minor-faction) | Uses it. Those affected are easier to manipulate. |
 
 ---
 
@@ -1148,8 +1203,8 @@ Not physically--but emotionally, spiritually, obsessively.
 - Airships stall and crash.
 
 **Theories:**
-- The Precursors banned it (deliberately, or as a side effect).
-- The Reckonings reject movement above a certain height.
+- The [Precursors](#ancestors--the-precursors) banned it (deliberately, or as a side effect).
+- The [Reckonings](#reckonings) reject movement above a certain height.
 - Something in the sky is watching--and will not tolerate trespass.
 
 **Implications:**
@@ -1190,7 +1245,7 @@ Intellectually curious and mechanically minded. Several gnomes hold rank in the 
 
 ### Changelings, Tieflings, Aasimar (Rare)
 
-These "touched" beings are looked upon with suspicion, reverence, or dread--depending on the culture. Some believe they carry traces of Precursor influence.
+These "touched" beings are looked upon with suspicion, reverence, or dread--depending on the culture. Some believe they carry traces of [Precursor](#ancestors--the-precursors) influence.
 
 ---
 
@@ -1198,70 +1253,53 @@ These "touched" beings are looked upon with suspicion, reverence, or dread--depe
 
 <!-- CATEGORY: LORE, SECRET -->
 
-Several theories circulate about how Relics work and what caused the Reckonings.
+Several theories circulate about how [Relics](#relics) work and what caused the [Reckonings](#reckonings).
 
 ### Relic-Born Theory
 
-- Relics are "seeds" or "fragments" of something larger.
-- The Reckonings are the "blooming"--a cyclical release of stored energy.
-- This explains why Relics cluster near Reckoning sites.
+- [Relics](#relics) are "seeds" or "fragments" of something larger.
+- The [Reckonings](#reckonings) are the "blooming"--a cyclical release of stored energy.
+- This explains why [Relics](#relics) cluster near [Reckoning](#reckonings) sites.
 
 ### Precursor Theory
 
-- The Ancestors created the Relics--but lost control, or ascended.
-- The Reckonings are echoes of their final act: a mass event that wiped them out or transformed them.
+- The [Ancestors](#ancestors--the-precursors) created the [Relics](#relics)--but lost control, or ascended.
+- The [Reckonings](#reckonings) are echoes of their final act: a mass event that wiped them out or transformed them.
 - Evidence: Ruins show signs of sudden abandonment, not war.
 
 ### Dimensional Leak Theory
 
-- Relics are not from this world.
-- The Precursors opened a door to another reality--and it's still cracked.
-- Reckonings are moments when the leak widens.
+- [Relics](#relics) are not from this world.
+- The [Precursors](#ancestors--the-precursors) opened a door to another reality--and it's still cracked.
+- [Reckonings](#reckonings) are moments when the leak widens.
 
-### Symbiotic Theory (Assembly Favored)
+### Symbiotic Theory ([Assembly](#the-veiled-assembly) Favored)
 
-- The Relics are part of Tharros itself--a living immune system.
-- The Reckonings are responses to damage: overharvesting, overbuilding, disrespect.
+- The [Relics](#relics) are part of Tharros itself--a living immune system.
+- The [Reckonings](#reckonings) are responses to damage: overharvesting, overbuilding, disrespect.
 - The island is not malicious--it is *teaching*.
 
-### Divine Residue Theory (Church Favored)
+### Divine Residue Theory ([Church](#the-church-of-the-eternal-flame) Favored)
 
-- Relics are the remnants of a divine war, or the ashes of failed gods.
-- Reckonings are trials sent to test the faithful.
+- [Relics](#relics) are the remnants of a divine war, or the ashes of failed gods.
+- [Reckonings](#reckonings) are trials sent to test the faithful.
 - Only through purity can the island be "healed."
 
 ---
 
-## Other Stories
+## Other Stories and Mysteries
 
 <!-- CATEGORY: LORE, HOOK, SECRET -->
 
-### The Lighthouse at Cape Vaidari
+Legends, rumors, and unexplained phenomena whispered across Tharros.
 
-Long ago, a lighthouse guided ships to safe harbor.
-Then it was abandoned--swallowed by fog, storms, and silence.
-**No one has seen its light in thirty years.**
-But some captains say: **"On certain nights, it blinks three times. That's when the sea gets hungry."**
-
-### The Bone Ring
-
-Far inland, half-buried in ash and scrub, there's a circle of stone foundations. Local diggers say it was a mining town, established thirty years ago and gone within three. No bodies. No graves. Just walls and one carved phrase:
-
-*"The ground listened. We stopped asking."*
-
-### The Carved Box
-
-An artifact described in notes recovered from a ruined survey outpost. Its surface changes based on who looks at it--one viewer saw geometric precision, another saw faces, another saw roots. The box was last recorded in Brotherhood possession. It has not been seen since.
-
-### The Cinnamon Beast
-
-When Orly was a small child, she would spend time with her grandmother, and together they would travel the lands to harvest herbs and spices. In the back of her mind she remembers talk of the Cinnamon Beast.
-
-*"Where even the cinnamon beast fears to walk"* - usually in reference to an area being too dangerous.
-*"He will steal your cinnamon"* - a warning against procrastination.
-*"When the cinnamon beast is hungry"* - the coldest depths of winter.
-
-It could be a myth or a very real (and deadly) creature.
+| Story/Mystery | Type | Description | Related Location | Connected To |
+| ------------- | ---- | ----------- | ---------------- | ------------ |
+| **The Lighthouse at Cape Vaidari** | Legend | Abandoned lighthouse. On certain nights, blinks three times--"when the sea gets hungry." | Cape Vaidari | [Orly](#orly-human-cleric)'s quest |
+| **The Bone Ring** | Mystery | Mining town gone in 3 years. Carved phrase: *"The ground listened. We stopped asking."* | Inland Tharros | Modern era warning |
+| **The Cinnamon Beast** | Folklore | Creature from [Orly](#orly-human-cleric)'s grandmother's sayings. May be myth or real predator. | Unknown | Folk wisdom, winter |
+| **The Pale King** | Legend | Stone statue in Gravemire Bastion that turns to face intruders over time--without movement. | Gravemire Bastion | [Pale Colonies](#the-pale-colonies) |
+| **The Deep Pulse Reckoning** | Event | Major [Reckoning](#reckonings) at Spire Basin. No one who enters alone returns. | Spire Basin | [Reckonings](#reckonings) |
 
 ---
 
@@ -1270,13 +1308,13 @@ It could be a myth or a very real (and deadly) creature.
 
 ## Overview
 
-Tharros is home to beasts and beings no mainland taxonomy can classify. Some emerged from Reckonings, others may predate even the Precursors. They are not simply dangerous--they are **wrong**, in ways that disturb even hardened survivors.
+Tharros is home to beasts and beings no mainland taxonomy can classify. Some emerged from [Reckonings](#reckonings), others may predate even the [Precursors](#ancestors--the-precursors). They are not simply dangerous--they are **wrong**, in ways that disturb even hardened survivors.
 
 **Categories:**
-- **Touched**: Once-living creatures altered by Reckoning exposure.
-- **Changed**: Humans or sapient beings who didn't survive a Reckoning intact.
+- **Touched**: Once-living creatures altered by [Reckoning](#reckonings) exposure.
+- **Changed**: Humans or sapient beings who didn't survive a [Reckoning](#reckonings) intact.
 - **Forgotten**: Creatures that may have always existed but were *unseen* until recently.
-- **Relic-Born Beasts**: Entities seemingly generated by Relic proximity or activation.
+- **[Relic-Born Beasts](#relic-born-beasts)**: Entities seemingly generated by [Relic](#relics) proximity or activation.
 
 ---
 
@@ -1292,7 +1330,7 @@ A deer-like creature with translucent, crystalline antlers that refract light in
 
 ### The Hollowed
 
-Former settlers who survived a Reckoning but lost something inside. They wander, mute and hollow-eyed, mimicking actions from their past lives. Some still tend farms that no longer exist.
+Former settlers who survived a [Reckoning](#reckonings) but lost something inside. They wander, mute and hollow-eyed, mimicking actions from their past lives. Some still tend farms that no longer exist.
 
 ### Mireling
 
@@ -1308,7 +1346,7 @@ A small, shadowy form that feeds on emotion. It grows larger when fear or despai
 
 <!-- CATEGORY: CREATURE, LORE, SECRET -->
 
-These entities seem to spawn from Relic energy, particularly during or after Reckonings.
+These entities seem to spawn from [Relic](#relics) energy, particularly during or after [Reckonings](#reckonings).
 
 ### Gloamwing
 
@@ -1316,7 +1354,7 @@ A bat-winged creature that phases in and out of visibility. It hunts by echoloca
 
 ### Fluxwarden
 
-A hulking, armored beast that patrols Precursor ruins. It ignores those who do not touch Relics--but attacks with lethal precision if provoked.
+A hulking, armored beast that patrols [Precursor](#ancestors--the-precursors) ruins. It ignores those who do not touch [Relics](#relics)--but attacks with lethal precision if provoked.
 
 ### Echovore
 
@@ -1324,7 +1362,7 @@ A creature that feeds on sound. Entire camps have gone silent after an Echovore 
 
 ### The Weeping Pillar
 
-Not a creature in the traditional sense--a Relic-like column that "cries" and attracts wildlife. Animals near it become aggressive and coordinated.
+Not a creature in the traditional sense--a [Relic](#relics)-like column that "cries" and attracts wildlife. Animals near it become aggressive and coordinated.
 
 ---
 
@@ -1342,13 +1380,13 @@ Not a creature in the traditional sense--a Relic-like column that "cries" and at
 
 **Description**: Empty-eyed humanoids wandering aimlessly.
 **Behavior**: Non-aggressive unless provoked. May mimic past routines.
-**Lore**: Victims of Reckonings who lost their "selves." The Assembly treats them with reverence.
+**Lore**: Victims of [Reckonings](#reckonings) who lost their "selves." The [Assembly](#the-veiled-assembly) treats them with reverence.
 
 ### Voidlings
 
 **Description**: Small, shadowy entities that feed on negative emotion.
 **Behavior**: Swarm near grief, fear, or despair. Drain willpower.
-**Lore**: Some believe they're fragments of the Precursors' failed creations.
+**Lore**: Some believe they're fragments of the [Precursors](#ancestors--the-precursors)' failed creations.
 
 ### Shimmerglass Stag
 
@@ -1360,13 +1398,13 @@ Not a creature in the traditional sense--a Relic-like column that "cries" and at
 
 **Description**: Winged predator that phases in and out of visibility.
 **Behavior**: Nocturnal. Uses echolocation and visual confusion.
-**Lore**: The Brotherhood wants specimens. The Church wants them burned.
+**Lore**: The [Brotherhood](#the-remnant-brotherhood) wants specimens. The [Church](#the-church-of-the-eternal-flame) wants them burned.
 
 ### Fluxwarden
 
-**Description**: Massive armored beast guarding Precursor sites.
-**Behavior**: Passive until Relics are disturbed. Then relentless.
-**Lore**: May be Precursor constructs. No two look alike.
+**Description**: Massive armored beast guarding [Precursor](#ancestors--the-precursors) sites.
+**Behavior**: Passive until [Relics](#relics) are disturbed. Then relentless.
+**Lore**: May be [Precursor](#ancestors--the-precursors) constructs. No two look alike.
 
 ---
 
@@ -1378,19 +1416,19 @@ Some things on Tharros defy categorization entirely.
 
 ### The Singing Spine
 
-A mountain range that hums. Explorers report dreams of being **invited inside**.
+A mountain range that hums. Explorers report dreams of being **invited inside**. See [The Singing Spine](#the-singing-spine) location entry.
 
 ### The Watcher in the Fog
 
-A shape seen at the edge of vision during Reckonings. It never approaches. It never leaves.
+A shape seen at the edge of vision during [Reckonings](#reckonings). It never approaches. It never leaves.
 
 ### The Drowned Choir
 
-Voices heard beneath the waves near Corsair's Vault. They sing in no known language--but listeners sometimes understand.
+Voices heard beneath the waves near [Corsair's Vault](#corsairs-vault). They sing in no known language--but listeners sometimes understand.
 
 ### The Garden That Eats
 
-An overgrown estate where plants move with purpose. Those who sleep there wake... different. Or don't wake at all.
+An overgrown estate where plants move with purpose. Those who sleep there wake... different. Or don't wake at all. See [The Garden That Eats](#the-garden-that-eats) location entry.
 
 ---
 
@@ -1406,14 +1444,14 @@ Tharros has been "discovered" and "colonized" multiple times. Each wave ended in
 ### The Precursors (Unknown Era)
 
 - Built impossible structures across the island.
-- Left Relics, inscriptions, and echoes.
+- Left [Relics](#relics), inscriptions, and echoes.
 - Vanished without war, plague, or visible cause.
 
 ### The Pale Colonies (~300 Years Ago)
 
 - Imperial-era settlers from the mainland established forts and mines.
 - Lasted approximately 50 years before total collapse.
-- Ruins: Gravemire Bastion, Venter's Wharf.
+- Ruins: [Gravemire Bastion](#gravemire-bastion), [Venter's Wharf](#venters-wharf).
 - No survivors returned to the mainland.
 
 ### The Flame Disciples (~150 Years Ago)
@@ -1421,20 +1459,20 @@ Tharros has been "discovered" and "colonized" multiple times. Each wave ended in
 - Religious pilgrims followed visions to the island.
 - Established ritual sites and monasteries.
 - Disappeared after attempting a "grand convergence."
-- Ruins: Ashward Steps, The Ember Rings.
+- Ruins: [Ashward Steps](#ashward-steps), [The Ember Rings](#the-ember-rings).
 
 ### The Silent Trade Enclave (~80 Years Ago)
 
 - Smugglers, corsairs, and black-market traders built hidden ports.
-- Thrived for decades before a Reckoning scattered them.
-- Ruins: Corsair's Vault, The Drift Market.
+- Thrived for decades before a [Reckoning](#reckonings) scattered them.
+- Ruins: [Corsair's Vault](#corsairs-vault), [The Drift Market](#the-drift-market).
 
 ### Current Settlers (~40 Years Ago to Present)
 
-- Modern colonization began with Syndicate-funded expeditions.
-- Brotherhood scholars and Church missionaries followed.
-- The Assembly formed from defectors and sympathizers.
-- Tensions escalate as Reckoning frequency may be increasing.
+- Modern colonization began with [Syndicate](#the-ironbound-syndicate)-funded expeditions.
+- [Brotherhood](#the-remnant-brotherhood) scholars and [Church](#the-church-of-the-eternal-flame) missionaries followed.
+- The [Assembly](#the-veiled-assembly) formed from defectors and sympathizers.
+- Tensions escalate as [Reckoning](#reckonings) frequency may be increasing.
 
 ---
 
@@ -1444,20 +1482,20 @@ Tharros has been "discovered" and "colonized" multiple times. Each wave ended in
 
 | Year | Event |
 | ---- | ----- |
-| -40 | First modern expedition lands. Syndicate stakes initial claims. |
-| -35 | Marrowhold founded as neutral settlement. |
-| -30 | Brotherhood establishes Aurel's Reach research outpost. |
-| -28 | Church pilgrims found Ashlight Monastery. |
-| -25 | Braycall Ridge mining operations begin. |
-| -20 | The Veiled Assembly emerges as organized resistance. |
-| -15 | Thistleshade established as Assembly refuge. |
-| -12 | Major Reckoning at Spire Basin; dozens lost. |
-| -10 | Nettlehook becomes recognized black market port. |
-| -8 | Brotherhood-Syndicate cooperation agreement signed. |
-| -5 | Church begins aggressive missionary expansion. |
-| -3 | "The Weeping Season" -- three Reckonings in one month. |
-| -1 | Nightweb influence in Nettlehook becomes undeniable. |
-| Now | Factions consolidate. Reckonings may be increasing. Something is changing. |
+| -40 | First modern expedition lands. [Syndicate](#the-ironbound-syndicate) stakes initial claims. |
+| -35 | [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core) founded as neutral settlement. |
+| -30 | [Brotherhood](#the-remnant-brotherhood) establishes [Aurel's Reach](#aurels-reach-brotherhood-hub) research outpost. |
+| -28 | [Church](#the-church-of-the-eternal-flame) pilgrims found [Ashlight Monastery](#ashlight-monastery-church-enclave). |
+| -25 | [Braycall Ridge](#braycall-ridge-syndicate-stronghold) mining operations begin. |
+| -20 | The [Veiled Assembly](#the-veiled-assembly) emerges as organized resistance. |
+| -15 | [Thistleshade](#thistleshade-assembly-stronghold) established as [Assembly](#the-veiled-assembly) refuge. |
+| -12 | Major [Reckoning](#reckonings) at [Spire Basin](#spire-basin); dozens lost. |
+| -10 | [Nettlehook](#nettlehook-black-market-port---nightweb-territory) becomes recognized black market port. |
+| -8 | [Brotherhood](#the-remnant-brotherhood)-[Syndicate](#the-ironbound-syndicate) cooperation agreement signed. |
+| -5 | [Church](#the-church-of-the-eternal-flame) begins aggressive missionary expansion. |
+| -3 | "[The Weeping Season](#the-weeping-season)" -- three [Reckonings](#reckonings) in one month. |
+| -1 | [Nightweb](#the-shard--nightweb-minor-faction) influence in [Nettlehook](#nettlehook-black-market-port---nightweb-territory) becomes undeniable. |
+| Now | Factions consolidate. [Reckonings](#reckonings) may be increasing. Something is changing. |
 
 ---
 
@@ -1465,26 +1503,104 @@ Tharros has been "discovered" and "colonized" multiple times. Each wave ended in
 
 <!-- CATEGORY: LORE, MECHANIC, SECRET -->
 
-Scholars have attempted to track Reckonings for patterns. Results are inconclusive--but suggestive.
+Scholars have attempted to track [Reckonings](#reckonings) for patterns. Results are inconclusive--but suggestive.
 
 **Possible Triggers:**
-- Mass extraction of Relic ore
+- Mass extraction of [Relic ore](#relic-ore)
 - Large gatherings or emotional events
-- Disturbance of Precursor sites
+- Disturbance of [Precursor](#ancestors--the-precursors) sites
 - Unknown cosmic or seasonal cycles
 
 **Possible Patterns:**
-- Reckonings cluster geographically, then shift
+- [Reckonings](#reckonings) cluster geographically, then shift
 - Frequency has increased in recent years
-- Some locations have never experienced a Reckoning (why?)
+- Some locations have never experienced a [Reckoning](#reckonings) (why?)
 
-**The Brotherhood's Secret Theory:**
-A sealed document suggests Reckonings are not random--they're **responses**. To what, the document does not say.
+**The [Brotherhood](#the-remnant-brotherhood)'s Secret Theory:**
+A sealed document suggests [Reckonings](#reckonings) are not random--they're **responses**. To what, the document does not say.
+
+---
+
+## The Weeping Season
+
+<!-- CATEGORY: LORE, HISTORY, HOOK -->
+
+A devastating period three years ago when three [Reckonings](#reckonings) occurred in a single month. Settlements were damaged, dozens were killed or Changed, and the psychological toll on survivors lingers. Some believe the frequency of [Reckonings](#reckonings) is increasing--and that the Weeping Season was only the beginning.
+
+---
+
+<!-- CATEGORY: NPC -->
+# Part IX: Minor NPCs
+
+These are named individuals quoted throughout faction opinions and local color. They represent the everyday people of Tharros.
+
+## Syndicate-Adjacent NPCs
+
+<!-- CATEGORY: NPC -->
+
+| Name | Sex | Location | Role/Occupation | Disposition | Quote/Fun Fact | First Mentioned |
+| ---- | --- | -------- | --------------- | ----------- | -------------- | --------------- |
+| **Gregor** | M | [Braycall Ridge](#braycall-ridge-syndicate-stronghold) | Mill foreman | Pro-[Syndicate](#the-ironbound-syndicate) | Believes in "progress through hard work" | Syndicate opinions |
+| **Daro** | M | [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core) | Tavern regular | Grateful | Sister got prosthetic leg from [Syndicate](#the-ironbound-syndicate) engineers | Syndicate opinions |
+| **Old Lenne** | F | Unknown | Retired miner | Distrustful | "They take more than they give" | Syndicate opinions |
+
+---
+
+## Brotherhood-Adjacent NPCs
+
+<!-- CATEGORY: NPC -->
+
+| Name | Sex | Location | Role/Occupation | Disposition | Quote/Fun Fact | First Mentioned |
+| ---- | --- | -------- | --------------- | ----------- | -------------- | --------------- |
+| **Calia** | F | Tharros interior | Local guide | Cooperative | Has worked multiple [Brotherhood](#the-remnant-brotherhood) expeditions | Brotherhood opinions |
+| **Miran** | M | Former homestead | Displaced settler | Resentful | Lost home to [Brotherhood](#the-remnant-brotherhood) excavation claim | Brotherhood opinions |
+| **Tarel** | M | Northern coast | Fisher | Pragmatic | Works with [Brotherhood](#the-remnant-brotherhood) survey crews for pay | Brotherhood opinions |
+| **Bennet** | M | [Aurel's Reach](#aurels-reach-brotherhood-hub) area | Scholar | Frustrated | Denied access to [Brotherhood](#the-remnant-brotherhood) research | Brotherhood opinions |
+| **Nina** | F | Unknown | Merchant widow | Grateful | Child received [Brotherhood](#the-remnant-brotherhood)-sponsored education | Brotherhood opinions |
+
+---
+
+## Assembly-Adjacent NPCs
+
+<!-- CATEGORY: NPC -->
+
+| Name | Sex | Location | Role/Occupation | Disposition | Quote/Fun Fact | First Mentioned |
+| ---- | --- | -------- | --------------- | ----------- | -------------- | --------------- |
+| **Rhea** | F | [Thistleshade](#thistleshade-assembly-stronghold) | Herbalist | Anti-[Syndicate](#the-ironbound-syndicate) | Critical of environmental exploitation | Assembly opinions |
+| **Yarin** | M | [Marrowwood](#marrowwood) border | Farmer | Sympathizer | Quiet [Assembly](#the-veiled-assembly) supporter | Assembly opinions |
+| **Ilso** | M | Abandoned hamlet (survivor) | Refugee | Critical | Witnessed [Assembly](#the-veiled-assembly) methods firsthand | Assembly opinions |
+| **Marda** | F | Trade routes | Courier | Neutral-positive | Finds [Assembly](#the-veiled-assembly) "strange but honest" | Assembly opinions |
+| **Kerrik** | M | Unknown | Ex-[Brotherhood](#the-remnant-brotherhood) assistant | Respectful | Considers [Assembly](#the-veiled-assembly) stubborn but principled | Assembly opinions |
+| **Orla** | F | [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core) outskirts | Settler | Grateful | Received help from [Assembly](#the-veiled-assembly) midwives | Assembly opinions |
+
+---
+
+## Church-Adjacent NPCs
+
+<!-- CATEGORY: NPC -->
+
+| Name | Sex | Location | Role/Occupation | Disposition | Quote/Fun Fact | First Mentioned |
+| ---- | --- | -------- | --------------- | ----------- | -------------- | --------------- |
+| **Verra** | F | Unknown | Blacksmith's wife | Grateful | [Church](#the-church-of-the-eternal-flame) healed her or family member | Church opinions |
+| **Sarth** | M | Unknown | Ex-[Assembly](#the-veiled-assembly) sympathizer | Critical | Thinks [Church](#the-church-of-the-eternal-flame) is "too soft" | Church opinions |
+| **Rund** | M | [Ashlight Monastery](#ashlight-monastery-church-enclave) | Reformed guard | Loyal | Ex-[Syndicate](#the-ironbound-syndicate), now works for [Priest Elyna](#priest-ambassador-elyna) | Church opinions |
+| **Jara** | F | [Ember's Hollow](#embers-hollow) | Teacher | Trusting | Believes in [Church](#the-church-of-the-eternal-flame) convictions | Church opinions |
+| **Hess** | M | Wandering | Bard | Wary | Has witnessed the [Church](#the-church-of-the-eternal-flame)'s darker side | Church opinions |
+
+---
+
+## Nightweb/Independent NPCs
+
+<!-- CATEGORY: NPC -->
+
+| Name | Sex | Location | Role/Occupation | Disposition | Quote/Fun Fact | First Mentioned |
+| ---- | --- | -------- | --------------- | ----------- | -------------- | --------------- |
+| **Tanis** | M | [Nettlehook](#nettlehook-black-market-port---nightweb-territory) | Dockhand | Cynical | Appreciates [Syndicate](#the-ironbound-syndicate) honesty about motives | Nightweb opinions |
 
 ---
 
 <!-- CATEGORY: MECHANIC -->
-# Part IX: Mechanics & GM Tools
+# Part X: Mechanics & GM Tools
 
 ## Faction Reputation System
 
