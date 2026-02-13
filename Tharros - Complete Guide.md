@@ -11,6 +11,31 @@ MECHANIC: Game mechanics (Reckonings, Magic, Yearning, etc.)
 CULTURE: Ethnic groups, societies, and traditions
 HOOK: Adventure hooks, mysteries, and plot seeds
 SECRET: GM-only information not for players
+
+=== AI RULES ===
+
+READING:
+- Use CATEGORY comments to filter content by topic
+- Sections marked SECRET are GM-only; do NOT reveal to players
+- Cross-references use markdown anchors [text](#section-slug)
+- The NPC Directory table in Part IX is the canonical NPC list
+- When asked about a topic, check the Table of Contents first
+
+WRITING:
+- Preserve all existing CATEGORY comment tags when editing
+- New sections MUST include a CATEGORY comment above the heading
+- Add cross-reference links when mentioning existing topics
+- New NPCs go in the NPC Directory table, not as separate chapters
+- Minor locations/items go in tables, not separate chapters
+- Use relative years (e.g., "-40 years") not absolute dates
+- Maintain consistent markdown heading hierarchy (# Part, ## Section, ### Subsection)
+- Update the Table of Contents when adding new sections
+
+STYLE:
+- Keep tone consistent: evocative but concise
+- Avoid contradicting established lore without GM approval
+- Mark speculative or uncertain content with (Unconfirmed) or (Rumored)
+- Player-safe content should not reference SECRET sections
 -->
 
 # Tharros - Complete Guide
