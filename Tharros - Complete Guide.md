@@ -1530,72 +1530,45 @@ A devastating period three years ago when three [Reckonings](#reckonings) occurr
 ---
 
 <!-- CATEGORY: NPC -->
-# Part IX: Minor NPCs
+# Part IX: NPCs
 
-These are named individuals quoted throughout faction opinions and local color. They represent the everyday people of Tharros.
+All named characters in Tharros, from faction leaders to everyday people. Major characters have links to their detailed chapters.
 
-## Syndicate-Adjacent NPCs
-
-<!-- CATEGORY: NPC -->
-
-| Name | Sex | Location | Role/Occupation | Disposition | Quote/Fun Fact | First Mentioned |
-| ---- | --- | -------- | --------------- | ----------- | -------------- | --------------- |
-| **Gregor** | M | [Braycall Ridge](#braycall-ridge-syndicate-stronghold) | Mill foreman | Pro-[Syndicate](#the-ironbound-syndicate) | Believes in "progress through hard work" | Syndicate opinions |
-| **Daro** | M | [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core) | Tavern regular | Grateful | Sister got prosthetic leg from [Syndicate](#the-ironbound-syndicate) engineers | Syndicate opinions |
-| **Old Lenne** | F | Unknown | Retired miner | Distrustful | "They take more than they give" | Syndicate opinions |
-
----
-
-## Brotherhood-Adjacent NPCs
+## Complete NPC Directory
 
 <!-- CATEGORY: NPC -->
 
-| Name | Sex | Location | Role/Occupation | Disposition | Quote/Fun Fact | First Mentioned |
-| ---- | --- | -------- | --------------- | ----------- | -------------- | --------------- |
-| **Calia** | F | Tharros interior | Local guide | Cooperative | Has worked multiple [Brotherhood](#the-remnant-brotherhood) expeditions | Brotherhood opinions |
-| **Miran** | M | Former homestead | Displaced settler | Resentful | Lost home to [Brotherhood](#the-remnant-brotherhood) excavation claim | Brotherhood opinions |
-| **Tarel** | M | Northern coast | Fisher | Pragmatic | Works with [Brotherhood](#the-remnant-brotherhood) survey crews for pay | Brotherhood opinions |
-| **Bennet** | M | [Aurel's Reach](#aurels-reach-brotherhood-hub) area | Scholar | Frustrated | Denied access to [Brotherhood](#the-remnant-brotherhood) research | Brotherhood opinions |
-| **Nina** | F | Unknown | Merchant widow | Grateful | Child received [Brotherhood](#the-remnant-brotherhood)-sponsored education | Brotherhood opinions |
-
----
-
-## Assembly-Adjacent NPCs
-
-<!-- CATEGORY: NPC -->
-
-| Name | Sex | Location | Role/Occupation | Disposition | Quote/Fun Fact | First Mentioned |
-| ---- | --- | -------- | --------------- | ----------- | -------------- | --------------- |
-| **Rhea** | F | [Thistleshade](#thistleshade-assembly-stronghold) | Herbalist | Anti-[Syndicate](#the-ironbound-syndicate) | Critical of environmental exploitation | Assembly opinions |
-| **Yarin** | M | [Marrowwood](#marrowwood) border | Farmer | Sympathizer | Quiet [Assembly](#the-veiled-assembly) supporter | Assembly opinions |
-| **Ilso** | M | Abandoned hamlet (survivor) | Refugee | Critical | Witnessed [Assembly](#the-veiled-assembly) methods firsthand | Assembly opinions |
-| **Marda** | F | Trade routes | Courier | Neutral-positive | Finds [Assembly](#the-veiled-assembly) "strange but honest" | Assembly opinions |
-| **Kerrik** | M | Unknown | Ex-[Brotherhood](#the-remnant-brotherhood) assistant | Respectful | Considers [Assembly](#the-veiled-assembly) stubborn but principled | Assembly opinions |
-| **Orla** | F | [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core) outskirts | Settler | Grateful | Received help from [Assembly](#the-veiled-assembly) midwives | Assembly opinions |
-
----
-
-## Church-Adjacent NPCs
-
-<!-- CATEGORY: NPC -->
-
-| Name | Sex | Location | Role/Occupation | Disposition | Quote/Fun Fact | First Mentioned |
-| ---- | --- | -------- | --------------- | ----------- | -------------- | --------------- |
-| **Verra** | F | Unknown | Blacksmith's wife | Grateful | [Church](#the-church-of-the-eternal-flame) healed her or family member | Church opinions |
-| **Sarth** | M | Unknown | Ex-[Assembly](#the-veiled-assembly) sympathizer | Critical | Thinks [Church](#the-church-of-the-eternal-flame) is "too soft" | Church opinions |
-| **Rund** | M | [Ashlight Monastery](#ashlight-monastery-church-enclave) | Reformed guard | Loyal | Ex-[Syndicate](#the-ironbound-syndicate), now works for [Priest Elyna](#priest-ambassador-elyna) | Church opinions |
-| **Jara** | F | [Ember's Hollow](#embers-hollow) | Teacher | Trusting | Believes in [Church](#the-church-of-the-eternal-flame) convictions | Church opinions |
-| **Hess** | M | Wandering | Bard | Wary | Has witnessed the [Church](#the-church-of-the-eternal-flame)'s darker side | Church opinions |
-
----
-
-## Nightweb/Independent NPCs
-
-<!-- CATEGORY: NPC -->
-
-| Name | Sex | Location | Role/Occupation | Disposition | Quote/Fun Fact | First Mentioned |
-| ---- | --- | -------- | --------------- | ----------- | -------------- | --------------- |
-| **Tanis** | M | [Nettlehook](#nettlehook-black-market-port---nightweb-territory) | Dockhand | Cynical | Appreciates [Syndicate](#the-ironbound-syndicate) honesty about motives | Nightweb opinions |
+| Name | Type | Sex | Faction | Location | Role/Occupation | Description/Fun Fact |
+| ---- | ---- | --- | ------- | -------- | --------------- | -------------------- |
+| **[Sunstorm](#sunstorm)** | PC | M | [Assembly](#the-veiled-assembly) (loosely) | Nomadic | Katari Ranger/Wayfinder | 3' tall orange tabby; hunting the [Cinnamon Beast](#the-cinnamon-beast) |
+| **[EFRA-7](#efra-7)** | PC | -- | Seeks [Brotherhood](#the-remnant-brotherhood) | [Orvane](#orvane) | Clank Wizard construct | Seeks energy source to free [Orvane](#orvane) from [Lightspire](#the-lightspire) curse |
+| **[Orly](#orly)** | PC | F | Unaligned | Shipwreck survivor | [Galapa](#galapa) protector | Carries [The Carved Box](#the-carved-box) to [Cape Vaidari](#cape-vaidari) |
+| **[Cordyceps](#cordyceps)** | PC | -- | Unaligned | Exiled | Half-elf/fungal hybrid | Suppresses forest corruption within own body |
+| **[Magnate Theron](#magnate-theron)** | Major | M | [Syndicate](#the-ironbound-syndicate) | [Braycall Ridge](#braycall-ridge-syndicate-stronghold) | Syndicate Leader | "We didn't come here to pray--we came to build" |
+| **[High Archivist Alaric](#high-archivist-alaric)** | Major | M | [Brotherhood](#the-remnant-brotherhood) | [Aurel's Reach](#aurels-reach-brotherhood-hub) | Brotherhood Leader | From [Myrrhun](#myrrhun-cradle-of-arcane-studies-mountainous-interior); "We are here to remember" |
+| **[Maera](#maera)** | Major | F | [Assembly](#the-veiled-assembly) | [Thistleshade](#thistleshade-assembly-stronghold) | Assembly Voice | Defector; "The island called me" |
+| **[Priest-Ambassador Elyna](#priest-ambassador-elyna)** | Major | F | [Church](#the-church-of-the-eternal-flame) | [Ashlight Monastery](#ashlight-monastery-church-enclave) | Church Leader | From [Arvelorn](#arvelorn); tired eyes, voice calms storms |
+| **[Whisper](#whisper)** | Major | ? | [Nightweb](#the-shard--nightweb-minor-faction) | Unknown | Nightweb Leader(s) | Identity unconfirmed; may be title, not person |
+| Gregor | Minor | M | Pro-[Syndicate](#the-ironbound-syndicate) | [Braycall Ridge](#braycall-ridge-syndicate-stronghold) | Mill foreman | Believes in "progress through hard work" |
+| Daro | Minor | M | Pro-[Syndicate](#the-ironbound-syndicate) | [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core) | Tavern regular | Sister got prosthetic leg from Syndicate |
+| Old Lenne | Minor | F | Anti-[Syndicate](#the-ironbound-syndicate) | Unknown | Retired miner | "They take more than they give" |
+| Calia | Minor | F | [Brotherhood](#the-remnant-brotherhood)-adjacent | Tharros interior | Local guide | Worked multiple Brotherhood expeditions |
+| Miran | Minor | M | Anti-[Brotherhood](#the-remnant-brotherhood) | Former homestead | Displaced settler | Lost home to excavation claim |
+| Tarel | Minor | M | [Brotherhood](#the-remnant-brotherhood)-adjacent | Northern coast | Fisher | Works with survey crews for pay |
+| Bennet | Minor | M | Anti-[Brotherhood](#the-remnant-brotherhood) | [Aurel's Reach](#aurels-reach-brotherhood-hub) area | Scholar | Denied access to research |
+| Nina | Minor | F | Pro-[Brotherhood](#the-remnant-brotherhood) | Unknown | Merchant widow | Child received Brotherhood education |
+| Rhea | Minor | F | [Assembly](#the-veiled-assembly) | [Thistleshade](#thistleshade-assembly-stronghold) | Herbalist | Critical of environmental exploitation |
+| Yarin | Minor | M | [Assembly](#the-veiled-assembly) sympathizer | [Marrowwood](#marrowwood) border | Farmer | Quiet Assembly supporter |
+| Ilso | Minor | M | Anti-[Assembly](#the-veiled-assembly) | Abandoned hamlet | Refugee | Witnessed Assembly methods firsthand |
+| Marda | Minor | F | Neutral | Trade routes | Courier | Finds Assembly "strange but honest" |
+| Kerrik | Minor | M | Ex-[Brotherhood](#the-remnant-brotherhood) | Unknown | Former assistant | Considers Assembly stubborn but principled |
+| Orla | Minor | F | [Assembly](#the-veiled-assembly)-adjacent | [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core) outskirts | Settler | Received help from Assembly midwives |
+| Verra | Minor | F | Pro-[Church](#the-church-of-the-eternal-flame) | Unknown | Blacksmith's wife | Grateful for Church healing |
+| Sarth | Minor | M | Ex-[Assembly](#the-veiled-assembly) | Unknown | -- | Thinks Church is "too soft" |
+| Rund | Minor | M | [Church](#the-church-of-the-eternal-flame) | [Ashlight Monastery](#ashlight-monastery-church-enclave) | Reformed guard | Ex-Syndicate, now serves Priest Elyna |
+| Jara | Minor | F | Pro-[Church](#the-church-of-the-eternal-flame) | [Ember's Hollow](#embers-hollow) | Teacher | Believes in Church convictions |
+| Hess | Minor | M | Wary of [Church](#the-church-of-the-eternal-flame) | Wandering | Bard | Has witnessed the Church's darker side |
+| Tanis | Minor | M | [Nightweb](#the-shard--nightweb-minor-faction)-adjacent | [Nettlehook](#nettlehook-black-market-port---nightweb-territory) | Dockhand | Appreciates Syndicate honesty about motives |
 
 ---
 
