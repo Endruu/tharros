@@ -47,6 +47,17 @@ Categories: PLAYER-CHARACTER, FACTION, NPC, LORE, LOCATION, CREATURE, ITEM, MECH
 - Reference specific sections when generating related content
 - Avoid anachronisms or content outside established setting scope
 
+### NPC Naming & Creation (Consistency Rules)
+- **Follow documented creation rules**: When inventing a new NPC, follow the guide’s [NPC Creation Guidelines](../Tharros%20-%20Complete%20Guide.md#npc-creation-guidelines) (Species → Nationality → Ethnicity/Culture → Community, then name using Community → Ethnicity/Culture → Nationality → Species).
+- **Naming consistency**: Preserve established spelling, titles, and aliases for all existing NPCs (do not “correct” names unless asked).
+- **Search before inventing**: Search the full guide for the NPC’s name and common aliases/titles first; if they already exist, reuse/expand that NPC instead of creating a new one.
+- **Avoid duplicates**: Before inventing a new NPC, check the [Complete NPC Directory](#complete-npc-directory) for similar names/roles; prefer reusing or expanding existing NPCs.
+- **Setting-appropriate names**: Keep names coherent with Tharros’s tone and culture; avoid modern/real-world-celebrity references and out-of-setting wordplay.
+- **Readable identifiers**: If an NPC is likely to recur, prefer a distinct full name (given + family/epithet) plus a consistent title; keep short, stable nicknames/aliases.
+- **Directory-first workflow**: New NPCs must be added to the directory table (canonical source). Do not create a standalone “NPC chapter” for a new character.
+- **Where to add details**: Put any additional NPC details inside the most relevant existing section (location/faction/hook) with appropriate `<!-- CATEGORY: NPC -->` (and `SECRET` when GM-only).
+- **Cross-links**: When introducing an NPC in prose, link to the relevant location/faction section and ensure the NPC can be found via the directory entry.
+
 ## Integration Points
 - Cross-faction relationships defined in Part IV
 - Timeline consistency across Parts VI-VIII

@@ -30,6 +30,12 @@ WRITING:
 - New sections MUST include a CATEGORY comment above the heading
 - Add cross-reference links when mentioning existing topics
 - New NPCs go in the NPC Directory table, not as separate chapters
+- When creating NPCs, treat Community, Ethnicity/Culture, Nationality, and Species as orthogonal categories (most people have all of them)
+- For naming, consider in this order: Community → Ethnicity/Culture → Nationality → Species (outliers allowed)
+- For appearance and behavior, consider the same four categories (plus the individual's personal history)
+- Use [Major Cultures](#major-cultures) for ethnicity/culture naming cues and [Sentient Species of the Island](#sentient-species-of-the-island) for species baselines
+- Humans are the only truly common ancestry on Tharros; all others are uncommon at most
+- Mark Species, Nationality, Ethnicity/Culture, and Community columns in the NPC Directory table
 - Minor locations/items go in tables, not separate chapters
 - Use relative years (e.g., "-40 years") not absolute dates
 - Maintain consistent markdown heading hierarchy (# Part, ## Section, ### Subsection)
@@ -57,11 +63,13 @@ STYLE:
 - [EFRA-7](#efra-7)
 - [Orly](#orly)
 - [Cordyceps](#cordyceps)
+- [Frogulus](#frogulus)
 
 ### [Part III: The Mainland](#part-iii-the-mainland)
 - [Fluid Setting Details](#fluid-setting-details)
 - [Major Cultures](#major-cultures) — Nordahr | Serenei | Panthyr | Aegeon | Veskar | Tharain
 - [Races](#races) — [Non-Human Races on Tharros](#non-human-races-on-tharros)
+- [Sentient Species of the Island](#sentient-species-of-the-island) — Complete species guide for NPCs
 - [Major Nations](#major-nations) — Virelia | Korralt | Skaldmere | Myrrhun | Veskar Wards | Galari Shoals | Hollow Marches
 - [View of Tharros (From the Mainland)](#view-of-tharros-from-the-mainland)
 
@@ -76,7 +84,7 @@ STYLE:
 ### [Part V: Locations](#part-v-locations)
 - [Major Settlements](#major-settlements) — [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core)
 - [Minor Settlements and Districts](#minor-settlements-and-districts)
-  - [Braycall Ridge](#braycall-ridge-syndicate-stronghold) | [Aurel's Reach](#aurels-reach-brotherhood-hub) | [Thistleshade](#thistleshade-assembly-stronghold) | [Ashlight Monastery](#ashlight-monastery-church-enclave) | [Nettlehook](#nettlehook-black-market-port---nightweb-territory)
+  - [Braycall Ridge](#braycall-ridge-syndicate-stronghold) | [Aurel's Reach](#aurels-reach-brotherhood-hub) | [Thistleshade](#thistleshade-assembly-stronghold) | [Ashlight Monastery](#ashlight-monastery-church-enclave) | [Nettlehook](#nettlehook-black-market-free-port---nightweb-presence)
 - [Key Locations and Ruins](#key-locations-and-ruins)
 - [Failed Settlements](#failed-settlements-remnants-to-discover) — Pale Colonies | Flame Disciples | Silent Trade Enclave | The Fledges
 
@@ -112,10 +120,6 @@ STYLE:
 - [Reckoning Effects Table](#reckoning-effects-table)
 - [Random Encounter Seeds](#random-encounter-seeds)
 - [Adventure Hooks](#adventure-hooks)
-
-### [Appendix: Quick Reference](#appendix-quick-reference)
-- [Category Legend](#category-legend)
-- [Document Version](#document-version)
 
 ---
 
@@ -163,7 +167,7 @@ But none leave unchanged.
 ## EFRA-7
 
 - **Ancestry/Spec:** Clank (Wizard, Underborne).
-- **Concept:** Sentient relic-hunting construct, curious about their own nature and [relics](#relics) in general.
+- **Concept:** Sentient relic-hunting construct, curious about his own nature and [relics](#relics) in general.
 - **Background:**
     - Reactivated in [Orvane](#orvane), an underground mixed-race settlement powered by a "[Lightspire](#the-lightspire)" relic.
     - The relic keeps them alive but renders [Orvane](#orvane)'s people light-sensitive. EFRA-7 seeks a new energy source to free them from this curse.
@@ -203,17 +207,38 @@ But none leave unchanged.
 - **Ancestry/Spec:** Half-elf, half-fungal hybrid (custom Transformation concept).
 - **Concept:** Fused being -- elf merged with a fungus to resist a spreading corruption in a forest. Elf individuality faded; Cordyceps alone remains.
 - **Background:**
-    - Infection spread through their forest, warping plants/animals.
+  - Infection spread through his forest, warping plants/animals.
     - Elf community accepted the corruption as "natural change."
-    - Cordyceps used a ritual to merge with a resistant fungus -- now suppresses the infection inside their own body.
+  - Cordyceps used a ritual to merge with a resistant fungus -- now suppresses the infection inside his own body.
     - Exiled for defying the community's belief in harmony.
     - Fears the infection will one day escape from within.
 - **Personality:** Driven to find a cure, carries burden of secrecy, wary of connection.
-- **Faction Stance:** Not yet set. [Brotherhood](#the-remnant-brotherhood) might covet them as a living experiment.
+- **Faction Stance:** Not yet set. [Brotherhood](#the-remnant-brotherhood) might covet him as a living experiment.
 - **Open Points:**
     - What exactly caused the corruption ([relic](#relics), [Yearning](#the-yearning), or other force).
     - Whether Cordyceps' body is stable -- or if Transformation stages are looming.
     - Does any fragment of the elf's former mind still whisper?
+
+---
+
+## Frogulus
+
+- **Ancestry/Spec:** Giant frog warrior (martial protector vibe).
+- **Concept:** Displaced survivor turned dockside guardian; blunt, loyal, and hard to intimidate.
+- **Background:**
+  - His hometown was effectively destroyed by [Syndicate](#the-ironbound-syndicate) extraction and "progress".
+  - Fled young (around age 10) and grew up in and around [Nettlehook](#nettlehook-black-market-free-port---nightweb-presence), where a strong arm and a simple code keep you alive.
+  - Found [Orly](#orly) washed ashore a few months ago and pulled him from the surf.
+- **Faction Stance:**
+  - [Syndicate](#the-ironbound-syndicate): absolutely hate.
+  - [Brotherhood](#the-remnant-brotherhood): not so bad.
+  - [Assembly](#the-veiled-assembly): not bad; "keep the island safe."
+  - [Church](#the-church-of-the-eternal-flame-minor-faction): good.
+  - [Shard / Nightweb](#the-shard--nightweb-minor-faction): bad.
+- **Open Points:**
+  - What exactly happened to his hometown (accident, negligence, or deliberate policy?).
+  - Who in the Syndicate still remembers his name.
+  - Whether he wants justice, revenge, or simply proof it won't happen again.
 
 ---
 
@@ -329,6 +354,151 @@ But no single truth defines the Mainland. Let your character's memory of it be y
 | **Galapa** | The Galari Shoals | Communal, memory-centric, slow decision-making | Some settled inland to escape climate shifts |
 | **Inferis** | The Hollow Marches (exiles) | Revolutionary, occult, ash-horns, veiled faces, obsidian rings | [Shard Concord](#the-shard--nightweb-minor-faction)'s ideological roots trace here |
 | **Drakona** | The Veskar Wards | Draconic pride, ancient rites, elemental pacts, scale-like skin | Viewed as "dangerous mystics"; [Assembly](#the-veiled-assembly) courts their wisdom |
+
+---
+
+## Sentient Species of the Island
+
+<!-- CATEGORY: LORE, NPC -->
+
+*For all NPCs, assign Community, Ethnicity/Culture, Nationality, and Species. These are orthogonal categories (and not unique to humans); most people have all of them.*
+
+*For naming, consider in this order: Community → Ethnicity/Culture → Nationality → Species (outliers exist).*
+
+*For outward appearance and behavior, consider the same four categories alongside personal history.*
+
+*The vast majority of inhabitants are human, but diversity exists.*
+
+*Only humans are common; all other ancestries are uncommon at most.*
+
+*Note: The island seems to exhibit a "dwarfism effect" for those raised here—some beings tend to grow smaller than their mainland counterparts, and the effect can become more pronounced across generations. Fully-grown arrivals from elsewhere generally keep their original size.*
+
+### Lifespans (Setting Note)
+
+No ancestry is truly long-lived in this setting. Some skew longer or shorter, but everyone is mortal on a grounded timeline.
+
+- **Longer side:** Elf, Dwarf, Galapa
+- **Shorter side:** Faerie (but see [Rejected Species](#rejected-species))
+- **Most others:** Roughly human-scale
+
+### Humans (Dominant Population)
+
+**Physical Traits:** Standard human variety, heavily influenced by cultural background.
+**Cultural Origins:** Arrive from mainland nations, bringing distinct naming conventions and traditions.
+
+<a id="galapa"></a>
+### Galapa
+
+**Physical Traits (General):** Amphibious humanoids; webbed digits and water-adapted features are common.
+**Tharros Presence:** Often found in wetland-adjacent neighborhoods, coastal labor communities, fishing crews, and river-route caravans.
+
+<a id="inferis"></a>
+### Infernis
+
+**Local term:** Many settlers still say "Inferis".
+
+**Physical Traits (General):** Humanoid; horn growths or other infernal markers are common.
+**Tharros Presence:** Commonly present where authority is weakest (frontier routes, black markets, dock crews), but also found in ordinary trades.
+
+<a id="drakona"></a>
+### Drakona
+
+**Physical Traits (General):** Scale-touched features (texture, ridges, cresting) are common.
+**Tharros Presence:** Often watched with suspicion in Syndicate zones; the [Assembly](#the-veiled-assembly) is more likely to treat them as valuable allies.
+
+<a id="katari"></a>
+### Katari
+
+**Physical Traits (General):** Feline humanoids. Tharros-raised Katari tend to be smaller than mainland Katari.
+**Tharros Presence:** Often concentrated in wayfinder caravans and route-lore networks; also present in ports as couriers, pilots, and scouts.
+
+<a id="ribbet"></a>
+### Ribbet (Rare)
+
+**Physical Traits:** Amphibious humanoids adapted to wet places; varied coloration and skin textures.
+**Tharros Presence:** Small wetland clusters exist (often away from trade roads), including a few stable poolholds that act as cultural anchors for travelers.
+
+<a id="giant-frogs"></a>
+### Giant-frogs (Extremely Rare)
+
+**Physical Traits (General):** A distinct lineage combining Giant and Ribbet traits; physically imposing amphibious folk.
+**Tharros Presence:** There was one original arriving community, and they mostly stayed together for a time. After a Syndicate-linked accident, survivors scattered into smaller, harder-to-notice clusters (see [Frogulus](#frogulus)). Tharros-raised lineages often show the island’s dwarfism effect over generations; fully grown newcomers from outside remain closer to mainland scale and become instantly notable.
+
+### Clank (Extremely Rare)
+
+**Physical Traits:** Constructed beings of metal, wood, and crystal. Variety in size and configuration. Often bear markings of their creators.
+**Tharros Presence:** So rare that most inhabitants don't even know they exist. [EFRA-7](#efra-7) may be the only one currently on the island.
+
+### Giant (Very Rare)
+
+**Physical Traits:** Beings of unusual size. Tharros-raised giants (especially across generations) tend to be smaller than mainland giants; fully grown arrivals from elsewhere generally keep their original size.
+**Tharros Presence:** The island’s conditions make “giant communities” difficult to maintain; individuals are rare and often become locally notable, while any long-term lineages tend to be scattered and remote.
+
+<a id="elves"></a>
+### Elves
+
+**Physical Traits:** Tall, slender, pointed ears. Tharros-raised elves tend to be slightly more compact than mainland elves.
+**Tharros Presence:** Scattered individuals and small clusters—often in quiet interior routes or scholar-adjacent communities. Cordyceps' origin implies at least one elven community that interpreted corruption as "natural change" (see [Cordyceps](#cordyceps)).
+
+<a id="dwarves"></a>
+### Dwarves
+
+**Physical Traits:** Short, stocky, bearded (traditionally), excellent crafters and miners.
+**Tharros Presence:** Often show up where craft, mining, or salvage matters.
+
+<a id="halflings"></a>
+### Halflings
+
+**Physical Traits:** Small (3-4 feet), nimble, often have large feet and curly hair.
+**Tharros Presence:** Often visible in service communities (inns, kitchens, caravans) because those communities travel.
+
+<a id="orcs"></a>
+### Orcs
+
+**Physical Traits:** Muscular, tusked, green or gray skin, fierce appearance.
+**Tharros Presence:** Often visible in security and heavy labor communities because those jobs recruit broadly.
+
+### Other ancestries (Present in small quantities)
+
+All ancestries below are allowed and do exist on Tharros, but they’re uncommon or rarer—most settlers can go months without seeing one.
+
+- **Goblin:** Uncommon; present in ports and hard-to-police trade lanes; often mistaken as “just another small folk” by humans who don’t know better.
+- **Faun:** Rare; more likely to be found near old groves and quiet boundary places.
+- **Firbolg:** Rare; tends to avoid large settlements.
+- **Simiah:** Uncommon; often arrive as sailors, artisans, or scholars, then settle wherever they find acceptance.
+- **Mixed Ancestry:** Exists at low levels across the island. Use it to represent two-lineage individuals without implying a large population.
+- **Fungril:** Very rare/hidden; they’re more likely to live away from human communities (deep interior, ruin-adjacent fungal networks, or secluded wet places) rather than in towns.
+
+### Rejected Species
+
+**Faerie:** Notably absent from Tharros. The island seems to actively reject their presence. If a Faerie is introduced later, it should come with strong lore for how they arrived and stayed alive and unchanged.
+
+### Transformed Beings (Unknown)
+
+**Changed:** Humans or other species altered by [Reckonings](#reckonings). Varies widely in form and sanity.
+**Hybrids:** Like [Cordyceps](#cordyceps) - beings merged with other entities (fungal, elemental, etc.).
+**Note:** These are typically unique individuals rather than established species.
+
+### NPC Creation Guidelines
+
+**For Every NPC:**
+1. **Choose Species** (humans are common; everything else is uncommon at most)
+2. **Choose Nationality** (place of origin / passport-culture; can be mixed)
+3. **Choose Ethnicity/Culture** (Nordahr/Serenei/etc; can differ from nationality)
+4. **Choose Community** (profession, settlement, caravan, temple order, dock crew, etc.)
+5. **Name the NPC** using: Community → Ethnicity/Culture → Nationality → Species
+6. **Decide outward appearance and behavior** using the same four categories + personal history
+7. **Remember island dwarfism** - this mainly shows up in those raised on Tharros, and can become more pronounced over generations
+8. **Mark Species, Nationality, Ethnicity/Culture, and Community** in the NPC Directory
+
+**Example (orthogonal categories in practice):** A **Drakona** who is a **Virelian citizen** but was raised in an **Aegeon dockside community** might have a *Virelian-style given name* and an *Aegeon-style family name*, speak with Aegeon mannerisms, and still present Drakona physical traits.
+
+**Rarity Guidelines:**
+- **Common:** Humans
+- **Uncommon (at most):** Galapa, Infernis, Drakona, Katari, Elf, Dwarf, Halfling, Orc, Goblin, Simiah
+- **Rare:** Ribbet, Faun, Firbolg, Mixed Ancestry
+- **Very Rare:** Fungril, Giant-frogs, Giants
+- **Rejected/Plot-Only:** Faerie, Clanks
 
 ---
 
@@ -488,7 +658,7 @@ The Syndicate sees Tharros as a land of potential: mines to dig, rail to lay, to
 -- *[Rhea](#rhea), herbalist in [Thistleshade](#thistleshade-assembly-stronghold)*
 
 **"They're honest, in their way. They tell you what they want, and they pay you for it. You just better not be in their way when they want it."**
--- *[Tanis](#tanis), dockhand in [Nettlehook](#nettlehook-black-market-port---nightweb-territory) Port*
+-- *[Tanis](#tanis), dockhand in [Nettlehook](#nettlehook-black-market-free-port---nightweb-presence) Port*
 
 **"Say what you will, but my sister's got a new leg thanks to their engineers. She walks now. That's not greed, that's miracle metal."**
 -- *[Daro](#daro), tavern regular in [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core)*
@@ -970,13 +1140,29 @@ Independent treasure hunters and [relic](#relics) dealers unaffiliated with any 
 
 ---
 
-### Nettlehook (Black Market Port - Nightweb Territory)
+### Nettlehook (Black Market Free Port - Nightweb Presence)
 
 <!-- CATEGORY: LOCATION, FACTION -->
 
 **Population:** ~300
-**Alignment:** Officially unaffiliated. Unofficially owned by the [Nightweb](#the-shard--nightweb-minor-faction).
+**Alignment:** Officially unaffiliated. The [Nightweb](#the-shard--nightweb-minor-faction) is present here because it's convenient--but Nettlehook is not their headquarters, and not truly "owned" by any faction.
 **Public Motto:** *"No gods. No masters. No questions."*
+
+**Readaloud (Guests):**
+Nettlehook announces itself as noise and salt: hammer-on-nail, rope against wood, gulls, shouted prices, and laughter that comes too easily. The port is a patchwork of pilings and boardwalks over brackish water, with mangroves crowding the edges and old Corsair stone half-swallowed by tide and moss. Tar-lanterns swing from crooked posts; canvas awnings and scavenged sailcloth throw shade over open tables where everything from dried fish to odd little tools is traded without ceremony. There are no banners above the docks—only blank poles, weathered signs, and the constant motion of small boats slipping in and out like they belong to nobody.
+
+**Readaloud (Locals):**
+Locals say Nettlehook is not lawless—only neutral, and stubborn about it. The port does not care which banner someone fled; it cares whether they try to raise one here. Disputes are handled fast and plain by a local council and a simple rule spoken like a prayer: everyone gets one warning, and then the docks stop being friendly. In that kind of freedom—where names are optional and questions are a choice—rumors thrive that the [Nightweb](#the-shard--nightweb-minor-faction) has eyes in every crowd; perhaps it does. But Nettlehook endures by staying unclaimed, and it will burn its own bridges before it becomes anyone's fortress.
+
+**Description (Town Style):**
+Nettlehook is built on pilings and stitched-together boardwalks in a muddy delta, more floating maze than planned town. Buildings are low, practical, and weather-beaten—salt-stained timber, tarred rope, scavenged stone, and patched canvas. The whole place feels temporary by design: stalls can vanish overnight, footbridges can be pulled up, and nothing important is ever stored in only one place.
+
+**Major Landmarks:**
+- **The Blankpole Quay**: A wide pier-plaza lined with empty banner poles and windworn warning boards—where announcements are made and disputes are settled in public.
+- **The Tideboard Market**: Long tables under layered sailcloth awnings; goods are sold in small lots, quick deals, and unlabelled bundles.
+- **Council Steps**: A raised set of stone steps reclaimed from old Corsair ruins; the nearest thing Nettlehook has to a courthouse.
+- **The Lanternwalk**: A high, narrow boardwalk strung with tar-lanterns that stays passable even at high water; night traffic funnels through here.
+- **Corsair Stonehook**: A half-collapsed black-stone mooring ring at the delta edge—older than the port, still used for quiet arrivals.
 
 **Origins:**
 - Built in a delta where old [Corsair](#corsair-clans) ruins offered mooring and secrecy.
@@ -987,6 +1173,7 @@ Independent treasure hunters and [relic](#relics) dealers unaffiliated with any 
 **Evolution:**
 - Hosts merchants, mercenaries, spies, and smugglers from every faction.
 - Everyone denies knowing the [Nightweb](#the-shard--nightweb-minor-faction) exists. Especially the [Nightweb](#the-shard--nightweb-minor-faction).
+- Quietly serves as a supply waypoint for underborne communities like [Orvane](#orvane): shaded goods, medicines, tools, and hard-to-source parts move inland by discreet couriers.
 
 **Surface Image:**
 - Bustling trade hub where anyone can do business.
@@ -994,9 +1181,9 @@ Independent treasure hunters and [relic](#relics) dealers unaffiliated with any 
 - Local council enforces a loose "don't cause trouble" code with fairness and speed.
 
 **Below the Surface:**
-- The [Nightweb](#the-shard--nightweb-minor-faction) runs everything. **Every bar, stall, and ferry has ears.**
-- "Neutrality" hides **a system of coercion and debt** worse than the [Syndicate](#the-ironbound-syndicate).
-- Rumors say **some residents don't age**, or forget their families.
+- The [Nightweb](#the-shard--nightweb-minor-faction) has eyes here, but they are **guests in a place that survives by staying unclaimed**. Their agents can be found in crowds, not on thrones.
+- Predatory lenders and would-be tyrants don't last; the local code is bluntly enforced, and the council will burn bridges to keep Nettlehook from becoming anyone's fortress.
+- Rumors say **some residents don't age**, or forget their families (Unconfirmed).
 
 **Tone:**
 - Slippery, suspicious, strangely welcoming.
@@ -1044,6 +1231,11 @@ These are known on maps or in rumors but often **uncertain, shifting, or partial
 
 **Description:**
 An underground mixed-race settlement powered by "[The Lightspire](#the-lightspire)" [relic](#relics). The relic keeps the inhabitants alive but renders them light-sensitive--a blessing and a curse intertwined.
+
+**How It Stays Hidden:**
+- Orvane's trade rarely moves "to Orvane" directly. Couriers use **staggered drop points** (sealed crates left at agreed markers, culverts, or tide-caves), with different runners handling different legs.
+- The true approaches are **dangerous and unreliable**: collapsed shafts, flooded passages, and tunnels that shift after storms or [Reckonings](#reckonings). Even honest maps go stale.
+- To most outsiders, "Orvane" is a **rumor-name**, not a destination. Factions hear about underborne buyers in places like [Nettlehook](#nettlehook-black-market-free-port---nightweb-presence), but can rarely prove a fixed entrance or a stable route worth committing forces to.
 
 **Connection:**
 [EFRA-7](#efra-7) was reactivated here and seeks a new energy source to free the inhabitants from the Lightspire's curse.
@@ -1412,7 +1604,7 @@ Legends, rumors, and unexplained phenomena whispered across Tharros.
 | ------------- | ---- | ----------- | ---------------- | ------------ |
 | **The Lighthouse at Cape Vaidari** | Legend/Location | Abandoned lighthouse. On certain nights, blinks three times--"when the sea gets hungry." Destination for [The Carved Box](#the-carved-box). Nature unknown--could be [relic](#relics) beacon, natural formation, or something else. | Cape Vaidari | [Orly](#orly)'s quest |
 | **The Bone Ring** | Mystery | Mining town gone in 3 years. Carved phrase: *"The ground listened. We stopped asking."* | Inland Tharros | Modern era warning |
-| **The Cinnamon Beast** | Folklore | Creature from [Orly](#orly-human-cleric)'s grandmother's sayings. May be myth or real predator. | Unknown | Folk wisdom, winter |
+| **The Cinnamon Beast** | Folklore | Creature from [Orly](#orly)'s grandmother's sayings. May be myth or real predator. | Unknown | Folk wisdom, winter |
 | **The Pale King** | Legend | Stone statue in Gravemire Bastion that turns to face intruders over time--without movement. | Gravemire Bastion | [Pale Colonies](#the-pale-colonies) |
 | **The Deep Pulse Reckoning** | Event | Major [Reckoning](#reckonings) at Spire Basin. No one who enters alone returns. | Spire Basin | [Reckonings](#reckonings) |
 
@@ -1612,11 +1804,11 @@ Tharros has been "discovered" and "colonized" multiple times. Each wave ended in
 | -20 | The [Veiled Assembly](#the-veiled-assembly) emerges as organized resistance. |
 | -15 | [Thistleshade](#thistleshade-assembly-stronghold) established as [Assembly](#the-veiled-assembly) refuge. |
 | -12 | Major [Reckoning](#reckonings) at [Spire Basin](#spire-basin); dozens lost. |
-| -10 | [Nettlehook](#nettlehook-black-market-port---nightweb-territory) becomes recognized black market port. |
+| -10 | [Nettlehook](#nettlehook-black-market-free-port---nightweb-presence) becomes recognized black market port. |
 | -8 | [Brotherhood](#the-remnant-brotherhood)-[Syndicate](#the-ironbound-syndicate) cooperation agreement signed. |
 | -5 | [Church](#the-church-of-the-eternal-flame) begins aggressive missionary expansion. |
 | -3 | "[The Weeping Season](#the-weeping-season)" -- three [Reckonings](#reckonings) in one month. |
-| -1 | [Nightweb](#the-shard--nightweb-minor-faction) influence in [Nettlehook](#nettlehook-black-market-port---nightweb-territory) becomes undeniable. |
+| -1 | [Nightweb](#the-shard--nightweb-minor-faction) presence in [Nettlehook](#nettlehook-black-market-free-port---nightweb-presence) becomes undeniable. |
 | Now | Factions consolidate. [Reckonings](#reckonings) may be increasing. Something is changing. |
 
 ---
@@ -1660,37 +1852,38 @@ All named characters in Tharros, from faction leaders to everyday people. Major 
 
 <!-- CATEGORY: NPC -->
 
-| Name | Type | Sex | Faction | Location | Role/Occupation | Description/Fun Fact |
-| ---- | ---- | --- | ------- | -------- | --------------- | -------------------- |
-| **[Sunstorm](#sunstorm)** | PC | M | [Assembly](#the-veiled-assembly) (loosely) | Nomadic | Katari Ranger/Wayfinder | 3' tall orange tabby; hunting the [Cinnamon Beast](#the-cinnamon-beast) |
-| **[EFRA-7](#efra-7)** | PC | -- | Seeks [Brotherhood](#the-remnant-brotherhood) | [Orvane](#orvane) | Clank Wizard construct | Seeks energy source to free [Orvane](#orvane) from [Lightspire](#the-lightspire) curse |
-| **[Orly](#orly)** | PC | F | Unaligned | Shipwreck survivor | [Galapa](#galapa) protector | Carries [The Carved Box](#the-carved-box) to [Cape Vaidari](#cape-vaidari) |
-| **[Cordyceps](#cordyceps)** | PC | -- | Unaligned | Exiled | Half-elf/fungal hybrid | Suppresses forest corruption within own body |
-| **[Magnate Theron](#magnate-theron)** | Major | M | [Syndicate](#the-ironbound-syndicate) | [Braycall Ridge](#braycall-ridge-syndicate-stronghold) | Syndicate Leader | "We didn't come here to pray--we came to build" |
-| **[High Archivist Alaric](#high-archivist-alaric)** | Major | M | [Brotherhood](#the-remnant-brotherhood) | [Aurel's Reach](#aurels-reach-brotherhood-hub) | Brotherhood Leader | From [Myrrhun](#myrrhun-cradle-of-arcane-studies-mountainous-interior); "We are here to remember" |
-| **[Maera](#maera)** | Major | F | [Assembly](#the-veiled-assembly) | [Thistleshade](#thistleshade-assembly-stronghold) | Assembly Voice | Defector; "The island called me" |
-| **[Priest-Ambassador Elyna](#priest-ambassador-elyna)** | Major | F | [Church](#the-church-of-the-eternal-flame) | [Ashlight Monastery](#ashlight-monastery-church-enclave) | Church Leader | From [Arvelorn](#arvelorn); tired eyes, voice calms storms |
-| **[Whisper](#whisper)** | Major | ? | [Nightweb](#the-shard--nightweb-minor-faction) | Unknown | Nightweb Leader(s) | Identity unconfirmed; may be title, not person |
-| Gregor | Minor | M | Pro-[Syndicate](#the-ironbound-syndicate) | [Braycall Ridge](#braycall-ridge-syndicate-stronghold) | Mill foreman | Believes in "progress through hard work" |
-| Daro | Minor | M | Pro-[Syndicate](#the-ironbound-syndicate) | [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core) | Tavern regular | Sister got prosthetic leg from Syndicate |
-| Old Lenne | Minor | F | Anti-[Syndicate](#the-ironbound-syndicate) | Unknown | Retired miner | "They take more than they give" |
-| Calia | Minor | F | [Brotherhood](#the-remnant-brotherhood)-adjacent | Tharros interior | Local guide | Worked multiple Brotherhood expeditions |
-| Miran | Minor | M | Anti-[Brotherhood](#the-remnant-brotherhood) | Former homestead | Displaced settler | Lost home to excavation claim |
-| Tarel | Minor | M | [Brotherhood](#the-remnant-brotherhood)-adjacent | Northern coast | Fisher | Works with survey crews for pay |
-| Bennet | Minor | M | Anti-[Brotherhood](#the-remnant-brotherhood) | [Aurel's Reach](#aurels-reach-brotherhood-hub) area | Scholar | Denied access to research |
-| Nina | Minor | F | Pro-[Brotherhood](#the-remnant-brotherhood) | Unknown | Merchant widow | Child received Brotherhood education |
-| Rhea | Minor | F | [Assembly](#the-veiled-assembly) | [Thistleshade](#thistleshade-assembly-stronghold) | Herbalist | Critical of environmental exploitation |
-| Yarin | Minor | M | [Assembly](#the-veiled-assembly) sympathizer | [Marrowwood](#marrowwood) border | Farmer | Quiet Assembly supporter |
-| Ilso | Minor | M | Anti-[Assembly](#the-veiled-assembly) | Abandoned hamlet | Refugee | Witnessed Assembly methods firsthand |
-| Marda | Minor | F | Neutral | Trade routes | Courier | Finds Assembly "strange but honest" |
-| Kerrik | Minor | M | Ex-[Brotherhood](#the-remnant-brotherhood) | Unknown | Former assistant | Considers Assembly stubborn but principled |
-| Orla | Minor | F | [Assembly](#the-veiled-assembly)-adjacent | [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core) outskirts | Settler | Received help from Assembly midwives |
-| Verra | Minor | F | Pro-[Church](#the-church-of-the-eternal-flame) | Unknown | Blacksmith's wife | Grateful for Church healing |
-| Sarth | Minor | M | Ex-[Assembly](#the-veiled-assembly) | Unknown | -- | Thinks Church is "too soft" |
-| Rund | Minor | M | [Church](#the-church-of-the-eternal-flame) | [Ashlight Monastery](#ashlight-monastery-church-enclave) | Reformed guard | Ex-Syndicate, now serves Priest Elyna |
-| Jara | Minor | F | Pro-[Church](#the-church-of-the-eternal-flame) | [Ember's Hollow](#embers-hollow) | Teacher | Believes in Church convictions |
-| Hess | Minor | M | Wary of [Church](#the-church-of-the-eternal-flame) | Wandering | Bard | Has witnessed the Church's darker side |
-| Tanis | Minor | M | [Nightweb](#the-shard--nightweb-minor-faction)-adjacent | [Nettlehook](#nettlehook-black-market-port---nightweb-territory) | Dockhand | Appreciates Syndicate honesty about motives |
+| Name | Type | Sex | Species | Nationality | Ethnicity/Culture | Community | Faction | Location | Role/Occupation | Description/Fun Fact |
+| ---- | ---- | --- | ------- | ----------- | ---------------- | --------- | ------- | -------- | --------------- | -------------------- |
+| **[Sunstorm](#sunstorm)** | PC | M | Katari | — | Caravan Katari | Wayfinder caravan | [Assembly](#the-veiled-assembly) (loosely) | Nomadic | Katari Ranger/Wayfinder | 3' tall orange tabby; hunting the [Cinnamon Beast](#the-cinnamon-beast) |
+| **[EFRA-7](#efra-7)** | PC | M | Clank | — | — | Wandering construct | Seeks [Brotherhood](#the-remnant-brotherhood) | [Orvane](#orvane) | Clank Wizard construct | Seeks energy source to free [Orvane](#orvane) from [Lightspire](#the-lightspire) curse |
+| **[Orly](#orly)** | PC | M | Galapa | Galari Shoals | Shoals Galapa | Lost coastal village | Unaligned | Shipwreck survivor | [Galapa](#galapa) protector | Carries [The Carved Box](#the-carved-box) to [Cape Vaidari](#cape-vaidari) |
+| **[Cordyceps](#cordyceps)** | PC | M | Elf (Transformed) | — | Forest-elf enclave | Exiled outcast | Unaligned | Exiled | Wanderer (self-healing) | Suppresses forest corruption within own body |
+| **[Frogulus](#frogulus)** | PC | M | Giant-frog (Giant/Ribbet) | Tharros | Ribbet poolhold | Nettlehook dockside | Unaligned; Anti-[Syndicate](#the-ironbound-syndicate); Pro-[Church](#the-church-of-the-eternal-flame-minor-faction) | [Nettlehook](#nettlehook-black-market-free-port---nightweb-presence) | Giant-frog warrior | Displaced by Syndicate "progress"; found Orly washed ashore |
+| **[Magnate Theron](#magnate-theron)** | Major | M | Human | Virelia | Serenei | Virelian industrial elite | [Syndicate](#the-ironbound-syndicate) | [Braycall Ridge](#braycall-ridge-syndicate-stronghold) | Syndicate Leader | "We didn't come here to pray--we came to build" |
+| **[High Archivist Alaric](#high-archivist-alaric)** | Major | M | Human | Myrrhun | Tharain | Brotherhood senior scholars | [Brotherhood](#the-remnant-brotherhood) | [Aurel's Reach](#aurels-reach-brotherhood-hub) | Brotherhood Leader | From [Myrrhun](#myrrhun-cradle-of-arcane-studies-mountainous-interior); "We are here to remember" |
+| **[Maera](#maera)** | Major | F | Human | Virelia | Serenei | Assembly leadership | [Assembly](#the-veiled-assembly) | [Thistleshade](#thistleshade-assembly-stronghold) | Assembly Voice | Defector; "The island called me" |
+| **[Priest-Ambassador Elyna](#priest-ambassador-elyna)** | Major | F | Human | Arvelorn | Arvelorn | Church hierarchy | [Church](#the-church-of-the-eternal-flame) | [Ashlight Monastery](#ashlight-monastery-church-enclave) | Church Leader | From [Arvelorn](#arvelorn); tired eyes, voice calms storms |
+| **[Whisper](#whisper)** | Major | ? | Unknown | Unknown | Unknown | Nightweb | [Nightweb](#the-shard--nightweb-minor-faction) | Unknown | Nightweb Leader(s) | Identity unconfirmed; may be title, not person |
+| Gregor | Minor | M | Human | Korralt | Panthyr | Braycall mill workers | Pro-[Syndicate](#the-ironbound-syndicate) | [Braycall Ridge](#braycall-ridge-syndicate-stronghold) | Mill foreman | Believes in "progress through hard work" |
+| Daro | Minor | M | Human | Virelia | Serenei | Marrowhold tavern crowd | Pro-[Syndicate](#the-ironbound-syndicate) | [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core) | Tavern regular | Sister got prosthetic leg from Syndicate |
+| Old Lenne | Minor | F | Human | Skaldmere | Nordahr | Retired miners | Anti-[Syndicate](#the-ironbound-syndicate) | Unknown | Retired miner | "They take more than they give" |
+| Calia | Minor | F | Human | Korralt | Panthyr | Interior guides | [Brotherhood](#the-remnant-brotherhood)-adjacent | Tharros interior | Local guide | Worked multiple Brotherhood expeditions |
+| Miran | Minor | M | Human | Virelia | Serenei | Displaced settlers | Anti-[Brotherhood](#the-remnant-brotherhood) | Former homestead | Displaced settler | Lost home to excavation claim |
+| Tarel | Minor | M | Galapa | Galari Shoals | Shoals Galapa | Northern coast fishers | [Brotherhood](#the-remnant-brotherhood)-adjacent | Northern coast | Fisher | Works with survey crews for pay |
+| Bennet | Minor | M | Human | Myrrhun | Tharain | Aurel's Reach scholars | Anti-[Brotherhood](#the-remnant-brotherhood) | [Aurel's Reach](#aurels-reach-brotherhood-hub) area | Scholar | Denied access to research |
+| Nina | Minor | F | Human | Virelia | Serenei | Merchant widows | Pro-[Brotherhood](#the-remnant-brotherhood) | Unknown | Merchant widow | Child received Brotherhood education |
+| Rhea | Minor | F | Drakona | Veskar Wards | Veskar | Thistleshade herbalists | [Assembly](#the-veiled-assembly) | [Thistleshade](#thistleshade-assembly-stronghold) | Herbalist | Critical of environmental exploitation |
+| Yarin | Minor | M | Human | Kaelthen | Kaelthen | Border farmers | [Assembly](#the-veiled-assembly) sympathizer | [Marrowwood](#marrowwood) border | Farmer | Quiet Assembly supporter |
+| Ilso | Minor | M | Human | Korralt | Panthyr | Refugee survivors | Anti-[Assembly](#the-veiled-assembly) | Abandoned hamlet | Refugee | Witnessed Assembly methods firsthand |
+| Marda | Minor | F | Human | — | Mixed | Courier network | Neutral | Trade routes | Courier | Finds Assembly "strange but honest" |
+| Kerrik | Minor | M | Human | Myrrhun | Tharain | Disgraced assistants | Ex-[Brotherhood](#the-remnant-brotherhood) | Unknown | Former assistant | Considers Assembly stubborn but principled |
+| Orla | Minor | F | Human | Korralt | Panthyr | Outskirt settlers | [Assembly](#the-veiled-assembly)-adjacent | [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core) outskirts | Settler | Received help from Assembly midwives |
+| Verra | Minor | F | Dwarf | Korralt | Korralt Dwarven | Blacksmith family | Pro-[Church](#the-church-of-the-eternal-flame) | Unknown | Blacksmith's wife | Grateful for Church healing |
+| Sarth | Minor | M | Human | Kaelthen | Kaelthen | Former Assembly | Ex-[Assembly](#the-veiled-assembly) | Unknown | -- | Thinks Church is "too soft" |
+| Rund | Minor | M | Human | Skaldmere | Nordahr | Ashlight guards | [Church](#the-church-of-the-eternal-flame) | [Ashlight Monastery](#ashlight-monastery-church-enclave) | Reformed guard | Ex-Syndicate, now serves Priest Elyna |
+| Jara | Minor | F | Human | Arvelorn | Arvelorn | Ember's Hollow teachers | Pro-[Church](#the-church-of-the-eternal-flame) | [Ember's Hollow](#embers-hollow) | Teacher | Believes in Church convictions |
+| Hess | Minor | M | Mixed Ancestry (Human/Elf) | — | Mixed | Wandering performers | Wary of [Church](#the-church-of-the-eternal-flame) | Wandering | Bard | Has witnessed the Church's darker side |
+| Tanis | Minor | M | Infernis | Hollow Marches | Infernis | Nettlehook dockhands | [Nightweb](#the-shard--nightweb-minor-faction)-adjacent | [Nettlehook](#nettlehook-black-market-free-port---nightweb-presence) | Dockhand | Appreciates Syndicate honesty about motives |
 
 ---
 
@@ -1780,41 +1973,3 @@ Roll or choose when a Reckoning occurs:
 8. **The Hollowed Child**: A Changed child was found near Marrowhold. It speaks prophecy. Everyone wants custody.
 
 ---
-
-# Appendix: Quick Reference
-
-## Category Legend
-
-The following categories are used throughout this document to help AI tools and readers quickly identify content types:
-
-- **PLAYER-CHARACTER**: Player character information
-- **FACTION**: Faction descriptions and politics
-- **NPC**: Named non-player characters
-- **LORE**: World lore and background
-- **LOCATION**: Places and settlements
-- **CREATURE**: Monsters and wildlife
-- **ITEM**: Artifacts and equipment
-- **MECHANIC**: Game rules and systems
-- **CULTURE**: Cultural information
-- **HOOK**: Adventure seeds and plot hooks
-- **SECRET**: GM-only information
-- **HISTORY**: Timeline and historical events
-
----
-
-## Document Version
-
-**Merged from:**
-- Character Notes.md
-- Tharros - GM Notes.md
-- Tharros - Player Handout.md
-
-**Merge Notes:**
-- All duplicate content consolidated
-- Unicode characters removed
-- Proper nouns given dedicated sections
-- Content organized into multi-tiered chapters
-
----
-
-*End of Tharros Complete Guide*
