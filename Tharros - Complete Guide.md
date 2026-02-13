@@ -17,6 +17,78 @@ SECRET: GM-only information not for players
 
 ---
 
+## Table of Contents
+
+### [Part I: Introduction](#part-i-introduction)
+- [Welcome to Tharros](#welcome-to-tharros)
+
+### [Part II: Player Characters](#part-ii-player-characters)
+- [Sunstorm](#sunstorm) — [The Cinnamon Beast](#the-cinnamon-beast)
+- [EFRA-7](#efra-7) — [Orvane](#orvane) | [The Lightspire](#the-lightspire)
+- [Orly](#orly) — [The Carved Box](#the-carved-box) | [The Lighthouse at Cape Vaidari](#the-lighthouse-at-cape-vaidari)
+- [Cordyceps](#cordyceps)
+
+### [Part III: The Mainland](#part-iii-the-mainland)
+- [Fluid Setting Details](#fluid-setting-details)
+- [Major Cultures](#major-cultures) — Nordahr | Serenei | Panthyr | Aegeon | Veskar | Tharain
+- [Races](#races) — [Non-Human Races on Tharros](#non-human-races-on-tharros)
+- [Major Nations](#major-nations) — Virelia | Korralt | Skaldmere | Myrrhun | Veskar Wards | Galari Shoals | Hollow Marches
+- [View of Tharros (From the Mainland)](#view-of-tharros-from-the-mainland)
+
+### [Part IV: Factions](#part-iv-factions)
+- [The Ironbound Syndicate](#the-ironbound-syndicate) — [Magnate Theron](#magnate-theron)
+- [The Remnant Brotherhood](#the-remnant-brotherhood) — [High Archivist Alaric](#high-archivist-alaric)
+- [The Veiled Assembly](#the-veiled-assembly) — [Maera](#maera) | [Assembly's True Nature (GM Secret)](#the-assemblys-true-nature-gm-secret)
+- [The Church of the Eternal Flame](#the-church-of-the-eternal-flame-minor-faction) — [Priest-Ambassador Elyna](#priest-ambassador-elyna)
+- [The Shard / Nightweb](#the-shard--nightweb-minor-faction) — [Whisper](#whisper)
+- [Minor Factions and Gangs](#minor-factions-and-gangs)
+
+### [Part V: Locations](#part-v-locations)
+- [Major Settlements](#major-settlements) — [Marrowhold](#marrowhold-first-and-central-settlement---neutral-core)
+- [Minor Settlements and Districts](#minor-settlements-and-districts)
+  - [Braycall Ridge](#braycall-ridge-syndicate-stronghold) | [Aurel's Reach](#aurels-reach-brotherhood-hub) | [Thistleshade](#thistleshade-assembly-stronghold) | [Ashlight Monastery](#ashlight-monastery-church-enclave) | [Nettlehook](#nettlehook-black-market-port---nightweb-territory)
+- [Key Locations and Ruins](#key-locations-and-ruins)
+- [Failed Settlements](#failed-settlements-remnants-to-discover) — Pale Colonies | Flame Disciples | Silent Trade Enclave | The Fledges
+
+### [Part VI: Lore & Background](#part-vi-lore--background)
+- [Relics](#relics) — [Relic Types](#relic-types)
+- [Ancestors / The Precursors](#ancestors--the-precursors)
+- [Reckonings](#reckonings)
+- [Magic](#magic)
+- [Divinity](#divinity) — [Faiths and Cults by Culture](#faiths-and-cults-by-culture)
+- [The Yearning](#the-yearning)
+- [Flying on Tharros](#flying-on-tharros)
+- [Origin of Races](#origin-of-races)
+- [Hypotheses About Magic and Relics](#hypotheses-about-magic-and-relics)
+- [Other Stories and Mysteries](#other-stories-and-mysteries)
+
+### [Part VII: Creatures & Monsters](#part-vii-creatures--monsters)
+- [Touched / Changed / Forgotten](#touched--changed--forgotten) — Shimmerglass Stag | The Hollowed | Mireling | Voidling
+- [Relic-Born Beasts](#relic-born-beasts) — Gloamwing | Fluxwarden | Echovore | Weeping Pillar
+- [Specific Creature Entries](#specific-creature-entries)
+- [The Unknowable](#the-unknowable) — Singing Spine | Watcher in the Fog | Drowned Choir | Garden That Eats
+
+### [Part VIII: History](#part-viii-history)
+- [Settlement Timeline](#settlement-timeline) — Precursors | Pale Colonies | Flame Disciples | Silent Trade Enclave | Current Settlers
+- [Recent History Timeline](#recent-history-timeline)
+- [The Reckonings: A Pattern?](#the-reckonings-a-pattern)
+- [The Weeping Season](#the-weeping-season)
+
+### [Part IX: NPCs](#part-ix-npcs)
+- [Complete NPC Directory](#complete-npc-directory)
+
+### [Part X: Mechanics & GM Tools](#part-x-mechanics--gm-tools)
+- [Faction Reputation System](#faction-reputation-system)
+- [Reckoning Effects Table](#reckoning-effects-table)
+- [Random Encounter Seeds](#random-encounter-seeds)
+- [Adventure Hooks](#adventure-hooks)
+
+### [Appendix: Quick Reference](#appendix-quick-reference)
+- [Category Legend](#category-legend)
+- [Document Version](#document-version)
+
+---
+
 <!-- CATEGORY: LORE, HOOK -->
 # Part I: Introduction
 
