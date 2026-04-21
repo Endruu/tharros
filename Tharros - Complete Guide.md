@@ -2173,7 +2173,7 @@ Some triggers are **fixed -1** (not tied to a roll)—for example: a fight break
 - **Failure with Fear:** you stumble into the worst of it; mark a Stress and take disadvantage on your first crater action roll involving sight/breath.
 
 2) **The Not-Quite-Fire**
-- “Burnt” vines ooze faintly luminescent sap; touching it leaves a cold numbness.
+- “Burnt” vines ooze faintly [luminescent sap](); touching it leaves a cold numbness.
 - **Roll prompt:** Instinct to spot the safe route, Finesse to cut through without contact, or Strength to clear a path fast.
 - This roll is tied to **Smoke Window**.
 - **Success with Hope:** you get through without contact; Nikolos keeps his hands to himself.
@@ -2203,47 +2203,6 @@ Some triggers are **fixed -1** (not tied to a roll)—for example: a fight break
 - **Success with Fear:** protocol holds, but it costs focus; at the crater, one PC can ignore the first Stress *or* gain advantage on the first Presence Reaction roll against a quiet-ring effect.
 - **Failure with Hope:** protocol breaks under pressure; no crater benefit.
 - **Failure with Fear:** protocol breaks and voices rise; no crater benefit.
-
-5) **Tripwire Thicket (avoidable fight; best outcome is no combat)**
-- A sagging line of twine and bone-charms crosses the path—someone’s crude alarm, half-swallowed by vines.
-- **Choice:** bypass it quietly (best), disarm it, or barrel through.
-- **Roll prompt:** Instinct to spot the *real* trigger line, Finesse to cut/untie without noise, or Agility to reroute the group through tight brush.
-- This roll is tied to **The Stalker Closes**.
-- **Success (Hope or Fear):** you bypass/disarm; no fight.
-- **Failure (Hope or Fear):** you trigger it; run a fast jungle fight. After the fight, tick down **Smoke Window** by 1 (time lost).
-  - **Quick fight (Tier 1): “Brush-Rush”**
-    - **Foes:** 3× Thicket Skirmisher (Minion) + 1× Thicket Brute (Brute). (Scale to 2/4 minions based on table size.)
-    - **Terrain:** tight brush (Hard to move through), hanging vines (can Restrict), slick mud (prone/slip on a bad miss).
-    - **Opening:** the alarm rattles; the minions burst from two sides to split the party while the brute hits whoever looks slowest.
-    - **Enemy tactics:** minions harry and disengage into cover; the brute tries to pin one PC in place (grapple/restrain style).
-    - **PC win condition:** drive them off (drop the brute or scatter the minions) OR break line of sight and escape for 1 full round.
-    - **GM pressure:** if the PCs use loud magic or shouted commands, also tick down **The Stalker Closes** by 1.
-
-    THICKET SKIRMISHER
-    Tier 1 Minion
-    A half-seen jungle ambusher—quick hands, sharp tools, and a habit of striking from cover.
-    Motives & Tactics: Split the party, hit-and-fade, punish the isolated
-
-    Difficulty: 11 | HP: 2 | Stress: 1
-    ATK: +1 | Slash/Club: Close | 1d6+1 phy
-
-    FEATURES
-    Hit and Fade - Reaction: After the Skirmisher hits, it can shift to Near range into cover.
-
-    Tripwire Training - Passive: While in brush/cover, the Skirmisher has advantage on its first attack roll each scene.
-
-    THICKET BRUTE
-    Tier 1 Brute
-    A heavier attacker that doesn’t chase—just crashes into the nearest problem and holds it there.
-    Motives & Tactics: Pin, punish, protect the escape route
-
-    Difficulty: 12 | Thresholds: 5/10 | HP: 6 | Stress: 2
-    ATK: +1 | Shoulder-Check: Very Close | 1d8+2 phy
-
-    FEATURES
-    Pin to the Ground - Action: On a hit, you can mark a Stress to make the target Restrained until freed with a successful Strength or Finesse roll.
-
-    Unyielding - Passive: The first time the Brute would be moved against its will, ignore it.
 
 6) **The Stalker (Echovore whelp)**
 - Something hungry for sound shadows you: not a beast in the brush, but an **absence** that drifts toward raised voices.
